@@ -3,6 +3,7 @@ dash
 ipykernel
 ipywidgets
 jupyter
+jupyterlab
 matplotlib
 mysql-connector-python
 numpy
@@ -19,3 +20,4 @@ sidetable
 sqlalchemy
 wget
 wquantiles
+python-dotenv
