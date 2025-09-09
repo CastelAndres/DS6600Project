@@ -6,7 +6,6 @@ COPY requirements.txt requirements.txt
 
 RUN pip install -r requirements.txt
 
-ENV secretpassword=dontstealthispassword
 
 WORKDIR /DS6600Project
 
