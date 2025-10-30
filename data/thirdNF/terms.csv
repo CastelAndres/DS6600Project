@@ -1,0 +1,3258 @@
+bioguide_id,chamber,congress,stateCode,startYear,endYear,district
+R000575,House of Representatives,108,AL,2003,2005,3.0
+R000575,House of Representatives,109,AL,2005,2007,3.0
+R000575,House of Representatives,110,AL,2007,2009,3.0
+R000575,House of Representatives,111,AL,2009,2011,3.0
+R000575,House of Representatives,112,AL,2011,2013,3.0
+R000575,House of Representatives,113,AL,2013,2015,3.0
+R000575,House of Representatives,114,AL,2015,2017,3.0
+R000575,House of Representatives,115,AL,2017,2019,3.0
+R000575,House of Representatives,116,AL,2019,2021,3.0
+R000575,House of Representatives,117,AL,2021,2023,3.0
+R000575,House of Representatives,118,AL,2023,2025,3.0
+R000575,House of Representatives,119,AL,2025,2027,3.0
+S001185,House of Representatives,112,AL,2011,2013,7.0
+S001185,House of Representatives,113,AL,2013,2015,7.0
+S001185,House of Representatives,114,AL,2015,2017,7.0
+S001185,House of Representatives,115,AL,2017,2019,7.0
+S001185,House of Representatives,116,AL,2019,2021,7.0
+S001185,House of Representatives,117,AL,2021,2023,7.0
+S001185,House of Representatives,118,AL,2023,2025,7.0
+S001185,House of Representatives,119,AL,2025,2027,7.0
+P000609,House of Representatives,114,AL,2015,2017,6.0
+P000609,House of Representatives,115,AL,2017,2019,6.0
+P000609,House of Representatives,116,AL,2019,2021,6.0
+P000609,House of Representatives,117,AL,2021,2023,6.0
+P000609,House of Representatives,118,AL,2023,2025,6.0
+P000609,House of Representatives,119,AL,2025,2027,6.0
+M001212,House of Representatives,117,AL,2021,2023,2.0
+M001212,House of Representatives,118,AL,2023,2025,2.0
+M001212,House of Representatives,119,AL,2025,2027,1.0
+S001220,House of Representatives,118,AL,2023,2025,5.0
+S001220,House of Representatives,119,AL,2025,2027,5.0
+F000481,House of Representatives,119,AL,2025,2027,2.0
+A000055,House of Representatives,105,AL,1997,1999,4.0
+A000055,House of Representatives,106,AL,1999,2001,4.0
+A000055,House of Representatives,107,AL,2001,2003,4.0
+A000055,House of Representatives,108,AL,2003,2005,4.0
+A000055,House of Representatives,109,AL,2005,2007,4.0
+A000055,House of Representatives,110,AL,2007,2009,4.0
+A000055,House of Representatives,111,AL,2009,2011,4.0
+A000055,House of Representatives,112,AL,2011,2013,4.0
+A000055,House of Representatives,113,AL,2013,2015,4.0
+A000055,House of Representatives,114,AL,2015,2017,4.0
+A000055,House of Representatives,115,AL,2017,2019,4.0
+A000055,House of Representatives,116,AL,2019,2021,4.0
+A000055,House of Representatives,117,AL,2021,2023,4.0
+A000055,House of Representatives,118,AL,2023,2025,4.0
+A000055,House of Representatives,119,AL,2025,2027,4.0
+B001323,House of Representatives,119,AK,2025,2027,
+R000600,House of Representatives,114,AS,2015,2017,
+R000600,House of Representatives,115,AS,2017,2019,
+R000600,House of Representatives,116,AS,2019,2021,
+R000600,House of Representatives,117,AS,2021,2023,
+R000600,House of Representatives,118,AS,2023,2025,
+R000600,House of Representatives,119,AS,2025,2027,
+G000551,House of Representatives,108,AZ,2003,2005,7.0
+G000551,House of Representatives,109,AZ,2005,2007,7.0
+G000551,House of Representatives,110,AZ,2007,2009,7.0
+G000551,House of Representatives,111,AZ,2009,2011,7.0
+G000551,House of Representatives,112,AZ,2011,2013,7.0
+G000551,House of Representatives,113,AZ,2013,2015,3.0
+G000551,House of Representatives,114,AZ,2015,2017,3.0
+G000551,House of Representatives,115,AZ,2017,2019,3.0
+G000551,House of Representatives,116,AZ,2019,2021,3.0
+G000551,House of Representatives,117,AZ,2021,2023,3.0
+G000551,House of Representatives,118,AZ,2023,2025,7.0
+G000551,House of Representatives,119,AZ,2025,2025,7.0
+G000565,House of Representatives,112,AZ,2011,2013,1.0
+G000565,House of Representatives,113,AZ,2013,2015,4.0
+G000565,House of Representatives,114,AZ,2015,2017,4.0
+G000565,House of Representatives,115,AZ,2017,2019,4.0
+G000565,House of Representatives,116,AZ,2019,2021,4.0
+G000565,House of Representatives,117,AZ,2021,2023,4.0
+G000565,House of Representatives,118,AZ,2023,2025,9.0
+G000565,House of Representatives,119,AZ,2025,2027,9.0
+S001183,House of Representatives,112,AZ,2011,2013,5.0
+S001183,House of Representatives,113,AZ,2013,2015,6.0
+S001183,House of Representatives,114,AZ,2015,2017,6.0
+S001183,House of Representatives,115,AZ,2017,2019,6.0
+S001183,House of Representatives,116,AZ,2019,2021,6.0
+S001183,House of Representatives,117,AZ,2021,2023,6.0
+S001183,House of Representatives,118,AZ,2023,2025,1.0
+S001183,House of Representatives,119,AZ,2025,2027,1.0
+B001302,House of Representatives,115,AZ,2017,2019,5.0
+B001302,House of Representatives,116,AZ,2019,2021,5.0
+B001302,House of Representatives,117,AZ,2021,2023,5.0
+B001302,House of Representatives,118,AZ,2023,2025,5.0
+B001302,House of Representatives,119,AZ,2025,2027,5.0
+S001211,House of Representatives,116,AZ,2019,2021,9.0
+S001211,House of Representatives,117,AZ,2021,2023,9.0
+S001211,House of Representatives,118,AZ,2023,2025,4.0
+S001211,House of Representatives,119,AZ,2025,2027,4.0
+C001133,House of Representatives,118,AZ,2023,2025,6.0
+C001133,House of Representatives,119,AZ,2025,2027,6.0
+C001132,House of Representatives,118,AZ,2023,2025,2.0
+C001132,House of Representatives,119,AZ,2025,2027,2.0
+A000381,House of Representatives,119,AZ,2025,2027,3.0
+H001098,House of Representatives,119,AZ,2025,2027,8.0
+C001087,House of Representatives,112,AR,2011,2013,1.0
+C001087,House of Representatives,113,AR,2013,2015,1.0
+C001087,House of Representatives,114,AR,2015,2017,1.0
+C001087,House of Representatives,115,AR,2017,2019,1.0
+C001087,House of Representatives,116,AR,2019,2021,1.0
+C001087,House of Representatives,117,AR,2021,2023,1.0
+C001087,House of Representatives,118,AR,2023,2025,1.0
+C001087,House of Representatives,119,AR,2025,2027,1.0
+W000809,House of Representatives,112,AR,2011,2013,3.0
+W000809,House of Representatives,113,AR,2013,2015,3.0
+W000809,House of Representatives,114,AR,2015,2017,3.0
+W000809,House of Representatives,115,AR,2017,2019,3.0
+W000809,House of Representatives,116,AR,2019,2021,3.0
+W000809,House of Representatives,117,AR,2021,2023,3.0
+W000809,House of Representatives,118,AR,2023,2025,3.0
+W000809,House of Representatives,119,AR,2025,2027,3.0
+H001072,House of Representatives,114,AR,2015,2017,2.0
+H001072,House of Representatives,115,AR,2017,2019,2.0
+H001072,House of Representatives,116,AR,2019,2021,2.0
+H001072,House of Representatives,117,AR,2021,2023,2.0
+H001072,House of Representatives,118,AR,2023,2025,2.0
+H001072,House of Representatives,119,AR,2025,2027,2.0
+W000821,House of Representatives,114,AR,2015,2017,4.0
+W000821,House of Representatives,115,AR,2017,2019,4.0
+W000821,House of Representatives,116,AR,2019,2021,4.0
+W000821,House of Representatives,117,AR,2021,2023,4.0
+W000821,House of Representatives,118,AR,2023,2025,4.0
+W000821,House of Representatives,119,AR,2025,2027,4.0
+P000197,House of Representatives,100,CA,1987,1989,5.0
+P000197,House of Representatives,101,CA,1989,1991,5.0
+P000197,House of Representatives,102,CA,1991,1993,5.0
+P000197,House of Representatives,103,CA,1993,1995,8.0
+P000197,House of Representatives,104,CA,1995,1997,8.0
+P000197,House of Representatives,105,CA,1997,1999,8.0
+P000197,House of Representatives,106,CA,1999,2001,8.0
+P000197,House of Representatives,107,CA,2001,2003,8.0
+P000197,House of Representatives,108,CA,2003,2005,8.0
+P000197,House of Representatives,109,CA,2005,2007,8.0
+P000197,House of Representatives,110,CA,2007,2009,8.0
+P000197,House of Representatives,111,CA,2009,2011,8.0
+P000197,House of Representatives,112,CA,2011,2013,8.0
+P000197,House of Representatives,113,CA,2013,2015,12.0
+P000197,House of Representatives,114,CA,2015,2017,12.0
+P000197,House of Representatives,115,CA,2017,2019,12.0
+P000197,House of Representatives,116,CA,2019,2021,12.0
+P000197,House of Representatives,117,CA,2021,2023,12.0
+P000197,House of Representatives,118,CA,2023,2025,11.0
+P000197,House of Representatives,119,CA,2025,2027,11.0
+I000056,House of Representatives,107,CA,2001,2003,48.0
+I000056,House of Representatives,108,CA,2003,2005,49.0
+I000056,House of Representatives,109,CA,2005,2007,49.0
+I000056,House of Representatives,110,CA,2007,2009,49.0
+I000056,House of Representatives,111,CA,2009,2011,49.0
+I000056,House of Representatives,112,CA,2011,2013,49.0
+I000056,House of Representatives,113,CA,2013,2015,49.0
+I000056,House of Representatives,114,CA,2015,2017,49.0
+I000056,House of Representatives,115,CA,2017,2019,49.0
+I000056,House of Representatives,117,CA,2021,2023,50.0
+I000056,House of Representatives,118,CA,2023,2025,48.0
+I000056,House of Representatives,119,CA,2025,2027,48.0
+S001156,House of Representatives,108,CA,2003,2005,39.0
+S001156,House of Representatives,109,CA,2005,2007,39.0
+S001156,House of Representatives,110,CA,2007,2009,39.0
+S001156,House of Representatives,111,CA,2009,2011,39.0
+S001156,House of Representatives,112,CA,2011,2013,39.0
+S001156,House of Representatives,113,CA,2013,2015,38.0
+S001156,House of Representatives,114,CA,2015,2017,38.0
+S001156,House of Representatives,115,CA,2017,2019,38.0
+S001156,House of Representatives,116,CA,2019,2021,38.0
+S001156,House of Representatives,117,CA,2021,2023,38.0
+S001156,House of Representatives,118,CA,2023,2025,38.0
+S001156,House of Representatives,119,CA,2025,2027,38.0
+C001059,House of Representatives,109,CA,2005,2007,20.0
+C001059,House of Representatives,110,CA,2007,2009,20.0
+C001059,House of Representatives,111,CA,2009,2011,20.0
+C001059,House of Representatives,112,CA,2011,2013,20.0
+C001059,House of Representatives,113,CA,2013,2015,16.0
+C001059,House of Representatives,114,CA,2015,2017,16.0
+C001059,House of Representatives,115,CA,2017,2019,16.0
+C001059,House of Representatives,116,CA,2019,2021,16.0
+C001059,House of Representatives,117,CA,2021,2023,16.0
+C001059,House of Representatives,118,CA,2023,2025,21.0
+C001059,House of Representatives,119,CA,2025,2027,21.0
+M001163,House of Representatives,109,CA,2005,2007,5.0
+M001163,House of Representatives,110,CA,2007,2009,5.0
+M001163,House of Representatives,111,CA,2009,2011,5.0
+M001163,House of Representatives,112,CA,2011,2013,5.0
+M001163,House of Representatives,113,CA,2013,2015,6.0
+M001163,House of Representatives,114,CA,2015,2017,6.0
+M001163,House of Representatives,115,CA,2017,2019,6.0
+M001163,House of Representatives,116,CA,2019,2021,6.0
+M001163,House of Representatives,117,CA,2021,2023,6.0
+M001163,House of Representatives,118,CA,2023,2025,7.0
+M001163,House of Representatives,119,CA,2025,2027,7.0
+M001177,House of Representatives,111,CA,2009,2011,4.0
+M001177,House of Representatives,112,CA,2011,2013,4.0
+M001177,House of Representatives,113,CA,2013,2015,4.0
+M001177,House of Representatives,114,CA,2015,2017,4.0
+M001177,House of Representatives,115,CA,2017,2019,4.0
+M001177,House of Representatives,116,CA,2019,2021,4.0
+M001177,House of Representatives,117,CA,2021,2023,4.0
+M001177,House of Representatives,118,CA,2023,2025,5.0
+M001177,House of Representatives,119,CA,2025,2027,5.0
+C001080,House of Representatives,111,CA,2009,2011,32.0
+C001080,House of Representatives,112,CA,2011,2013,32.0
+C001080,House of Representatives,113,CA,2013,2015,27.0
+C001080,House of Representatives,114,CA,2015,2017,27.0
+C001080,House of Representatives,115,CA,2017,2019,27.0
+C001080,House of Representatives,116,CA,2019,2021,27.0
+C001080,House of Representatives,117,CA,2021,2023,27.0
+C001080,House of Representatives,118,CA,2023,2025,28.0
+C001080,House of Representatives,119,CA,2025,2027,28.0
+G000559,House of Representatives,111,CA,2009,2011,10.0
+G000559,House of Representatives,112,CA,2011,2013,10.0
+G000559,House of Representatives,113,CA,2013,2015,3.0
+G000559,House of Representatives,114,CA,2015,2017,3.0
+G000559,House of Representatives,115,CA,2017,2019,3.0
+G000559,House of Representatives,116,CA,2019,2021,3.0
+G000559,House of Representatives,117,CA,2021,2023,3.0
+G000559,House of Representatives,118,CA,2023,2025,8.0
+G000559,House of Representatives,119,CA,2025,2027,8.0
+L000578,House of Representatives,113,CA,2013,2015,1.0
+L000578,House of Representatives,114,CA,2015,2017,1.0
+L000578,House of Representatives,115,CA,2017,2019,1.0
+L000578,House of Representatives,116,CA,2019,2021,1.0
+L000578,House of Representatives,117,CA,2021,2023,1.0
+L000578,House of Representatives,118,CA,2023,2025,1.0
+L000578,House of Representatives,119,CA,2025,2027,1.0
+H001068,House of Representatives,113,CA,2013,2015,2.0
+H001068,House of Representatives,114,CA,2015,2017,2.0
+H001068,House of Representatives,115,CA,2017,2019,2.0
+H001068,House of Representatives,116,CA,2019,2021,2.0
+H001068,House of Representatives,117,CA,2021,2023,2.0
+H001068,House of Representatives,118,CA,2023,2025,2.0
+H001068,House of Representatives,119,CA,2025,2027,2.0
+B001287,House of Representatives,113,CA,2013,2015,7.0
+B001287,House of Representatives,114,CA,2015,2017,7.0
+B001287,House of Representatives,115,CA,2017,2019,7.0
+B001287,House of Representatives,116,CA,2019,2021,7.0
+B001287,House of Representatives,117,CA,2021,2023,7.0
+B001287,House of Representatives,118,CA,2023,2025,6.0
+B001287,House of Representatives,119,CA,2025,2027,6.0
+S001193,House of Representatives,113,CA,2013,2015,15.0
+S001193,House of Representatives,114,CA,2015,2017,15.0
+S001193,House of Representatives,115,CA,2017,2019,15.0
+S001193,House of Representatives,116,CA,2019,2021,15.0
+S001193,House of Representatives,117,CA,2021,2023,15.0
+S001193,House of Representatives,118,CA,2023,2025,14.0
+S001193,House of Representatives,119,CA,2025,2027,14.0
+V000129,House of Representatives,113,CA,2013,2015,21.0
+V000129,House of Representatives,114,CA,2015,2017,21.0
+V000129,House of Representatives,115,CA,2017,2019,21.0
+V000129,House of Representatives,117,CA,2021,2023,21.0
+V000129,House of Representatives,118,CA,2023,2025,22.0
+V000129,House of Representatives,119,CA,2025,2027,22.0
+B001285,House of Representatives,113,CA,2013,2015,26.0
+B001285,House of Representatives,114,CA,2015,2017,26.0
+B001285,House of Representatives,115,CA,2017,2019,26.0
+B001285,House of Representatives,116,CA,2019,2021,26.0
+B001285,House of Representatives,117,CA,2021,2023,26.0
+B001285,House of Representatives,118,CA,2023,2025,26.0
+B001285,House of Representatives,119,CA,2025,2027,26.0
+R000599,House of Representatives,113,CA,2013,2015,36.0
+R000599,House of Representatives,114,CA,2015,2017,36.0
+R000599,House of Representatives,115,CA,2017,2019,36.0
+R000599,House of Representatives,116,CA,2019,2021,36.0
+R000599,House of Representatives,117,CA,2021,2023,36.0
+R000599,House of Representatives,118,CA,2023,2025,25.0
+R000599,House of Representatives,119,CA,2025,2027,25.0
+T000472,House of Representatives,113,CA,2013,2015,41.0
+T000472,House of Representatives,114,CA,2015,2017,41.0
+T000472,House of Representatives,115,CA,2017,2019,41.0
+T000472,House of Representatives,116,CA,2019,2021,41.0
+T000472,House of Representatives,117,CA,2021,2023,41.0
+T000472,House of Representatives,118,CA,2023,2025,39.0
+T000472,House of Representatives,119,CA,2025,2027,39.0
+V000130,House of Representatives,113,CA,2013,2015,51.0
+V000130,House of Representatives,114,CA,2015,2017,51.0
+V000130,House of Representatives,115,CA,2017,2019,51.0
+V000130,House of Representatives,116,CA,2019,2021,51.0
+V000130,House of Representatives,117,CA,2021,2023,51.0
+V000130,House of Representatives,118,CA,2023,2025,52.0
+V000130,House of Representatives,119,CA,2025,2027,52.0
+P000608,House of Representatives,113,CA,2013,2015,52.0
+P000608,House of Representatives,114,CA,2015,2017,52.0
+P000608,House of Representatives,115,CA,2017,2019,52.0
+P000608,House of Representatives,116,CA,2019,2021,52.0
+P000608,House of Representatives,117,CA,2021,2023,52.0
+P000608,House of Representatives,118,CA,2023,2025,50.0
+P000608,House of Representatives,119,CA,2025,2027,50.0
+D000623,House of Representatives,114,CA,2015,2017,11.0
+D000623,House of Representatives,115,CA,2017,2019,11.0
+D000623,House of Representatives,116,CA,2019,2021,11.0
+D000623,House of Representatives,117,CA,2021,2023,11.0
+D000623,House of Representatives,118,CA,2023,2025,10.0
+D000623,House of Representatives,119,CA,2025,2027,10.0
+A000371,House of Representatives,114,CA,2015,2017,31.0
+A000371,House of Representatives,115,CA,2017,2019,31.0
+A000371,House of Representatives,116,CA,2019,2021,31.0
+A000371,House of Representatives,117,CA,2021,2023,31.0
+A000371,House of Representatives,118,CA,2023,2025,33.0
+A000371,House of Representatives,119,CA,2025,2027,33.0
+L000582,House of Representatives,114,CA,2015,2017,33.0
+L000582,House of Representatives,115,CA,2017,2019,33.0
+L000582,House of Representatives,116,CA,2019,2021,33.0
+L000582,House of Representatives,117,CA,2021,2023,33.0
+L000582,House of Representatives,118,CA,2023,2025,36.0
+L000582,House of Representatives,119,CA,2025,2027,36.0
+T000474,House of Representatives,114,CA,2015,2017,35.0
+T000474,House of Representatives,115,CA,2017,2019,35.0
+T000474,House of Representatives,116,CA,2019,2021,35.0
+T000474,House of Representatives,117,CA,2021,2023,35.0
+T000474,House of Representatives,118,CA,2023,2025,35.0
+T000474,House of Representatives,119,CA,2025,2027,35.0
+B001300,House of Representatives,115,CA,2017,2019,44.0
+B001300,House of Representatives,116,CA,2019,2021,44.0
+B001300,House of Representatives,117,CA,2021,2023,44.0
+B001300,House of Representatives,118,CA,2023,2025,44.0
+B001300,House of Representatives,119,CA,2025,2027,44.0
+C001112,House of Representatives,115,CA,2017,2019,24.0
+C001112,House of Representatives,116,CA,2019,2021,24.0
+C001112,House of Representatives,117,CA,2021,2023,24.0
+C001112,House of Representatives,118,CA,2023,2025,24.0
+C001112,House of Representatives,119,CA,2025,2027,24.0
+C001110,House of Representatives,115,CA,2017,2019,46.0
+C001110,House of Representatives,116,CA,2019,2021,46.0
+C001110,House of Representatives,117,CA,2021,2023,46.0
+C001110,House of Representatives,118,CA,2023,2025,46.0
+C001110,House of Representatives,119,CA,2025,2027,46.0
+K000389,House of Representatives,115,CA,2017,2019,17.0
+K000389,House of Representatives,116,CA,2019,2021,17.0
+K000389,House of Representatives,117,CA,2021,2023,17.0
+K000389,House of Representatives,118,CA,2023,2025,17.0
+K000389,House of Representatives,119,CA,2025,2027,17.0
+P000613,House of Representatives,115,CA,2017,2019,20.0
+P000613,House of Representatives,116,CA,2019,2021,20.0
+P000613,House of Representatives,117,CA,2021,2023,20.0
+P000613,House of Representatives,118,CA,2023,2025,19.0
+P000613,House of Representatives,119,CA,2025,2027,19.0
+G000585,House of Representatives,115,CA,2017,2019,34.0
+G000585,House of Representatives,116,CA,2019,2021,34.0
+G000585,House of Representatives,117,CA,2021,2023,34.0
+G000585,House of Representatives,118,CA,2023,2025,34.0
+G000585,House of Representatives,119,CA,2025,2027,34.0
+C001123,House of Representatives,116,CA,2019,2021,39.0
+C001123,House of Representatives,119,CA,2025,2027,31.0
+H001090,House of Representatives,116,CA,2019,2021,10.0
+H001090,House of Representatives,117,CA,2021,2023,10.0
+H001090,House of Representatives,118,CA,2023,2025,9.0
+H001090,House of Representatives,119,CA,2025,2027,9.0
+L000593,House of Representatives,116,CA,2019,2021,49.0
+L000593,House of Representatives,117,CA,2021,2023,49.0
+L000593,House of Representatives,118,CA,2023,2025,49.0
+L000593,House of Representatives,119,CA,2025,2027,49.0
+J000305,House of Representatives,117,CA,2021,2023,53.0
+J000305,House of Representatives,118,CA,2023,2025,51.0
+J000305,House of Representatives,119,CA,2025,2027,51.0
+K000397,House of Representatives,117,CA,2021,2023,39.0
+K000397,House of Representatives,118,CA,2023,2025,40.0
+K000397,House of Representatives,119,CA,2025,2027,40.0
+O000019,House of Representatives,117,CA,2021,2023,8.0
+O000019,House of Representatives,118,CA,2023,2025,23.0
+O000019,House of Representatives,119,CA,2025,2027,23.0
+G000598,House of Representatives,118,CA,2023,2025,42.0
+G000598,House of Representatives,119,CA,2025,2027,42.0
+K000400,House of Representatives,118,CA,2023,2025,37.0
+K000400,House of Representatives,119,CA,2025,2027,37.0
+K000401,House of Representatives,118,CA,2023,2025,3.0
+K000401,House of Representatives,119,CA,2025,2027,3.0
+M001225,House of Representatives,118,CA,2023,2025,15.0
+M001225,House of Representatives,119,CA,2025,2027,15.0
+F000480,House of Representatives,118,CA,2024,2025,20.0
+F000480,House of Representatives,119,CA,2025,2027,20.0
+F000483,House of Representatives,119,CA,2025,2027,30.0
+G000605,House of Representatives,119,CA,2025,2027,13.0
+L000607,House of Representatives,119,CA,2025,2027,16.0
+M001241,House of Representatives,119,CA,2025,2027,47.0
+R000620,House of Representatives,119,CA,2025,2027,29.0
+S001231,House of Representatives,119,CA,2025,2027,12.0
+T000491,House of Representatives,119,CA,2025,2027,45.0
+W000830,House of Representatives,119,CA,2025,2027,27.0
+W000187,House of Representatives,102,CA,1991,1993,29.0
+W000187,House of Representatives,103,CA,1993,1995,35.0
+W000187,House of Representatives,104,CA,1995,1997,35.0
+W000187,House of Representatives,105,CA,1997,1999,35.0
+W000187,House of Representatives,106,CA,1999,2001,35.0
+W000187,House of Representatives,107,CA,2001,2003,35.0
+W000187,House of Representatives,108,CA,2003,2005,35.0
+W000187,House of Representatives,109,CA,2005,2007,35.0
+W000187,House of Representatives,110,CA,2007,2009,35.0
+W000187,House of Representatives,111,CA,2009,2011,35.0
+W000187,House of Representatives,112,CA,2011,2013,35.0
+W000187,House of Representatives,113,CA,2013,2015,43.0
+W000187,House of Representatives,114,CA,2015,2017,43.0
+W000187,House of Representatives,115,CA,2017,2019,43.0
+W000187,House of Representatives,116,CA,2019,2021,43.0
+W000187,House of Representatives,117,CA,2021,2023,43.0
+W000187,House of Representatives,118,CA,2023,2025,43.0
+W000187,House of Representatives,119,CA,2025,2027,43.0
+C000059,House of Representatives,103,CA,1993,1995,43.0
+C000059,House of Representatives,104,CA,1995,1997,43.0
+C000059,House of Representatives,105,CA,1997,1999,43.0
+C000059,House of Representatives,106,CA,1999,2001,43.0
+C000059,House of Representatives,107,CA,2001,2003,43.0
+C000059,House of Representatives,108,CA,2003,2005,44.0
+C000059,House of Representatives,109,CA,2005,2007,44.0
+C000059,House of Representatives,110,CA,2007,2009,44.0
+C000059,House of Representatives,111,CA,2009,2011,44.0
+C000059,House of Representatives,112,CA,2011,2013,44.0
+C000059,House of Representatives,113,CA,2013,2015,42.0
+C000059,House of Representatives,114,CA,2015,2017,42.0
+C000059,House of Representatives,115,CA,2017,2019,42.0
+C000059,House of Representatives,116,CA,2019,2021,42.0
+C000059,House of Representatives,117,CA,2021,2023,42.0
+C000059,House of Representatives,118,CA,2023,2025,41.0
+C000059,House of Representatives,119,CA,2025,2027,41.0
+L000397,House of Representatives,104,CA,1995,1997,16.0
+L000397,House of Representatives,105,CA,1997,1999,16.0
+L000397,House of Representatives,106,CA,1999,2001,16.0
+L000397,House of Representatives,107,CA,2001,2003,16.0
+L000397,House of Representatives,108,CA,2003,2005,16.0
+L000397,House of Representatives,109,CA,2005,2007,16.0
+L000397,House of Representatives,110,CA,2007,2009,16.0
+L000397,House of Representatives,111,CA,2009,2011,16.0
+L000397,House of Representatives,112,CA,2011,2013,16.0
+L000397,House of Representatives,113,CA,2013,2015,19.0
+L000397,House of Representatives,114,CA,2015,2017,19.0
+L000397,House of Representatives,115,CA,2017,2019,19.0
+L000397,House of Representatives,116,CA,2019,2021,19.0
+L000397,House of Representatives,117,CA,2021,2023,19.0
+L000397,House of Representatives,118,CA,2023,2025,18.0
+L000397,House of Representatives,119,CA,2025,2027,18.0
+S000344,House of Representatives,105,CA,1997,1999,24.0
+S000344,House of Representatives,106,CA,1999,2001,24.0
+S000344,House of Representatives,107,CA,2001,2003,24.0
+S000344,House of Representatives,108,CA,2003,2005,27.0
+S000344,House of Representatives,109,CA,2005,2007,27.0
+S000344,House of Representatives,110,CA,2007,2009,27.0
+S000344,House of Representatives,111,CA,2009,2011,27.0
+S000344,House of Representatives,112,CA,2011,2013,27.0
+S000344,House of Representatives,113,CA,2013,2015,30.0
+S000344,House of Representatives,114,CA,2015,2017,30.0
+S000344,House of Representatives,115,CA,2017,2019,30.0
+S000344,House of Representatives,116,CA,2019,2021,30.0
+S000344,House of Representatives,117,CA,2021,2023,30.0
+S000344,House of Representatives,118,CA,2023,2025,32.0
+S000344,House of Representatives,119,CA,2025,2027,32.0
+T000460,House of Representatives,106,CA,1999,2001,1.0
+T000460,House of Representatives,107,CA,2001,2003,1.0
+T000460,House of Representatives,108,CA,2003,2005,1.0
+T000460,House of Representatives,109,CA,2005,2007,1.0
+T000460,House of Representatives,110,CA,2007,2009,1.0
+T000460,House of Representatives,111,CA,2009,2011,1.0
+T000460,House of Representatives,112,CA,2011,2013,1.0
+T000460,House of Representatives,113,CA,2013,2015,5.0
+T000460,House of Representatives,114,CA,2015,2017,5.0
+T000460,House of Representatives,115,CA,2017,2019,5.0
+T000460,House of Representatives,116,CA,2019,2021,5.0
+T000460,House of Representatives,117,CA,2021,2023,5.0
+T000460,House of Representatives,118,CA,2023,2025,4.0
+T000460,House of Representatives,119,CA,2025,2027,4.0
+C001121,House of Representatives,116,CO,2019,2021,6.0
+C001121,House of Representatives,117,CO,2021,2023,6.0
+C001121,House of Representatives,118,CO,2023,2025,6.0
+C001121,House of Representatives,119,CO,2025,2027,6.0
+N000191,House of Representatives,116,CO,2019,2021,2.0
+N000191,House of Representatives,117,CO,2021,2023,2.0
+N000191,House of Representatives,118,CO,2023,2025,2.0
+N000191,House of Representatives,119,CO,2025,2027,2.0
+B000825,House of Representatives,117,CO,2021,2023,3.0
+B000825,House of Representatives,118,CO,2023,2025,3.0
+B000825,House of Representatives,119,CO,2025,2027,4.0
+P000620,House of Representatives,118,CO,2023,2025,7.0
+P000620,House of Representatives,119,CO,2025,2027,7.0
+C001137,House of Representatives,119,CO,2025,2027,5.0
+E000300,House of Representatives,119,CO,2025,2027,8.0
+H001100,House of Representatives,119,CO,2025,2027,3.0
+D000197,House of Representatives,105,CO,1997,1999,1.0
+D000197,House of Representatives,106,CO,1999,2001,1.0
+D000197,House of Representatives,107,CO,2001,2003,1.0
+D000197,House of Representatives,108,CO,2003,2005,1.0
+D000197,House of Representatives,109,CO,2005,2007,1.0
+D000197,House of Representatives,110,CO,2007,2009,1.0
+D000197,House of Representatives,111,CO,2009,2011,1.0
+D000197,House of Representatives,112,CO,2011,2013,1.0
+D000197,House of Representatives,113,CO,2013,2015,1.0
+D000197,House of Representatives,114,CO,2015,2017,1.0
+D000197,House of Representatives,115,CO,2017,2019,1.0
+D000197,House of Representatives,116,CO,2019,2021,1.0
+D000197,House of Representatives,117,CO,2021,2023,1.0
+D000197,House of Representatives,118,CO,2023,2025,1.0
+D000197,House of Representatives,119,CO,2025,2027,1.0
+C001069,House of Representatives,110,CT,2007,2009,2.0
+C001069,House of Representatives,111,CT,2009,2011,2.0
+C001069,House of Representatives,112,CT,2011,2013,2.0
+C001069,House of Representatives,113,CT,2013,2015,2.0
+C001069,House of Representatives,114,CT,2015,2017,2.0
+C001069,House of Representatives,115,CT,2017,2019,2.0
+C001069,House of Representatives,116,CT,2019,2021,2.0
+C001069,House of Representatives,117,CT,2021,2023,2.0
+C001069,House of Representatives,118,CT,2023,2025,2.0
+C001069,House of Representatives,119,CT,2025,2027,2.0
+H001047,House of Representatives,111,CT,2009,2011,4.0
+H001047,House of Representatives,112,CT,2011,2013,4.0
+H001047,House of Representatives,113,CT,2013,2015,4.0
+H001047,House of Representatives,114,CT,2015,2017,4.0
+H001047,House of Representatives,115,CT,2017,2019,4.0
+H001047,House of Representatives,116,CT,2019,2021,4.0
+H001047,House of Representatives,117,CT,2021,2023,4.0
+H001047,House of Representatives,118,CT,2023,2025,4.0
+H001047,House of Representatives,119,CT,2025,2027,4.0
+H001081,House of Representatives,116,CT,2019,2021,5.0
+H001081,House of Representatives,117,CT,2021,2023,5.0
+H001081,House of Representatives,118,CT,2023,2025,5.0
+H001081,House of Representatives,119,CT,2025,2027,5.0
+D000216,House of Representatives,102,CT,1991,1993,3.0
+D000216,House of Representatives,103,CT,1993,1995,3.0
+D000216,House of Representatives,104,CT,1995,1997,3.0
+D000216,House of Representatives,105,CT,1997,1999,3.0
+D000216,House of Representatives,106,CT,1999,2001,3.0
+D000216,House of Representatives,107,CT,2001,2003,3.0
+D000216,House of Representatives,108,CT,2003,2005,3.0
+D000216,House of Representatives,109,CT,2005,2007,3.0
+D000216,House of Representatives,110,CT,2007,2009,3.0
+D000216,House of Representatives,111,CT,2009,2011,3.0
+D000216,House of Representatives,112,CT,2011,2013,3.0
+D000216,House of Representatives,113,CT,2013,2015,3.0
+D000216,House of Representatives,114,CT,2015,2017,3.0
+D000216,House of Representatives,115,CT,2017,2019,3.0
+D000216,House of Representatives,116,CT,2019,2021,3.0
+D000216,House of Representatives,117,CT,2021,2023,3.0
+D000216,House of Representatives,118,CT,2023,2025,3.0
+D000216,House of Representatives,119,CT,2025,2027,3.0
+L000557,House of Representatives,106,CT,1999,2001,1.0
+L000557,House of Representatives,107,CT,2001,2003,1.0
+L000557,House of Representatives,108,CT,2003,2005,1.0
+L000557,House of Representatives,109,CT,2005,2007,1.0
+L000557,House of Representatives,110,CT,2007,2009,1.0
+L000557,House of Representatives,111,CT,2009,2011,1.0
+L000557,House of Representatives,112,CT,2011,2013,1.0
+L000557,House of Representatives,113,CT,2013,2015,1.0
+L000557,House of Representatives,114,CT,2015,2017,1.0
+L000557,House of Representatives,115,CT,2017,2019,1.0
+L000557,House of Representatives,116,CT,2019,2021,1.0
+L000557,House of Representatives,117,CT,2021,2023,1.0
+L000557,House of Representatives,118,CT,2023,2025,1.0
+L000557,House of Representatives,119,CT,2025,2027,1.0
+M001238,House of Representatives,119,DE,2025,2027,
+N000147,House of Representatives,102,DC,1991,1993,
+N000147,House of Representatives,103,DC,1993,1995,
+N000147,House of Representatives,104,DC,1995,1997,
+N000147,House of Representatives,105,DC,1997,1999,
+N000147,House of Representatives,106,DC,1999,2001,
+N000147,House of Representatives,107,DC,2001,2003,
+N000147,House of Representatives,108,DC,2003,2005,
+N000147,House of Representatives,109,DC,2005,2007,
+N000147,House of Representatives,110,DC,2007,2009,
+N000147,House of Representatives,111,DC,2009,2011,
+N000147,House of Representatives,112,DC,2011,2013,
+N000147,House of Representatives,113,DC,2013,2015,
+N000147,House of Representatives,114,DC,2015,2017,
+N000147,House of Representatives,115,DC,2017,2019,
+N000147,House of Representatives,116,DC,2019,2021,
+N000147,House of Representatives,117,DC,2021,2023,
+N000147,House of Representatives,118,DC,2023,2025,
+N000147,House of Representatives,119,DC,2025,2027,
+D000600,House of Representatives,108,FL,2003,2005,25.0
+D000600,House of Representatives,109,FL,2005,2007,25.0
+D000600,House of Representatives,110,FL,2007,2009,25.0
+D000600,House of Representatives,111,FL,2009,2011,25.0
+D000600,House of Representatives,112,FL,2011,2013,21.0
+D000600,House of Representatives,113,FL,2013,2015,25.0
+D000600,House of Representatives,114,FL,2015,2017,25.0
+D000600,House of Representatives,115,FL,2017,2019,25.0
+D000600,House of Representatives,116,FL,2019,2021,25.0
+D000600,House of Representatives,117,FL,2021,2023,25.0
+D000600,House of Representatives,118,FL,2023,2025,26.0
+D000600,House of Representatives,119,FL,2025,2027,26.0
+W000797,House of Representatives,109,FL,2005,2007,20.0
+W000797,House of Representatives,110,FL,2007,2009,20.0
+W000797,House of Representatives,111,FL,2009,2011,20.0
+W000797,House of Representatives,112,FL,2011,2013,20.0
+W000797,House of Representatives,113,FL,2013,2015,23.0
+W000797,House of Representatives,114,FL,2015,2017,23.0
+W000797,House of Representatives,115,FL,2017,2019,23.0
+W000797,House of Representatives,116,FL,2019,2021,23.0
+W000797,House of Representatives,117,FL,2021,2023,23.0
+W000797,House of Representatives,118,FL,2023,2025,25.0
+W000797,House of Representatives,119,FL,2025,2027,25.0
+C001066,House of Representatives,110,FL,2007,2009,11.0
+C001066,House of Representatives,111,FL,2009,2011,11.0
+C001066,House of Representatives,112,FL,2011,2013,11.0
+C001066,House of Representatives,113,FL,2013,2015,14.0
+C001066,House of Representatives,114,FL,2015,2017,14.0
+C001066,House of Representatives,115,FL,2017,2019,14.0
+C001066,House of Representatives,116,FL,2019,2021,14.0
+C001066,House of Representatives,117,FL,2021,2023,14.0
+C001066,House of Representatives,118,FL,2023,2025,14.0
+C001066,House of Representatives,119,FL,2025,2027,14.0
+B001260,House of Representatives,110,FL,2007,2009,13.0
+B001260,House of Representatives,111,FL,2009,2011,13.0
+B001260,House of Representatives,112,FL,2011,2013,13.0
+B001260,House of Representatives,113,FL,2013,2015,16.0
+B001260,House of Representatives,114,FL,2015,2017,16.0
+B001260,House of Representatives,115,FL,2017,2019,16.0
+B001260,House of Representatives,116,FL,2019,2021,16.0
+B001260,House of Representatives,117,FL,2021,2023,16.0
+B001260,House of Representatives,118,FL,2023,2025,16.0
+B001260,House of Representatives,119,FL,2025,2027,16.0
+B001257,House of Representatives,110,FL,2007,2009,9.0
+B001257,House of Representatives,111,FL,2009,2011,9.0
+B001257,House of Representatives,112,FL,2011,2013,9.0
+B001257,House of Representatives,113,FL,2013,2015,12.0
+B001257,House of Representatives,114,FL,2015,2017,12.0
+B001257,House of Representatives,115,FL,2017,2019,12.0
+B001257,House of Representatives,116,FL,2019,2021,12.0
+B001257,House of Representatives,117,FL,2021,2023,12.0
+B001257,House of Representatives,118,FL,2023,2025,12.0
+B001257,House of Representatives,119,FL,2025,2027,12.0
+W000806,House of Representatives,112,FL,2011,2013,8.0
+W000806,House of Representatives,113,FL,2013,2015,10.0
+W000806,House of Representatives,114,FL,2015,2017,10.0
+W000806,House of Representatives,115,FL,2017,2019,11.0
+W000806,House of Representatives,116,FL,2019,2021,11.0
+W000806,House of Representatives,117,FL,2021,2023,11.0
+W000806,House of Representatives,118,FL,2023,2025,11.0
+W000806,House of Representatives,119,FL,2025,2027,11.0
+W000808,House of Representatives,112,FL,2011,2013,17.0
+W000808,House of Representatives,113,FL,2013,2015,24.0
+W000808,House of Representatives,114,FL,2015,2017,24.0
+W000808,House of Representatives,115,FL,2017,2019,24.0
+W000808,House of Representatives,116,FL,2019,2021,24.0
+W000808,House of Representatives,117,FL,2021,2023,24.0
+W000808,House of Representatives,118,FL,2023,2025,24.0
+W000808,House of Representatives,119,FL,2025,2027,24.0
+F000462,House of Representatives,113,FL,2013,2015,22.0
+F000462,House of Representatives,114,FL,2015,2017,22.0
+F000462,House of Representatives,115,FL,2017,2019,21.0
+F000462,House of Representatives,116,FL,2019,2021,21.0
+F000462,House of Representatives,117,FL,2021,2023,21.0
+F000462,House of Representatives,118,FL,2023,2025,22.0
+F000462,House of Representatives,119,FL,2025,2027,22.0
+D000628,House of Representatives,115,FL,2017,2019,2.0
+D000628,House of Representatives,116,FL,2019,2021,2.0
+D000628,House of Representatives,117,FL,2021,2023,2.0
+D000628,House of Representatives,118,FL,2023,2025,2.0
+D000628,House of Representatives,119,FL,2025,2027,2.0
+M001199,House of Representatives,115,FL,2017,2019,18.0
+M001199,House of Representatives,116,FL,2019,2021,18.0
+M001199,House of Representatives,117,FL,2021,2023,18.0
+M001199,House of Representatives,118,FL,2023,2025,21.0
+M001199,House of Representatives,119,FL,2025,2027,21.0
+R000609,House of Representatives,115,FL,2017,2019,4.0
+R000609,House of Representatives,116,FL,2019,2021,4.0
+R000609,House of Representatives,117,FL,2021,2023,4.0
+R000609,House of Representatives,118,FL,2023,2025,5.0
+R000609,House of Representatives,119,FL,2025,2027,5.0
+S001200,House of Representatives,115,FL,2017,2019,9.0
+S001200,House of Representatives,116,FL,2019,2021,9.0
+S001200,House of Representatives,117,FL,2021,2023,9.0
+S001200,House of Representatives,118,FL,2023,2025,9.0
+S001200,House of Representatives,119,FL,2025,2027,9.0
+S001214,House of Representatives,116,FL,2019,2021,17.0
+S001214,House of Representatives,117,FL,2021,2023,17.0
+S001214,House of Representatives,118,FL,2023,2025,17.0
+S001214,House of Representatives,119,FL,2025,2027,17.0
+W000823,House of Representatives,116,FL,2019,2021,6.0
+W000823,House of Representatives,117,FL,2021,2023,6.0
+W000823,House of Representatives,118,FL,2023,2025,6.0
+W000823,House of Representatives,119,FL,2025,2025,6.0
+C001039,House of Representatives,117,FL,2021,2023,3.0
+C001039,House of Representatives,118,FL,2023,2025,3.0
+C001039,House of Representatives,119,FL,2025,2027,3.0
+D000032,House of Representatives,117,FL,2021,2023,19.0
+D000032,House of Representatives,118,FL,2023,2025,19.0
+D000032,House of Representatives,119,FL,2025,2027,19.0
+F000472,House of Representatives,117,FL,2021,2023,15.0
+F000472,House of Representatives,118,FL,2023,2025,18.0
+F000472,House of Representatives,119,FL,2025,2027,18.0
+G000593,House of Representatives,117,FL,2021,2023,26.0
+G000593,House of Representatives,118,FL,2023,2025,28.0
+G000593,House of Representatives,119,FL,2025,2027,28.0
+S000168,House of Representatives,117,FL,2021,2023,27.0
+S000168,House of Representatives,118,FL,2023,2025,27.0
+S000168,House of Representatives,119,FL,2025,2027,27.0
+C001127,House of Representatives,117,FL,2022,2023,20.0
+C001127,House of Representatives,118,FL,2023,2025,20.0
+C001127,House of Representatives,119,FL,2025,2027,20.0
+B001314,House of Representatives,118,FL,2023,2025,4.0
+B001314,House of Representatives,119,FL,2025,2027,4.0
+F000476,House of Representatives,118,FL,2023,2025,10.0
+F000476,House of Representatives,119,FL,2025,2027,10.0
+L000597,House of Representatives,118,FL,2023,2025,15.0
+L000597,House of Representatives,119,FL,2025,2027,15.0
+L000596,House of Representatives,118,FL,2023,2025,13.0
+L000596,House of Representatives,119,FL,2025,2027,13.0
+M001216,House of Representatives,118,FL,2023,2025,7.0
+M001216,House of Representatives,119,FL,2025,2027,7.0
+M001217,House of Representatives,118,FL,2023,2025,23.0
+M001217,House of Representatives,119,FL,2025,2027,23.0
+H001099,House of Representatives,119,FL,2025,2027,8.0
+F000484,House of Representatives,119,FL,2025,2027,6.0
+P000622,House of Representatives,119,FL,2025,2027,1.0
+S001157,House of Representatives,108,GA,2003,2005,13.0
+S001157,House of Representatives,109,GA,2005,2007,13.0
+S001157,House of Representatives,110,GA,2007,2009,13.0
+S001157,House of Representatives,111,GA,2009,2011,13.0
+S001157,House of Representatives,112,GA,2011,2013,13.0
+S001157,House of Representatives,113,GA,2013,2015,13.0
+S001157,House of Representatives,114,GA,2015,2017,13.0
+S001157,House of Representatives,115,GA,2017,2019,13.0
+S001157,House of Representatives,116,GA,2019,2021,13.0
+S001157,House of Representatives,117,GA,2021,2023,13.0
+S001157,House of Representatives,118,GA,2023,2025,13.0
+S001157,House of Representatives,119,GA,2025,2027,13.0
+J000288,House of Representatives,110,GA,2007,2009,4.0
+J000288,House of Representatives,111,GA,2009,2011,4.0
+J000288,House of Representatives,112,GA,2011,2013,4.0
+J000288,House of Representatives,113,GA,2013,2015,4.0
+J000288,House of Representatives,114,GA,2015,2017,4.0
+J000288,House of Representatives,115,GA,2017,2019,4.0
+J000288,House of Representatives,116,GA,2019,2021,4.0
+J000288,House of Representatives,117,GA,2021,2023,4.0
+J000288,House of Representatives,118,GA,2023,2025,4.0
+J000288,House of Representatives,119,GA,2025,2027,4.0
+S001189,House of Representatives,112,GA,2011,2013,8.0
+S001189,House of Representatives,113,GA,2013,2015,8.0
+S001189,House of Representatives,114,GA,2015,2017,8.0
+S001189,House of Representatives,115,GA,2017,2019,8.0
+S001189,House of Representatives,116,GA,2019,2021,8.0
+S001189,House of Representatives,117,GA,2021,2023,8.0
+S001189,House of Representatives,118,GA,2023,2025,8.0
+S001189,House of Representatives,119,GA,2025,2027,8.0
+C001103,House of Representatives,114,GA,2015,2017,1.0
+C001103,House of Representatives,115,GA,2017,2019,1.0
+C001103,House of Representatives,116,GA,2019,2021,1.0
+C001103,House of Representatives,117,GA,2021,2023,1.0
+C001103,House of Representatives,118,GA,2023,2025,1.0
+C001103,House of Representatives,119,GA,2025,2027,1.0
+L000583,House of Representatives,114,GA,2015,2017,11.0
+L000583,House of Representatives,115,GA,2017,2019,11.0
+L000583,House of Representatives,116,GA,2019,2021,11.0
+L000583,House of Representatives,117,GA,2021,2023,11.0
+L000583,House of Representatives,118,GA,2023,2025,11.0
+L000583,House of Representatives,119,GA,2025,2027,11.0
+A000372,House of Representatives,114,GA,2015,2017,12.0
+A000372,House of Representatives,115,GA,2017,2019,12.0
+A000372,House of Representatives,116,GA,2019,2021,12.0
+A000372,House of Representatives,117,GA,2021,2023,12.0
+A000372,House of Representatives,118,GA,2023,2025,12.0
+A000372,House of Representatives,119,GA,2025,2027,12.0
+M001208,House of Representatives,116,GA,2019,2021,6.0
+M001208,House of Representatives,117,GA,2021,2023,6.0
+M001208,House of Representatives,118,GA,2023,2025,7.0
+M001208,House of Representatives,119,GA,2025,2027,6.0
+C001116,House of Representatives,117,GA,2021,2023,9.0
+C001116,House of Representatives,118,GA,2023,2025,9.0
+C001116,House of Representatives,119,GA,2025,2027,9.0
+G000596,House of Representatives,117,GA,2021,2023,14.0
+G000596,House of Representatives,118,GA,2023,2025,14.0
+G000596,House of Representatives,119,GA,2025,2027,14.0
+W000788,House of Representatives,117,GA,2021,2023,5.0
+W000788,House of Representatives,118,GA,2023,2025,5.0
+W000788,House of Representatives,119,GA,2025,2027,5.0
+C001129,House of Representatives,118,GA,2023,2025,10.0
+C001129,House of Representatives,119,GA,2025,2027,10.0
+M001218,House of Representatives,118,GA,2023,2025,6.0
+M001218,House of Representatives,119,GA,2025,2027,7.0
+J000311,House of Representatives,119,GA,2025,2027,3.0
+B000490,House of Representatives,103,GA,1993,1995,2.0
+B000490,House of Representatives,104,GA,1995,1997,2.0
+B000490,House of Representatives,105,GA,1997,1999,2.0
+B000490,House of Representatives,106,GA,1999,2001,2.0
+B000490,House of Representatives,107,GA,2001,2003,2.0
+B000490,House of Representatives,108,GA,2003,2005,2.0
+B000490,House of Representatives,109,GA,2005,2007,2.0
+B000490,House of Representatives,110,GA,2007,2009,2.0
+B000490,House of Representatives,111,GA,2009,2011,2.0
+B000490,House of Representatives,112,GA,2011,2013,2.0
+B000490,House of Representatives,113,GA,2013,2015,2.0
+B000490,House of Representatives,114,GA,2015,2017,2.0
+B000490,House of Representatives,115,GA,2017,2019,2.0
+B000490,House of Representatives,116,GA,2019,2021,2.0
+B000490,House of Representatives,117,GA,2021,2023,2.0
+B000490,House of Representatives,118,GA,2023,2025,2.0
+B000490,House of Representatives,119,GA,2025,2027,2.0
+M001219,House of Representatives,118,GU,2023,2025,
+M001219,House of Representatives,119,GU,2025,2027,
+C001055,House of Representatives,107,HI,2002,2003,2.0
+C001055,House of Representatives,108,HI,2003,2005,2.0
+C001055,House of Representatives,109,HI,2005,2007,2.0
+C001055,House of Representatives,116,HI,2019,2021,1.0
+C001055,House of Representatives,117,HI,2021,2023,1.0
+C001055,House of Representatives,118,HI,2023,2025,1.0
+C001055,House of Representatives,119,HI,2025,2027,1.0
+T000487,House of Representatives,118,HI,2023,2025,2.0
+T000487,House of Representatives,119,HI,2025,2027,2.0
+F000469,House of Representatives,116,ID,2019,2021,1.0
+F000469,House of Representatives,117,ID,2021,2023,1.0
+F000469,House of Representatives,118,ID,2023,2025,1.0
+F000469,House of Representatives,119,ID,2025,2027,1.0
+S001148,House of Representatives,106,ID,1999,2001,2.0
+S001148,House of Representatives,107,ID,2001,2003,2.0
+S001148,House of Representatives,108,ID,2003,2005,2.0
+S001148,House of Representatives,109,ID,2005,2007,2.0
+S001148,House of Representatives,110,ID,2007,2009,2.0
+S001148,House of Representatives,111,ID,2009,2011,2.0
+S001148,House of Representatives,112,ID,2011,2013,2.0
+S001148,House of Representatives,113,ID,2013,2015,2.0
+S001148,House of Representatives,114,ID,2015,2017,2.0
+S001148,House of Representatives,115,ID,2017,2019,2.0
+S001148,House of Representatives,116,ID,2019,2021,2.0
+S001148,House of Representatives,117,ID,2021,2023,2.0
+S001148,House of Representatives,118,ID,2023,2025,2.0
+S001148,House of Representatives,119,ID,2025,2027,2.0
+F000454,House of Representatives,110,IL,2008,2009,14.0
+F000454,House of Representatives,111,IL,2009,2011,14.0
+F000454,House of Representatives,113,IL,2013,2015,11.0
+F000454,House of Representatives,114,IL,2015,2017,11.0
+F000454,House of Representatives,115,IL,2017,2019,11.0
+F000454,House of Representatives,116,IL,2019,2021,11.0
+F000454,House of Representatives,117,IL,2021,2023,11.0
+F000454,House of Representatives,118,IL,2023,2025,11.0
+F000454,House of Representatives,119,IL,2025,2027,11.0
+Q000023,House of Representatives,111,IL,2009,2011,5.0
+Q000023,House of Representatives,112,IL,2011,2013,5.0
+Q000023,House of Representatives,113,IL,2013,2015,5.0
+Q000023,House of Representatives,114,IL,2015,2017,5.0
+Q000023,House of Representatives,115,IL,2017,2019,5.0
+Q000023,House of Representatives,116,IL,2019,2021,5.0
+Q000023,House of Representatives,117,IL,2021,2023,5.0
+Q000023,House of Representatives,118,IL,2023,2025,5.0
+Q000023,House of Representatives,119,IL,2025,2027,5.0
+S001190,House of Representatives,113,IL,2013,2015,10.0
+S001190,House of Representatives,115,IL,2017,2019,10.0
+S001190,House of Representatives,116,IL,2019,2021,10.0
+S001190,House of Representatives,117,IL,2021,2023,10.0
+S001190,House of Representatives,118,IL,2023,2025,10.0
+S001190,House of Representatives,119,IL,2025,2027,10.0
+K000385,House of Representatives,113,IL,2013,2015,2.0
+K000385,House of Representatives,114,IL,2015,2017,2.0
+K000385,House of Representatives,115,IL,2017,2019,2.0
+K000385,House of Representatives,116,IL,2019,2021,2.0
+K000385,House of Representatives,117,IL,2021,2023,2.0
+K000385,House of Representatives,118,IL,2023,2025,2.0
+K000385,House of Representatives,119,IL,2025,2027,2.0
+B001295,House of Representatives,114,IL,2015,2017,12.0
+B001295,House of Representatives,115,IL,2017,2019,12.0
+B001295,House of Representatives,116,IL,2019,2021,12.0
+B001295,House of Representatives,117,IL,2021,2023,12.0
+B001295,House of Representatives,118,IL,2023,2025,12.0
+B001295,House of Representatives,119,IL,2025,2027,12.0
+L000585,House of Representatives,114,IL,2015,2017,18.0
+L000585,House of Representatives,115,IL,2017,2019,18.0
+L000585,House of Representatives,116,IL,2019,2021,18.0
+L000585,House of Representatives,117,IL,2021,2023,18.0
+L000585,House of Representatives,118,IL,2023,2025,16.0
+L000585,House of Representatives,119,IL,2025,2027,16.0
+K000391,House of Representatives,115,IL,2017,2019,8.0
+K000391,House of Representatives,116,IL,2019,2021,8.0
+K000391,House of Representatives,117,IL,2021,2023,8.0
+K000391,House of Representatives,118,IL,2023,2025,8.0
+K000391,House of Representatives,119,IL,2025,2027,8.0
+C001117,House of Representatives,116,IL,2019,2021,6.0
+C001117,House of Representatives,117,IL,2021,2023,6.0
+C001117,House of Representatives,118,IL,2023,2025,6.0
+C001117,House of Representatives,119,IL,2025,2027,6.0
+G000586,House of Representatives,116,IL,2019,2021,4.0
+G000586,House of Representatives,117,IL,2021,2023,4.0
+G000586,House of Representatives,118,IL,2023,2025,4.0
+G000586,House of Representatives,119,IL,2025,2027,4.0
+U000040,House of Representatives,116,IL,2019,2021,14.0
+U000040,House of Representatives,117,IL,2021,2023,14.0
+U000040,House of Representatives,118,IL,2023,2025,14.0
+U000040,House of Representatives,119,IL,2025,2027,14.0
+M001211,House of Representatives,117,IL,2021,2023,15.0
+M001211,House of Representatives,118,IL,2023,2025,15.0
+M001211,House of Representatives,119,IL,2025,2027,15.0
+B001315,House of Representatives,118,IL,2023,2025,13.0
+B001315,House of Representatives,119,IL,2025,2027,13.0
+J000309,House of Representatives,118,IL,2023,2025,1.0
+J000309,House of Representatives,119,IL,2025,2027,1.0
+R000617,House of Representatives,118,IL,2023,2025,3.0
+R000617,House of Representatives,119,IL,2025,2027,3.0
+S001225,House of Representatives,118,IL,2023,2025,17.0
+S001225,House of Representatives,119,IL,2025,2027,17.0
+D000096,House of Representatives,105,IL,1997,1999,7.0
+D000096,House of Representatives,106,IL,1999,2001,7.0
+D000096,House of Representatives,107,IL,2001,2003,7.0
+D000096,House of Representatives,108,IL,2003,2005,7.0
+D000096,House of Representatives,109,IL,2005,2007,7.0
+D000096,House of Representatives,110,IL,2007,2009,7.0
+D000096,House of Representatives,111,IL,2009,2011,7.0
+D000096,House of Representatives,112,IL,2011,2013,7.0
+D000096,House of Representatives,113,IL,2013,2015,7.0
+D000096,House of Representatives,114,IL,2015,2017,7.0
+D000096,House of Representatives,115,IL,2017,2019,7.0
+D000096,House of Representatives,116,IL,2019,2021,7.0
+D000096,House of Representatives,117,IL,2021,2023,7.0
+D000096,House of Representatives,118,IL,2023,2025,7.0
+D000096,House of Representatives,119,IL,2025,2027,7.0
+S001145,House of Representatives,106,IL,1999,2001,9.0
+S001145,House of Representatives,107,IL,2001,2003,9.0
+S001145,House of Representatives,108,IL,2003,2005,9.0
+S001145,House of Representatives,109,IL,2005,2007,9.0
+S001145,House of Representatives,110,IL,2007,2009,9.0
+S001145,House of Representatives,111,IL,2009,2011,9.0
+S001145,House of Representatives,112,IL,2011,2013,9.0
+S001145,House of Representatives,113,IL,2013,2015,9.0
+S001145,House of Representatives,114,IL,2015,2017,9.0
+S001145,House of Representatives,115,IL,2017,2019,9.0
+S001145,House of Representatives,116,IL,2019,2021,9.0
+S001145,House of Representatives,117,IL,2021,2023,9.0
+S001145,House of Representatives,118,IL,2023,2025,9.0
+S001145,House of Representatives,119,IL,2025,2027,9.0
+C001072,House of Representatives,110,IN,2008,2009,7.0
+C001072,House of Representatives,111,IN,2009,2011,7.0
+C001072,House of Representatives,112,IN,2011,2013,7.0
+C001072,House of Representatives,113,IN,2013,2015,7.0
+C001072,House of Representatives,114,IN,2015,2017,7.0
+C001072,House of Representatives,115,IN,2017,2019,7.0
+C001072,House of Representatives,116,IN,2019,2021,7.0
+C001072,House of Representatives,117,IN,2021,2023,7.0
+C001072,House of Representatives,118,IN,2023,2025,7.0
+C001072,House of Representatives,119,IN,2025,2027,7.0
+S001188,House of Representatives,111,IN,2010,2011,3.0
+S001188,House of Representatives,112,IN,2011,2013,3.0
+S001188,House of Representatives,113,IN,2013,2015,3.0
+S001188,House of Representatives,114,IN,2015,2017,3.0
+S001188,House of Representatives,119,IN,2025,2027,3.0
+B001307,House of Representatives,116,IN,2019,2021,4.0
+B001307,House of Representatives,117,IN,2021,2023,4.0
+B001307,House of Representatives,118,IN,2023,2025,4.0
+B001307,House of Representatives,119,IN,2025,2027,4.0
+M001214,House of Representatives,117,IN,2021,2023,1.0
+M001214,House of Representatives,118,IN,2023,2025,1.0
+M001214,House of Representatives,119,IN,2025,2027,1.0
+S000929,House of Representatives,117,IN,2021,2023,5.0
+S000929,House of Representatives,118,IN,2023,2025,5.0
+S000929,House of Representatives,119,IN,2025,2027,5.0
+Y000067,House of Representatives,117,IN,2022,2023,2.0
+Y000067,House of Representatives,118,IN,2023,2025,2.0
+Y000067,House of Representatives,119,IN,2025,2027,2.0
+H001093,House of Representatives,118,IN,2023,2025,9.0
+H001093,House of Representatives,119,IN,2025,2027,9.0
+M001233,House of Representatives,119,IN,2025,2027,8.0
+S001229,House of Representatives,119,IN,2025,2027,6.0
+F000446,House of Representatives,117,IA,2021,2023,4.0
+F000446,House of Representatives,118,IA,2023,2025,4.0
+F000446,House of Representatives,119,IA,2025,2027,4.0
+H001091,House of Representatives,117,IA,2021,2023,1.0
+H001091,House of Representatives,118,IA,2023,2025,2.0
+H001091,House of Representatives,119,IA,2025,2027,2.0
+M001215,House of Representatives,117,IA,2021,2023,2.0
+M001215,House of Representatives,118,IA,2023,2025,1.0
+M001215,House of Representatives,119,IA,2025,2027,1.0
+N000193,House of Representatives,118,IA,2023,2025,3.0
+N000193,House of Representatives,119,IA,2025,2027,3.0
+E000298,House of Representatives,115,KS,2017,2019,4.0
+E000298,House of Representatives,116,KS,2019,2021,4.0
+E000298,House of Representatives,117,KS,2021,2023,4.0
+E000298,House of Representatives,118,KS,2023,2025,4.0
+E000298,House of Representatives,119,KS,2025,2027,4.0
+D000629,House of Representatives,116,KS,2019,2021,3.0
+D000629,House of Representatives,117,KS,2021,2023,3.0
+D000629,House of Representatives,118,KS,2023,2025,3.0
+D000629,House of Representatives,119,KS,2025,2027,3.0
+M000871,House of Representatives,117,KS,2021,2023,1.0
+M000871,House of Representatives,118,KS,2023,2025,1.0
+M000871,House of Representatives,119,KS,2025,2027,1.0
+S001228,House of Representatives,119,KS,2025,2027,2.0
+R000395,House of Representatives,97,KY,1981,1983,5.0
+R000395,House of Representatives,98,KY,1983,1985,5.0
+R000395,House of Representatives,99,KY,1985,1987,5.0
+R000395,House of Representatives,100,KY,1987,1989,5.0
+R000395,House of Representatives,101,KY,1989,1991,5.0
+R000395,House of Representatives,102,KY,1991,1993,5.0
+R000395,House of Representatives,103,KY,1993,1995,5.0
+R000395,House of Representatives,104,KY,1995,1997,5.0
+R000395,House of Representatives,105,KY,1997,1999,5.0
+R000395,House of Representatives,106,KY,1999,2001,5.0
+R000395,House of Representatives,107,KY,2001,2003,5.0
+R000395,House of Representatives,108,KY,2003,2005,5.0
+R000395,House of Representatives,109,KY,2005,2007,5.0
+R000395,House of Representatives,110,KY,2007,2009,5.0
+R000395,House of Representatives,111,KY,2009,2011,5.0
+R000395,House of Representatives,112,KY,2011,2013,5.0
+R000395,House of Representatives,113,KY,2013,2015,5.0
+R000395,House of Representatives,114,KY,2015,2017,5.0
+R000395,House of Representatives,115,KY,2017,2019,5.0
+R000395,House of Representatives,116,KY,2019,2021,5.0
+R000395,House of Representatives,117,KY,2021,2023,5.0
+R000395,House of Representatives,118,KY,2023,2025,5.0
+R000395,House of Representatives,119,KY,2025,2027,5.0
+G000558,House of Representatives,111,KY,2009,2011,2.0
+G000558,House of Representatives,112,KY,2011,2013,2.0
+G000558,House of Representatives,113,KY,2013,2015,2.0
+G000558,House of Representatives,114,KY,2015,2017,2.0
+G000558,House of Representatives,115,KY,2017,2019,2.0
+G000558,House of Representatives,116,KY,2019,2021,2.0
+G000558,House of Representatives,117,KY,2021,2023,2.0
+G000558,House of Representatives,118,KY,2023,2025,2.0
+G000558,House of Representatives,119,KY,2025,2027,2.0
+B001282,House of Representatives,113,KY,2013,2015,6.0
+B001282,House of Representatives,114,KY,2015,2017,6.0
+B001282,House of Representatives,115,KY,2017,2019,6.0
+B001282,House of Representatives,116,KY,2019,2021,6.0
+B001282,House of Representatives,117,KY,2021,2023,6.0
+B001282,House of Representatives,118,KY,2023,2025,6.0
+B001282,House of Representatives,119,KY,2025,2027,6.0
+C001108,House of Representatives,114,KY,2016,2017,1.0
+C001108,House of Representatives,115,KY,2017,2019,1.0
+C001108,House of Representatives,116,KY,2019,2021,1.0
+C001108,House of Representatives,117,KY,2021,2023,1.0
+C001108,House of Representatives,118,KY,2023,2025,1.0
+C001108,House of Representatives,119,KY,2025,2027,1.0
+M001220,House of Representatives,118,KY,2023,2025,3.0
+M001220,House of Representatives,119,KY,2025,2027,3.0
+M001184,House of Representatives,112,KY,2012,2013,4.0
+M001184,House of Representatives,113,KY,2013,2015,4.0
+M001184,House of Representatives,114,KY,2015,2017,4.0
+M001184,House of Representatives,115,KY,2017,2019,4.0
+M001184,House of Representatives,116,KY,2019,2021,4.0
+M001184,House of Representatives,117,KY,2021,2023,4.0
+M001184,House of Representatives,118,KY,2023,2025,4.0
+M001184,House of Representatives,119,KY,2025,2027,4.0
+S001176,House of Representatives,110,LA,2008,2009,1.0
+S001176,House of Representatives,111,LA,2009,2011,1.0
+S001176,House of Representatives,112,LA,2011,2013,1.0
+S001176,House of Representatives,113,LA,2013,2015,1.0
+S001176,House of Representatives,114,LA,2015,2017,1.0
+S001176,House of Representatives,115,LA,2017,2019,1.0
+S001176,House of Representatives,116,LA,2019,2021,1.0
+S001176,House of Representatives,117,LA,2021,2023,1.0
+S001176,House of Representatives,118,LA,2023,2025,1.0
+S001176,House of Representatives,119,LA,2025,2027,1.0
+H001077,House of Representatives,115,LA,2017,2019,3.0
+H001077,House of Representatives,116,LA,2019,2021,3.0
+H001077,House of Representatives,117,LA,2021,2023,3.0
+H001077,House of Representatives,118,LA,2023,2025,3.0
+H001077,House of Representatives,119,LA,2025,2027,3.0
+J000299,House of Representatives,115,LA,2017,2019,4.0
+J000299,House of Representatives,116,LA,2019,2021,4.0
+J000299,House of Representatives,117,LA,2021,2023,4.0
+J000299,House of Representatives,118,LA,2023,2025,4.0
+J000299,House of Representatives,119,LA,2025,2027,4.0
+L000595,House of Representatives,117,LA,2021,2023,5.0
+L000595,House of Representatives,118,LA,2023,2025,5.0
+L000595,House of Representatives,119,LA,2025,2027,5.0
+C001125,House of Representatives,117,LA,2021,2023,2.0
+C001125,House of Representatives,118,LA,2023,2025,2.0
+C001125,House of Representatives,119,LA,2025,2027,2.0
+F000110,House of Representatives,103,LA,1993,1995,4.0
+F000110,House of Representatives,104,LA,1995,1997,4.0
+F000110,House of Representatives,119,LA,2025,2027,6.0
+P000597,House of Representatives,111,ME,2009,2011,1.0
+P000597,House of Representatives,112,ME,2011,2013,1.0
+P000597,House of Representatives,113,ME,2013,2015,1.0
+P000597,House of Representatives,114,ME,2015,2017,1.0
+P000597,House of Representatives,115,ME,2017,2019,1.0
+P000597,House of Representatives,116,ME,2019,2021,1.0
+P000597,House of Representatives,117,ME,2021,2023,1.0
+P000597,House of Representatives,118,ME,2023,2025,1.0
+P000597,House of Representatives,119,ME,2025,2027,1.0
+G000592,House of Representatives,116,ME,2019,2021,2.0
+G000592,House of Representatives,117,ME,2021,2023,2.0
+G000592,House of Representatives,118,ME,2023,2025,2.0
+G000592,House of Representatives,119,ME,2025,2027,2.0
+H000874,House of Representatives,97,MD,1981,1983,5.0
+H000874,House of Representatives,98,MD,1983,1985,5.0
+H000874,House of Representatives,99,MD,1985,1987,5.0
+H000874,House of Representatives,100,MD,1987,1989,5.0
+H000874,House of Representatives,101,MD,1989,1991,5.0
+H000874,House of Representatives,102,MD,1991,1993,5.0
+H000874,House of Representatives,103,MD,1993,1995,5.0
+H000874,House of Representatives,104,MD,1995,1997,5.0
+H000874,House of Representatives,105,MD,1997,1999,5.0
+H000874,House of Representatives,106,MD,1999,2001,5.0
+H000874,House of Representatives,107,MD,2001,2003,5.0
+H000874,House of Representatives,108,MD,2003,2005,5.0
+H000874,House of Representatives,109,MD,2005,2007,5.0
+H000874,House of Representatives,110,MD,2007,2009,5.0
+H000874,House of Representatives,111,MD,2009,2011,5.0
+H000874,House of Representatives,112,MD,2011,2013,5.0
+H000874,House of Representatives,113,MD,2013,2015,5.0
+H000874,House of Representatives,114,MD,2015,2017,5.0
+H000874,House of Representatives,115,MD,2017,2019,5.0
+H000874,House of Representatives,116,MD,2019,2021,5.0
+H000874,House of Representatives,117,MD,2021,2023,5.0
+H000874,House of Representatives,118,MD,2023,2025,5.0
+H000874,House of Representatives,119,MD,2025,2027,5.0
+M000687,House of Representatives,100,MD,1987,1989,7.0
+M000687,House of Representatives,101,MD,1989,1991,7.0
+M000687,House of Representatives,102,MD,1991,1993,7.0
+M000687,House of Representatives,103,MD,1993,1995,7.0
+M000687,House of Representatives,104,MD,1995,1997,7.0
+M000687,House of Representatives,116,MD,2020,2021,7.0
+M000687,House of Representatives,117,MD,2021,2023,7.0
+M000687,House of Representatives,118,MD,2023,2025,7.0
+M000687,House of Representatives,119,MD,2025,2027,7.0
+H001052,House of Representatives,112,MD,2011,2013,1.0
+H001052,House of Representatives,113,MD,2013,2015,1.0
+H001052,House of Representatives,114,MD,2015,2017,1.0
+H001052,House of Representatives,115,MD,2017,2019,1.0
+H001052,House of Representatives,116,MD,2019,2021,1.0
+H001052,House of Representatives,117,MD,2021,2023,1.0
+H001052,House of Representatives,118,MD,2023,2025,1.0
+H001052,House of Representatives,119,MD,2025,2027,1.0
+R000606,House of Representatives,115,MD,2017,2019,8.0
+R000606,House of Representatives,116,MD,2019,2021,8.0
+R000606,House of Representatives,117,MD,2021,2023,8.0
+R000606,House of Representatives,118,MD,2023,2025,8.0
+R000606,House of Representatives,119,MD,2025,2027,8.0
+I000058,House of Representatives,118,MD,2023,2025,4.0
+I000058,House of Representatives,119,MD,2025,2027,4.0
+E000301,House of Representatives,119,MD,2025,2027,3.0
+M001232,House of Representatives,119,MD,2025,2027,6.0
+O000176,House of Representatives,119,MD,2025,2027,2.0
+N000015,House of Representatives,101,MA,1989,1991,2.0
+N000015,House of Representatives,102,MA,1991,1993,2.0
+N000015,House of Representatives,103,MA,1993,1995,2.0
+N000015,House of Representatives,104,MA,1995,1997,2.0
+N000015,House of Representatives,105,MA,1997,1999,2.0
+N000015,House of Representatives,106,MA,1999,2001,2.0
+N000015,House of Representatives,107,MA,2001,2003,2.0
+N000015,House of Representatives,108,MA,2003,2005,2.0
+N000015,House of Representatives,109,MA,2005,2007,2.0
+N000015,House of Representatives,110,MA,2007,2009,2.0
+N000015,House of Representatives,111,MA,2009,2011,2.0
+N000015,House of Representatives,112,MA,2011,2013,2.0
+N000015,House of Representatives,113,MA,2013,2015,1.0
+N000015,House of Representatives,114,MA,2015,2017,1.0
+N000015,House of Representatives,115,MA,2017,2019,1.0
+N000015,House of Representatives,116,MA,2019,2021,1.0
+N000015,House of Representatives,117,MA,2021,2023,1.0
+N000015,House of Representatives,118,MA,2023,2025,1.0
+N000015,House of Representatives,119,MA,2025,2027,1.0
+L000562,House of Representatives,107,MA,2001,2003,9.0
+L000562,House of Representatives,108,MA,2003,2005,9.0
+L000562,House of Representatives,109,MA,2005,2007,9.0
+L000562,House of Representatives,110,MA,2007,2009,9.0
+L000562,House of Representatives,111,MA,2009,2011,9.0
+L000562,House of Representatives,112,MA,2011,2013,9.0
+L000562,House of Representatives,113,MA,2013,2015,8.0
+L000562,House of Representatives,114,MA,2015,2017,8.0
+L000562,House of Representatives,115,MA,2017,2019,8.0
+L000562,House of Representatives,116,MA,2019,2021,8.0
+L000562,House of Representatives,117,MA,2021,2023,8.0
+L000562,House of Representatives,118,MA,2023,2025,8.0
+L000562,House of Representatives,119,MA,2025,2027,8.0
+K000375,House of Representatives,112,MA,2011,2013,10.0
+K000375,House of Representatives,113,MA,2013,2015,9.0
+K000375,House of Representatives,114,MA,2015,2017,9.0
+K000375,House of Representatives,115,MA,2017,2019,9.0
+K000375,House of Representatives,116,MA,2019,2021,9.0
+K000375,House of Representatives,117,MA,2021,2023,9.0
+K000375,House of Representatives,118,MA,2023,2025,9.0
+K000375,House of Representatives,119,MA,2025,2027,9.0
+C001101,House of Representatives,113,MA,2013,2015,5.0
+C001101,House of Representatives,114,MA,2015,2017,5.0
+C001101,House of Representatives,115,MA,2017,2019,5.0
+C001101,House of Representatives,116,MA,2019,2021,5.0
+C001101,House of Representatives,117,MA,2021,2023,5.0
+C001101,House of Representatives,118,MA,2023,2025,5.0
+C001101,House of Representatives,119,MA,2025,2027,5.0
+M001196,House of Representatives,114,MA,2015,2017,6.0
+M001196,House of Representatives,115,MA,2017,2019,6.0
+M001196,House of Representatives,116,MA,2019,2021,6.0
+M001196,House of Representatives,117,MA,2021,2023,6.0
+M001196,House of Representatives,118,MA,2023,2025,6.0
+M001196,House of Representatives,119,MA,2025,2027,6.0
+P000617,House of Representatives,116,MA,2019,2021,7.0
+P000617,House of Representatives,117,MA,2021,2023,7.0
+P000617,House of Representatives,118,MA,2023,2025,7.0
+P000617,House of Representatives,119,MA,2025,2027,7.0
+T000482,House of Representatives,116,MA,2019,2021,3.0
+T000482,House of Representatives,117,MA,2021,2023,3.0
+T000482,House of Representatives,118,MA,2023,2025,3.0
+T000482,House of Representatives,119,MA,2025,2027,3.0
+A000148,House of Representatives,117,MA,2021,2023,4.0
+A000148,House of Representatives,118,MA,2023,2025,4.0
+A000148,House of Representatives,119,MA,2025,2027,4.0
+M000312,House of Representatives,105,MA,1997,1999,3.0
+M000312,House of Representatives,106,MA,1999,2001,3.0
+M000312,House of Representatives,107,MA,2001,2003,3.0
+M000312,House of Representatives,108,MA,2003,2005,3.0
+M000312,House of Representatives,109,MA,2005,2007,3.0
+M000312,House of Representatives,110,MA,2007,2009,3.0
+M000312,House of Representatives,111,MA,2009,2011,3.0
+M000312,House of Representatives,112,MA,2011,2013,3.0
+M000312,House of Representatives,113,MA,2013,2015,2.0
+M000312,House of Representatives,114,MA,2015,2017,2.0
+M000312,House of Representatives,115,MA,2017,2019,2.0
+M000312,House of Representatives,116,MA,2019,2021,2.0
+M000312,House of Representatives,117,MA,2021,2023,2.0
+M000312,House of Representatives,118,MA,2023,2025,2.0
+M000312,House of Representatives,119,MA,2025,2027,2.0
+W000798,House of Representatives,110,MI,2007,2009,7.0
+W000798,House of Representatives,112,MI,2011,2013,7.0
+W000798,House of Representatives,113,MI,2013,2015,7.0
+W000798,House of Representatives,114,MI,2015,2017,7.0
+W000798,House of Representatives,115,MI,2017,2019,7.0
+W000798,House of Representatives,116,MI,2019,2021,7.0
+W000798,House of Representatives,117,MI,2021,2023,7.0
+W000798,House of Representatives,118,MI,2023,2025,5.0
+W000798,House of Representatives,119,MI,2025,2027,5.0
+H001058,House of Representatives,112,MI,2011,2013,2.0
+H001058,House of Representatives,113,MI,2013,2015,2.0
+H001058,House of Representatives,114,MI,2015,2017,2.0
+H001058,House of Representatives,115,MI,2017,2019,2.0
+H001058,House of Representatives,116,MI,2019,2021,2.0
+H001058,House of Representatives,117,MI,2021,2023,2.0
+H001058,House of Representatives,118,MI,2023,2025,4.0
+H001058,House of Representatives,119,MI,2025,2027,4.0
+M001194,House of Representatives,114,MI,2015,2017,4.0
+M001194,House of Representatives,115,MI,2017,2019,4.0
+M001194,House of Representatives,116,MI,2019,2021,4.0
+M001194,House of Representatives,117,MI,2021,2023,4.0
+M001194,House of Representatives,118,MI,2023,2025,2.0
+M001194,House of Representatives,119,MI,2025,2027,2.0
+D000624,House of Representatives,114,MI,2015,2017,12.0
+D000624,House of Representatives,115,MI,2017,2019,12.0
+D000624,House of Representatives,116,MI,2019,2021,12.0
+D000624,House of Representatives,117,MI,2021,2023,12.0
+D000624,House of Representatives,118,MI,2023,2025,6.0
+D000624,House of Representatives,119,MI,2025,2027,6.0
+B001301,House of Representatives,115,MI,2017,2019,1.0
+B001301,House of Representatives,116,MI,2019,2021,1.0
+B001301,House of Representatives,117,MI,2021,2023,1.0
+B001301,House of Representatives,118,MI,2023,2025,1.0
+B001301,House of Representatives,119,MI,2025,2027,1.0
+S001215,House of Representatives,116,MI,2019,2021,11.0
+S001215,House of Representatives,117,MI,2021,2023,11.0
+S001215,House of Representatives,118,MI,2023,2025,11.0
+S001215,House of Representatives,119,MI,2025,2027,11.0
+T000481,House of Representatives,116,MI,2019,2021,13.0
+T000481,House of Representatives,117,MI,2021,2023,13.0
+T000481,House of Representatives,118,MI,2023,2025,12.0
+T000481,House of Representatives,119,MI,2025,2027,12.0
+M001136,House of Representatives,117,MI,2021,2023,10.0
+M001136,House of Representatives,118,MI,2023,2025,9.0
+M001136,House of Representatives,119,MI,2025,2027,9.0
+J000307,House of Representatives,118,MI,2023,2025,10.0
+J000307,House of Representatives,119,MI,2025,2027,10.0
+S001221,House of Representatives,118,MI,2023,2025,3.0
+S001221,House of Representatives,119,MI,2025,2027,3.0
+T000488,House of Representatives,118,MI,2023,2025,13.0
+T000488,House of Representatives,119,MI,2025,2027,13.0
+B001321,House of Representatives,119,MI,2025,2027,7.0
+M001237,House of Representatives,119,MI,2025,2027,8.0
+M001143,House of Representatives,107,MN,2001,2003,4.0
+M001143,House of Representatives,108,MN,2003,2005,4.0
+M001143,House of Representatives,109,MN,2005,2007,4.0
+M001143,House of Representatives,110,MN,2007,2009,4.0
+M001143,House of Representatives,111,MN,2009,2011,4.0
+M001143,House of Representatives,112,MN,2011,2013,4.0
+M001143,House of Representatives,113,MN,2013,2015,4.0
+M001143,House of Representatives,114,MN,2015,2017,4.0
+M001143,House of Representatives,115,MN,2017,2019,4.0
+M001143,House of Representatives,116,MN,2019,2021,4.0
+M001143,House of Representatives,117,MN,2021,2023,4.0
+M001143,House of Representatives,118,MN,2023,2025,4.0
+M001143,House of Representatives,119,MN,2025,2027,4.0
+E000294,House of Representatives,114,MN,2015,2017,6.0
+E000294,House of Representatives,115,MN,2017,2019,6.0
+E000294,House of Representatives,116,MN,2019,2021,6.0
+E000294,House of Representatives,117,MN,2021,2023,6.0
+E000294,House of Representatives,118,MN,2023,2025,6.0
+E000294,House of Representatives,119,MN,2025,2027,6.0
+C001119,House of Representatives,116,MN,2019,2021,2.0
+C001119,House of Representatives,117,MN,2021,2023,2.0
+C001119,House of Representatives,118,MN,2023,2025,2.0
+C001119,House of Representatives,119,MN,2025,2027,2.0
+O000173,House of Representatives,116,MN,2019,2021,5.0
+O000173,House of Representatives,117,MN,2021,2023,5.0
+O000173,House of Representatives,118,MN,2023,2025,5.0
+O000173,House of Representatives,119,MN,2025,2027,5.0
+S001212,House of Representatives,116,MN,2019,2021,8.0
+S001212,House of Representatives,117,MN,2021,2023,8.0
+S001212,House of Representatives,118,MN,2023,2025,8.0
+S001212,House of Representatives,119,MN,2025,2027,8.0
+F000470,House of Representatives,117,MN,2021,2023,7.0
+F000470,House of Representatives,118,MN,2023,2025,7.0
+F000470,House of Representatives,119,MN,2025,2027,7.0
+F000475,House of Representatives,117,MN,2022,2023,1.0
+F000475,House of Representatives,118,MN,2023,2025,1.0
+F000475,House of Representatives,119,MN,2025,2027,1.0
+M001234,House of Representatives,119,MN,2025,2027,3.0
+K000388,House of Representatives,114,MS,2015,2017,1.0
+K000388,House of Representatives,115,MS,2017,2019,1.0
+K000388,House of Representatives,116,MS,2019,2021,1.0
+K000388,House of Representatives,117,MS,2021,2023,1.0
+K000388,House of Representatives,118,MS,2023,2025,1.0
+K000388,House of Representatives,119,MS,2025,2027,1.0
+G000591,House of Representatives,116,MS,2019,2021,3.0
+G000591,House of Representatives,117,MS,2021,2023,3.0
+G000591,House of Representatives,118,MS,2023,2025,3.0
+G000591,House of Representatives,119,MS,2025,2027,3.0
+E000235,House of Representatives,118,MS,2023,2025,4.0
+E000235,House of Representatives,119,MS,2025,2027,4.0
+T000193,House of Representatives,103,MS,1993,1995,2.0
+T000193,House of Representatives,104,MS,1995,1997,2.0
+T000193,House of Representatives,105,MS,1997,1999,2.0
+T000193,House of Representatives,106,MS,1999,2001,2.0
+T000193,House of Representatives,107,MS,2001,2003,2.0
+T000193,House of Representatives,108,MS,2003,2005,2.0
+T000193,House of Representatives,109,MS,2005,2007,2.0
+T000193,House of Representatives,110,MS,2007,2009,2.0
+T000193,House of Representatives,111,MS,2009,2011,2.0
+T000193,House of Representatives,112,MS,2011,2013,2.0
+T000193,House of Representatives,113,MS,2013,2015,2.0
+T000193,House of Representatives,114,MS,2015,2017,2.0
+T000193,House of Representatives,115,MS,2017,2019,2.0
+T000193,House of Representatives,116,MS,2019,2021,2.0
+T000193,House of Representatives,117,MS,2021,2023,2.0
+T000193,House of Representatives,118,MS,2023,2025,2.0
+T000193,House of Representatives,119,MS,2025,2027,2.0
+G000546,House of Representatives,107,MO,2001,2003,6.0
+G000546,House of Representatives,108,MO,2003,2005,6.0
+G000546,House of Representatives,109,MO,2005,2007,6.0
+G000546,House of Representatives,110,MO,2007,2009,6.0
+G000546,House of Representatives,111,MO,2009,2011,6.0
+G000546,House of Representatives,112,MO,2011,2013,6.0
+G000546,House of Representatives,113,MO,2013,2015,6.0
+G000546,House of Representatives,114,MO,2015,2017,6.0
+G000546,House of Representatives,115,MO,2017,2019,6.0
+G000546,House of Representatives,116,MO,2019,2021,6.0
+G000546,House of Representatives,117,MO,2021,2023,6.0
+G000546,House of Representatives,118,MO,2023,2025,6.0
+G000546,House of Representatives,119,MO,2025,2027,6.0
+C001061,House of Representatives,109,MO,2005,2007,5.0
+C001061,House of Representatives,110,MO,2007,2009,5.0
+C001061,House of Representatives,111,MO,2009,2011,5.0
+C001061,House of Representatives,112,MO,2011,2013,5.0
+C001061,House of Representatives,113,MO,2013,2015,5.0
+C001061,House of Representatives,114,MO,2015,2017,5.0
+C001061,House of Representatives,115,MO,2017,2019,5.0
+C001061,House of Representatives,116,MO,2019,2021,5.0
+C001061,House of Representatives,117,MO,2021,2023,5.0
+C001061,House of Representatives,118,MO,2023,2025,5.0
+C001061,House of Representatives,119,MO,2025,2027,5.0
+W000812,House of Representatives,113,MO,2013,2015,2.0
+W000812,House of Representatives,114,MO,2015,2017,2.0
+W000812,House of Representatives,115,MO,2017,2019,2.0
+W000812,House of Representatives,116,MO,2019,2021,2.0
+W000812,House of Representatives,117,MO,2021,2023,2.0
+W000812,House of Representatives,118,MO,2023,2025,2.0
+W000812,House of Representatives,119,MO,2025,2027,2.0
+S001195,House of Representatives,113,MO,2013,2015,8.0
+S001195,House of Representatives,114,MO,2015,2017,8.0
+S001195,House of Representatives,115,MO,2017,2019,8.0
+S001195,House of Representatives,116,MO,2019,2021,8.0
+S001195,House of Representatives,117,MO,2021,2023,8.0
+S001195,House of Representatives,118,MO,2023,2025,8.0
+S001195,House of Representatives,119,MO,2025,2027,8.0
+A000379,House of Representatives,118,MO,2023,2025,4.0
+A000379,House of Representatives,119,MO,2025,2027,4.0
+B001316,House of Representatives,118,MO,2023,2025,7.0
+B001316,House of Representatives,119,MO,2025,2027,7.0
+B001324,House of Representatives,119,MO,2025,2027,1.0
+O000177,House of Representatives,119,MO,2025,2027,3.0
+Z000018,House of Representatives,114,MT,2015,2017,
+Z000018,House of Representatives,115,MT,2017,2017,
+Z000018,House of Representatives,118,MT,2023,2025,1.0
+Z000018,House of Representatives,119,MT,2025,2027,1.0
+D000634,House of Representatives,119,MT,2025,2027,2.0
+S001172,House of Representatives,110,NE,2007,2009,3.0
+S001172,House of Representatives,111,NE,2009,2011,3.0
+S001172,House of Representatives,112,NE,2011,2013,3.0
+S001172,House of Representatives,113,NE,2013,2015,3.0
+S001172,House of Representatives,114,NE,2015,2017,3.0
+S001172,House of Representatives,115,NE,2017,2019,3.0
+S001172,House of Representatives,116,NE,2019,2021,3.0
+S001172,House of Representatives,117,NE,2021,2023,3.0
+S001172,House of Representatives,118,NE,2023,2025,3.0
+S001172,House of Representatives,119,NE,2025,2027,3.0
+B001298,House of Representatives,115,NE,2017,2019,2.0
+B001298,House of Representatives,116,NE,2019,2021,2.0
+B001298,House of Representatives,117,NE,2021,2023,2.0
+B001298,House of Representatives,118,NE,2023,2025,2.0
+B001298,House of Representatives,119,NE,2025,2027,2.0
+F000474,House of Representatives,117,NE,2022,2023,1.0
+F000474,House of Representatives,118,NE,2023,2025,1.0
+F000474,House of Representatives,119,NE,2025,2027,1.0
+T000468,House of Representatives,111,NV,2009,2011,3.0
+T000468,House of Representatives,113,NV,2013,2015,1.0
+T000468,House of Representatives,114,NV,2015,2017,1.0
+T000468,House of Representatives,115,NV,2017,2019,1.0
+T000468,House of Representatives,116,NV,2019,2021,1.0
+T000468,House of Representatives,117,NV,2021,2023,1.0
+T000468,House of Representatives,118,NV,2023,2025,1.0
+T000468,House of Representatives,119,NV,2025,2027,1.0
+A000369,House of Representatives,112,NV,2011,2013,2.0
+A000369,House of Representatives,113,NV,2013,2015,2.0
+A000369,House of Representatives,114,NV,2015,2017,2.0
+A000369,House of Representatives,115,NV,2017,2019,2.0
+A000369,House of Representatives,116,NV,2019,2021,2.0
+A000369,House of Representatives,117,NV,2021,2023,2.0
+A000369,House of Representatives,118,NV,2023,2025,2.0
+A000369,House of Representatives,119,NV,2025,2027,2.0
+H001066,House of Representatives,113,NV,2013,2015,4.0
+H001066,House of Representatives,116,NV,2019,2021,4.0
+H001066,House of Representatives,117,NV,2021,2023,4.0
+H001066,House of Representatives,118,NV,2023,2025,4.0
+H001066,House of Representatives,119,NV,2025,2027,4.0
+L000590,House of Representatives,116,NV,2019,2021,3.0
+L000590,House of Representatives,117,NV,2021,2023,3.0
+L000590,House of Representatives,118,NV,2023,2025,3.0
+L000590,House of Representatives,119,NV,2025,2027,3.0
+P000614,House of Representatives,116,NH,2019,2021,1.0
+P000614,House of Representatives,117,NH,2021,2023,1.0
+P000614,House of Representatives,118,NH,2023,2025,1.0
+P000614,House of Representatives,119,NH,2025,2027,1.0
+G000604,House of Representatives,119,NH,2025,2027,2.0
+S000522,House of Representatives,97,NJ,1981,1983,4.0
+S000522,House of Representatives,98,NJ,1983,1985,4.0
+S000522,House of Representatives,99,NJ,1985,1987,4.0
+S000522,House of Representatives,100,NJ,1987,1989,4.0
+S000522,House of Representatives,101,NJ,1989,1991,4.0
+S000522,House of Representatives,102,NJ,1991,1993,4.0
+S000522,House of Representatives,103,NJ,1993,1995,4.0
+S000522,House of Representatives,104,NJ,1995,1997,4.0
+S000522,House of Representatives,105,NJ,1997,1999,4.0
+S000522,House of Representatives,106,NJ,1999,2001,4.0
+S000522,House of Representatives,107,NJ,2001,2003,4.0
+S000522,House of Representatives,108,NJ,2003,2005,4.0
+S000522,House of Representatives,109,NJ,2005,2007,4.0
+S000522,House of Representatives,110,NJ,2007,2009,4.0
+S000522,House of Representatives,111,NJ,2009,2011,4.0
+S000522,House of Representatives,112,NJ,2011,2013,4.0
+S000522,House of Representatives,113,NJ,2013,2015,4.0
+S000522,House of Representatives,114,NJ,2015,2017,4.0
+S000522,House of Representatives,115,NJ,2017,2019,4.0
+S000522,House of Representatives,116,NJ,2019,2021,4.0
+S000522,House of Representatives,117,NJ,2021,2023,4.0
+S000522,House of Representatives,118,NJ,2023,2025,4.0
+S000522,House of Representatives,119,NJ,2025,2027,4.0
+P000034,House of Representatives,100,NJ,1987,1989,3.0
+P000034,House of Representatives,101,NJ,1989,1991,3.0
+P000034,House of Representatives,102,NJ,1991,1993,3.0
+P000034,House of Representatives,103,NJ,1993,1995,6.0
+P000034,House of Representatives,104,NJ,1995,1997,6.0
+P000034,House of Representatives,105,NJ,1997,1999,6.0
+P000034,House of Representatives,106,NJ,1999,2001,6.0
+P000034,House of Representatives,107,NJ,2001,2003,6.0
+P000034,House of Representatives,108,NJ,2003,2005,6.0
+P000034,House of Representatives,109,NJ,2005,2007,6.0
+P000034,House of Representatives,110,NJ,2007,2009,6.0
+P000034,House of Representatives,111,NJ,2009,2011,6.0
+P000034,House of Representatives,112,NJ,2011,2013,6.0
+P000034,House of Representatives,113,NJ,2013,2015,6.0
+P000034,House of Representatives,114,NJ,2015,2017,6.0
+P000034,House of Representatives,115,NJ,2017,2019,6.0
+P000034,House of Representatives,116,NJ,2019,2021,6.0
+P000034,House of Representatives,117,NJ,2021,2023,6.0
+P000034,House of Representatives,118,NJ,2023,2025,6.0
+P000034,House of Representatives,119,NJ,2025,2027,6.0
+N000188,House of Representatives,113,NJ,2014,2015,1.0
+N000188,House of Representatives,114,NJ,2015,2017,1.0
+N000188,House of Representatives,115,NJ,2017,2019,1.0
+N000188,House of Representatives,116,NJ,2019,2021,1.0
+N000188,House of Representatives,117,NJ,2021,2023,1.0
+N000188,House of Representatives,118,NJ,2023,2025,1.0
+N000188,House of Representatives,119,NJ,2025,2027,1.0
+W000822,House of Representatives,114,NJ,2015,2017,12.0
+W000822,House of Representatives,115,NJ,2017,2019,12.0
+W000822,House of Representatives,116,NJ,2019,2021,12.0
+W000822,House of Representatives,117,NJ,2021,2023,12.0
+W000822,House of Representatives,118,NJ,2023,2025,12.0
+W000822,House of Representatives,119,NJ,2025,2027,12.0
+G000583,House of Representatives,115,NJ,2017,2019,5.0
+G000583,House of Representatives,116,NJ,2019,2021,5.0
+G000583,House of Representatives,117,NJ,2021,2023,5.0
+G000583,House of Representatives,118,NJ,2023,2025,5.0
+G000583,House of Representatives,119,NJ,2025,2027,5.0
+S001207,House of Representatives,116,NJ,2019,2021,11.0
+S001207,House of Representatives,117,NJ,2021,2023,11.0
+S001207,House of Representatives,118,NJ,2023,2025,11.0
+S001207,House of Representatives,119,NJ,2025,2027,11.0
+K000398,House of Representatives,118,NJ,2023,2025,7.0
+K000398,House of Representatives,119,NJ,2025,2027,7.0
+M001226,House of Representatives,118,NJ,2023,2025,8.0
+M001226,House of Representatives,119,NJ,2025,2027,8.0
+M001229,House of Representatives,118,NJ,2024,2025,10.0
+M001229,House of Representatives,119,NJ,2025,2027,10.0
+C001136,House of Representatives,119,NJ,2025,2027,3.0
+P000621,House of Representatives,119,NJ,2025,2027,9.0
+V000133,House of Representatives,116,NJ,2019,2021,2.0
+V000133,House of Representatives,117,NJ,2021,2023,2.0
+V000133,House of Representatives,118,NJ,2023,2025,2.0
+V000133,House of Representatives,119,NJ,2025,2027,2.0
+L000273,House of Representatives,117,NM,2021,2023,3.0
+L000273,House of Representatives,118,NM,2023,2025,3.0
+L000273,House of Representatives,119,NM,2025,2027,3.0
+S001218,House of Representatives,117,NM,2021,2023,1.0
+S001218,House of Representatives,118,NM,2023,2025,1.0
+S001218,House of Representatives,119,NM,2025,2027,1.0
+V000136,House of Representatives,118,NM,2023,2025,2.0
+V000136,House of Representatives,119,NM,2025,2027,2.0
+C001067,House of Representatives,110,NY,2007,2009,11.0
+C001067,House of Representatives,111,NY,2009,2011,11.0
+C001067,House of Representatives,112,NY,2011,2013,11.0
+C001067,House of Representatives,113,NY,2013,2015,9.0
+C001067,House of Representatives,114,NY,2015,2017,9.0
+C001067,House of Representatives,115,NY,2017,2019,9.0
+C001067,House of Representatives,116,NY,2019,2021,9.0
+C001067,House of Representatives,117,NY,2021,2023,9.0
+C001067,House of Representatives,118,NY,2023,2025,9.0
+C001067,House of Representatives,119,NY,2025,2027,9.0
+T000469,House of Representatives,111,NY,2009,2011,21.0
+T000469,House of Representatives,112,NY,2011,2013,21.0
+T000469,House of Representatives,113,NY,2013,2015,20.0
+T000469,House of Representatives,114,NY,2015,2017,20.0
+T000469,House of Representatives,115,NY,2017,2019,20.0
+T000469,House of Representatives,116,NY,2019,2021,20.0
+T000469,House of Representatives,117,NY,2021,2023,20.0
+T000469,House of Representatives,118,NY,2023,2025,20.0
+T000469,House of Representatives,119,NY,2025,2027,20.0
+M001188,House of Representatives,113,NY,2013,2015,6.0
+M001188,House of Representatives,114,NY,2015,2017,6.0
+M001188,House of Representatives,115,NY,2017,2019,6.0
+M001188,House of Representatives,116,NY,2019,2021,6.0
+M001188,House of Representatives,117,NY,2021,2023,6.0
+M001188,House of Representatives,118,NY,2023,2025,6.0
+M001188,House of Representatives,119,NY,2025,2027,6.0
+J000294,House of Representatives,113,NY,2013,2015,8.0
+J000294,House of Representatives,114,NY,2015,2017,8.0
+J000294,House of Representatives,115,NY,2017,2019,8.0
+J000294,House of Representatives,116,NY,2019,2021,8.0
+J000294,House of Representatives,117,NY,2021,2023,8.0
+J000294,House of Representatives,118,NY,2023,2025,8.0
+J000294,House of Representatives,119,NY,2025,2027,8.0
+S001196,House of Representatives,114,NY,2015,2017,21.0
+S001196,House of Representatives,115,NY,2017,2019,21.0
+S001196,House of Representatives,116,NY,2019,2021,21.0
+S001196,House of Representatives,117,NY,2021,2023,21.0
+S001196,House of Representatives,118,NY,2023,2025,21.0
+S001196,House of Representatives,119,NY,2025,2027,21.0
+E000297,House of Representatives,115,NY,2017,2019,13.0
+E000297,House of Representatives,116,NY,2019,2021,13.0
+E000297,House of Representatives,117,NY,2021,2023,13.0
+E000297,House of Representatives,118,NY,2023,2025,13.0
+E000297,House of Representatives,119,NY,2025,2027,13.0
+S001201,House of Representatives,115,NY,2017,2019,3.0
+S001201,House of Representatives,116,NY,2019,2021,3.0
+S001201,House of Representatives,117,NY,2021,2023,3.0
+S001201,House of Representatives,118,NY,2024,2025,3.0
+S001201,House of Representatives,119,NY,2025,2027,3.0
+T000478,House of Representatives,115,NY,2017,2019,22.0
+T000478,House of Representatives,117,NY,2021,2023,22.0
+T000478,House of Representatives,118,NY,2023,2025,24.0
+T000478,House of Representatives,119,NY,2025,2027,24.0
+M001206,House of Representatives,115,NY,2018,2019,25.0
+M001206,House of Representatives,116,NY,2019,2021,25.0
+M001206,House of Representatives,117,NY,2021,2023,25.0
+M001206,House of Representatives,118,NY,2023,2025,25.0
+M001206,House of Representatives,119,NY,2025,2027,25.0
+O000172,House of Representatives,116,NY,2019,2021,14.0
+O000172,House of Representatives,117,NY,2021,2023,14.0
+O000172,House of Representatives,118,NY,2023,2025,14.0
+O000172,House of Representatives,119,NY,2025,2027,14.0
+G000597,House of Representatives,117,NY,2021,2023,2.0
+G000597,House of Representatives,118,NY,2023,2025,2.0
+G000597,House of Representatives,119,NY,2025,2027,2.0
+M000317,House of Representatives,117,NY,2021,2023,11.0
+M000317,House of Representatives,118,NY,2023,2025,11.0
+M000317,House of Representatives,119,NY,2025,2027,11.0
+T000486,House of Representatives,117,NY,2021,2023,15.0
+T000486,House of Representatives,118,NY,2023,2025,15.0
+T000486,House of Representatives,119,NY,2025,2027,15.0
+R000579,House of Representatives,117,NY,2022,2023,19.0
+R000579,House of Representatives,118,NY,2023,2025,18.0
+R000579,House of Representatives,119,NY,2025,2027,18.0
+G000599,House of Representatives,118,NY,2023,2025,10.0
+G000599,House of Representatives,119,NY,2025,2027,10.0
+L000598,House of Representatives,118,NY,2023,2025,1.0
+L000598,House of Representatives,119,NY,2025,2027,1.0
+L000600,House of Representatives,118,NY,2023,2025,23.0
+L000600,House of Representatives,119,NY,2025,2027,23.0
+L000599,House of Representatives,118,NY,2023,2025,17.0
+L000599,House of Representatives,119,NY,2025,2027,17.0
+K000402,House of Representatives,118,NY,2024,2025,26.0
+K000402,House of Representatives,119,NY,2025,2027,26.0
+G000602,House of Representatives,119,NY,2025,2027,4.0
+L000606,House of Representatives,119,NY,2025,2027,16.0
+M001231,House of Representatives,119,NY,2025,2027,22.0
+R000622,House of Representatives,119,NY,2025,2027,19.0
+N000002,House of Representatives,102,NY,1991,1993,17.0
+N000002,House of Representatives,103,NY,1993,1995,8.0
+N000002,House of Representatives,104,NY,1995,1997,8.0
+N000002,House of Representatives,105,NY,1997,1999,8.0
+N000002,House of Representatives,106,NY,1999,2001,8.0
+N000002,House of Representatives,107,NY,2001,2003,8.0
+N000002,House of Representatives,108,NY,2003,2005,8.0
+N000002,House of Representatives,109,NY,2005,2007,8.0
+N000002,House of Representatives,110,NY,2007,2009,8.0
+N000002,House of Representatives,111,NY,2009,2011,8.0
+N000002,House of Representatives,112,NY,2011,2013,8.0
+N000002,House of Representatives,113,NY,2013,2015,10.0
+N000002,House of Representatives,114,NY,2015,2017,10.0
+N000002,House of Representatives,115,NY,2017,2019,10.0
+N000002,House of Representatives,116,NY,2019,2021,10.0
+N000002,House of Representatives,117,NY,2021,2023,10.0
+N000002,House of Representatives,118,NY,2023,2025,12.0
+N000002,House of Representatives,119,NY,2025,2027,12.0
+V000081,House of Representatives,103,NY,1993,1995,12.0
+V000081,House of Representatives,104,NY,1995,1997,12.0
+V000081,House of Representatives,105,NY,1997,1999,12.0
+V000081,House of Representatives,106,NY,1999,2001,12.0
+V000081,House of Representatives,107,NY,2001,2003,12.0
+V000081,House of Representatives,108,NY,2003,2005,12.0
+V000081,House of Representatives,109,NY,2005,2007,12.0
+V000081,House of Representatives,110,NY,2007,2009,12.0
+V000081,House of Representatives,111,NY,2009,2011,12.0
+V000081,House of Representatives,112,NY,2011,2013,12.0
+V000081,House of Representatives,113,NY,2013,2015,7.0
+V000081,House of Representatives,114,NY,2015,2017,7.0
+V000081,House of Representatives,115,NY,2017,2019,7.0
+V000081,House of Representatives,116,NY,2019,2021,7.0
+V000081,House of Representatives,117,NY,2021,2023,7.0
+V000081,House of Representatives,118,NY,2023,2025,7.0
+V000081,House of Representatives,119,NY,2025,2027,7.0
+M001137,House of Representatives,105,NY,1997,1999,6.0
+M001137,House of Representatives,106,NY,1999,2001,6.0
+M001137,House of Representatives,107,NY,2001,2003,6.0
+M001137,House of Representatives,108,NY,2003,2005,6.0
+M001137,House of Representatives,109,NY,2005,2007,6.0
+M001137,House of Representatives,110,NY,2007,2009,6.0
+M001137,House of Representatives,111,NY,2009,2011,6.0
+M001137,House of Representatives,112,NY,2011,2013,6.0
+M001137,House of Representatives,113,NY,2013,2015,5.0
+M001137,House of Representatives,114,NY,2015,2017,5.0
+M001137,House of Representatives,115,NY,2017,2019,5.0
+M001137,House of Representatives,116,NY,2019,2021,5.0
+M001137,House of Representatives,117,NY,2021,2023,5.0
+M001137,House of Representatives,118,NY,2023,2025,5.0
+M001137,House of Representatives,119,NY,2025,2027,5.0
+F000450,House of Representatives,109,NC,2005,2007,5.0
+F000450,House of Representatives,110,NC,2007,2009,5.0
+F000450,House of Representatives,111,NC,2009,2011,5.0
+F000450,House of Representatives,112,NC,2011,2013,5.0
+F000450,House of Representatives,113,NC,2013,2015,5.0
+F000450,House of Representatives,114,NC,2015,2017,5.0
+F000450,House of Representatives,115,NC,2017,2019,5.0
+F000450,House of Representatives,116,NC,2019,2021,5.0
+F000450,House of Representatives,117,NC,2021,2023,5.0
+F000450,House of Representatives,118,NC,2023,2025,5.0
+F000450,House of Representatives,119,NC,2025,2027,5.0
+H001067,House of Representatives,113,NC,2013,2015,8.0
+H001067,House of Representatives,114,NC,2015,2017,8.0
+H001067,House of Representatives,115,NC,2017,2019,8.0
+H001067,House of Representatives,116,NC,2019,2021,8.0
+H001067,House of Representatives,117,NC,2021,2023,8.0
+H001067,House of Representatives,118,NC,2023,2025,9.0
+H001067,House of Representatives,119,NC,2025,2027,9.0
+R000603,House of Representatives,114,NC,2015,2017,7.0
+R000603,House of Representatives,115,NC,2017,2019,7.0
+R000603,House of Representatives,116,NC,2019,2021,7.0
+R000603,House of Representatives,117,NC,2021,2023,7.0
+R000603,House of Representatives,118,NC,2023,2025,7.0
+R000603,House of Representatives,119,NC,2025,2027,7.0
+A000370,House of Representatives,113,NC,2014,2015,12.0
+A000370,House of Representatives,114,NC,2015,2017,12.0
+A000370,House of Representatives,115,NC,2017,2019,12.0
+A000370,House of Representatives,116,NC,2019,2021,12.0
+A000370,House of Representatives,117,NC,2021,2023,12.0
+A000370,House of Representatives,118,NC,2023,2025,12.0
+A000370,House of Representatives,119,NC,2025,2027,12.0
+M001210,House of Representatives,116,NC,2019,2021,3.0
+M001210,House of Representatives,117,NC,2021,2023,3.0
+M001210,House of Representatives,118,NC,2023,2025,3.0
+M001210,House of Representatives,119,NC,2025,2027,3.0
+R000305,House of Representatives,117,NC,2021,2023,2.0
+R000305,House of Representatives,118,NC,2023,2025,2.0
+R000305,House of Representatives,119,NC,2025,2027,2.0
+D000230,House of Representatives,118,NC,2023,2025,1.0
+D000230,House of Representatives,119,NC,2025,2027,1.0
+E000246,House of Representatives,118,NC,2023,2025,11.0
+E000246,House of Representatives,119,NC,2025,2027,11.0
+F000477,House of Representatives,118,NC,2023,2025,4.0
+F000477,House of Representatives,119,NC,2025,2027,4.0
+H001101,House of Representatives,119,NC,2025,2027,10.0
+H001102,House of Representatives,119,NC,2025,2027,8.0
+K000405,House of Representatives,119,NC,2025,2027,13.0
+M001240,House of Representatives,119,NC,2025,2027,6.0
+M001236,House of Representatives,119,NC,2025,2027,14.0
+F000482,House of Representatives,119,ND,2025,2027,
+K000404,House of Representatives,119,MP,2025,2027,
+K000009,House of Representatives,98,OH,1983,1985,9.0
+K000009,House of Representatives,99,OH,1985,1987,9.0
+K000009,House of Representatives,100,OH,1987,1989,9.0
+K000009,House of Representatives,101,OH,1989,1991,9.0
+K000009,House of Representatives,102,OH,1991,1993,9.0
+K000009,House of Representatives,103,OH,1993,1995,9.0
+K000009,House of Representatives,104,OH,1995,1997,9.0
+K000009,House of Representatives,105,OH,1997,1999,9.0
+K000009,House of Representatives,106,OH,1999,2001,9.0
+K000009,House of Representatives,107,OH,2001,2003,9.0
+K000009,House of Representatives,108,OH,2003,2005,9.0
+K000009,House of Representatives,109,OH,2005,2007,9.0
+K000009,House of Representatives,110,OH,2007,2009,9.0
+K000009,House of Representatives,111,OH,2009,2011,9.0
+K000009,House of Representatives,112,OH,2011,2013,9.0
+K000009,House of Representatives,113,OH,2013,2015,9.0
+K000009,House of Representatives,114,OH,2015,2017,9.0
+K000009,House of Representatives,115,OH,2017,2019,9.0
+K000009,House of Representatives,116,OH,2019,2021,9.0
+K000009,House of Representatives,117,OH,2021,2023,9.0
+K000009,House of Representatives,118,OH,2023,2025,9.0
+K000009,House of Representatives,119,OH,2025,2027,9.0
+T000463,House of Representatives,108,OH,2003,2005,3.0
+T000463,House of Representatives,109,OH,2005,2007,3.0
+T000463,House of Representatives,110,OH,2007,2009,3.0
+T000463,House of Representatives,111,OH,2009,2011,3.0
+T000463,House of Representatives,112,OH,2011,2013,3.0
+T000463,House of Representatives,113,OH,2013,2015,10.0
+T000463,House of Representatives,114,OH,2015,2017,10.0
+T000463,House of Representatives,115,OH,2017,2019,10.0
+T000463,House of Representatives,116,OH,2019,2021,10.0
+T000463,House of Representatives,117,OH,2021,2023,10.0
+T000463,House of Representatives,118,OH,2023,2025,10.0
+T000463,House of Representatives,119,OH,2025,2027,10.0
+J000289,House of Representatives,110,OH,2007,2009,4.0
+J000289,House of Representatives,111,OH,2009,2011,4.0
+J000289,House of Representatives,112,OH,2011,2013,4.0
+J000289,House of Representatives,113,OH,2013,2015,4.0
+J000289,House of Representatives,114,OH,2015,2017,4.0
+J000289,House of Representatives,115,OH,2017,2019,4.0
+J000289,House of Representatives,116,OH,2019,2021,4.0
+J000289,House of Representatives,117,OH,2021,2023,4.0
+J000289,House of Representatives,118,OH,2023,2025,4.0
+J000289,House of Representatives,119,OH,2025,2027,4.0
+L000566,House of Representatives,110,OH,2007,2009,5.0
+L000566,House of Representatives,111,OH,2009,2011,5.0
+L000566,House of Representatives,112,OH,2011,2013,5.0
+L000566,House of Representatives,113,OH,2013,2015,5.0
+L000566,House of Representatives,114,OH,2015,2017,5.0
+L000566,House of Representatives,115,OH,2017,2019,5.0
+L000566,House of Representatives,116,OH,2019,2021,5.0
+L000566,House of Representatives,117,OH,2021,2023,5.0
+L000566,House of Representatives,118,OH,2023,2025,5.0
+L000566,House of Representatives,119,OH,2025,2027,5.0
+B001281,House of Representatives,113,OH,2013,2015,3.0
+B001281,House of Representatives,114,OH,2015,2017,3.0
+B001281,House of Representatives,115,OH,2017,2019,3.0
+B001281,House of Representatives,116,OH,2019,2021,3.0
+B001281,House of Representatives,117,OH,2021,2023,3.0
+B001281,House of Representatives,118,OH,2023,2025,3.0
+B001281,House of Representatives,119,OH,2025,2027,3.0
+J000295,House of Representatives,113,OH,2013,2015,14.0
+J000295,House of Representatives,114,OH,2015,2017,14.0
+J000295,House of Representatives,115,OH,2017,2019,14.0
+J000295,House of Representatives,116,OH,2019,2021,14.0
+J000295,House of Representatives,117,OH,2021,2023,14.0
+J000295,House of Representatives,118,OH,2023,2025,14.0
+J000295,House of Representatives,119,OH,2025,2027,14.0
+D000626,House of Representatives,114,OH,2016,2017,8.0
+D000626,House of Representatives,115,OH,2017,2019,8.0
+D000626,House of Representatives,116,OH,2019,2021,8.0
+D000626,House of Representatives,117,OH,2021,2023,8.0
+D000626,House of Representatives,118,OH,2023,2025,8.0
+D000626,House of Representatives,119,OH,2025,2027,8.0
+B001306,House of Representatives,115,OH,2018,2019,12.0
+B001306,House of Representatives,116,OH,2019,2021,12.0
+B001306,House of Representatives,117,OH,2021,2023,12.0
+B001306,House of Representatives,118,OH,2023,2025,12.0
+B001306,House of Representatives,119,OH,2025,2027,12.0
+B001313,House of Representatives,117,OH,2021,2023,11.0
+B001313,House of Representatives,118,OH,2023,2025,11.0
+B001313,House of Representatives,119,OH,2025,2027,11.0
+C001126,House of Representatives,117,OH,2021,2023,15.0
+C001126,House of Representatives,118,OH,2023,2025,15.0
+C001126,House of Representatives,119,OH,2025,2027,15.0
+L000601,House of Representatives,118,OH,2023,2025,1.0
+L000601,House of Representatives,119,OH,2025,2027,1.0
+M001222,House of Representatives,118,OH,2023,2025,7.0
+M001222,House of Representatives,119,OH,2025,2027,7.0
+S001223,House of Representatives,118,OH,2023,2025,13.0
+S001223,House of Representatives,119,OH,2025,2027,13.0
+R000619,House of Representatives,118,OH,2024,2025,6.0
+R000619,House of Representatives,119,OH,2025,2027,6.0
+T000490,House of Representatives,119,OH,2025,2027,2.0
+C001053,House of Representatives,108,OK,2003,2005,4.0
+C001053,House of Representatives,109,OK,2005,2007,4.0
+C001053,House of Representatives,110,OK,2007,2009,4.0
+C001053,House of Representatives,111,OK,2009,2011,4.0
+C001053,House of Representatives,112,OK,2011,2013,4.0
+C001053,House of Representatives,113,OK,2013,2015,4.0
+C001053,House of Representatives,114,OK,2015,2017,4.0
+C001053,House of Representatives,115,OK,2017,2019,4.0
+C001053,House of Representatives,116,OK,2019,2021,4.0
+C001053,House of Representatives,117,OK,2021,2023,4.0
+C001053,House of Representatives,118,OK,2023,2025,4.0
+C001053,House of Representatives,119,OK,2025,2027,4.0
+H001082,House of Representatives,115,OK,2018,2019,1.0
+H001082,House of Representatives,116,OK,2019,2021,1.0
+H001082,House of Representatives,117,OK,2021,2023,1.0
+H001082,House of Representatives,118,OK,2023,2025,1.0
+H001082,House of Representatives,119,OK,2025,2027,1.0
+B000740,House of Representatives,117,OK,2021,2023,5.0
+B000740,House of Representatives,118,OK,2023,2025,5.0
+B000740,House of Representatives,119,OK,2025,2027,5.0
+B001317,House of Representatives,118,OK,2023,2025,2.0
+B001317,House of Representatives,119,OK,2025,2027,2.0
+L000491,House of Representatives,103,OK,1993,1995,6.0
+L000491,House of Representatives,104,OK,1995,1997,6.0
+L000491,House of Representatives,105,OK,1997,1999,6.0
+L000491,House of Representatives,106,OK,1999,2001,6.0
+L000491,House of Representatives,107,OK,2001,2003,6.0
+L000491,House of Representatives,108,OK,2003,2005,3.0
+L000491,House of Representatives,109,OK,2005,2007,3.0
+L000491,House of Representatives,110,OK,2007,2009,3.0
+L000491,House of Representatives,111,OK,2009,2011,3.0
+L000491,House of Representatives,112,OK,2011,2013,3.0
+L000491,House of Representatives,113,OK,2013,2015,3.0
+L000491,House of Representatives,114,OK,2015,2017,3.0
+L000491,House of Representatives,115,OK,2017,2019,3.0
+L000491,House of Representatives,116,OK,2019,2021,3.0
+L000491,House of Representatives,117,OK,2021,2023,3.0
+L000491,House of Representatives,118,OK,2023,2025,3.0
+L000491,House of Representatives,119,OK,2025,2027,3.0
+B001278,House of Representatives,112,OR,2012,2013,1.0
+B001278,House of Representatives,113,OR,2013,2015,1.0
+B001278,House of Representatives,114,OR,2015,2017,1.0
+B001278,House of Representatives,115,OR,2017,2019,1.0
+B001278,House of Representatives,116,OR,2019,2021,1.0
+B001278,House of Representatives,117,OR,2021,2023,1.0
+B001278,House of Representatives,118,OR,2023,2025,1.0
+B001278,House of Representatives,119,OR,2025,2027,1.0
+B000668,House of Representatives,117,OR,2021,2023,2.0
+B000668,House of Representatives,118,OR,2023,2025,2.0
+B000668,House of Representatives,119,OR,2025,2027,2.0
+H001094,House of Representatives,118,OR,2023,2025,4.0
+H001094,House of Representatives,119,OR,2025,2027,4.0
+S001226,House of Representatives,118,OR,2023,2025,6.0
+S001226,House of Representatives,119,OR,2025,2027,6.0
+B001326,House of Representatives,119,OR,2025,2027,5.0
+D000635,House of Representatives,119,OR,2025,2027,3.0
+T000467,House of Representatives,111,PA,2009,2011,5.0
+T000467,House of Representatives,112,PA,2011,2013,5.0
+T000467,House of Representatives,113,PA,2013,2015,5.0
+T000467,House of Representatives,114,PA,2015,2017,5.0
+T000467,House of Representatives,115,PA,2017,2019,5.0
+T000467,House of Representatives,116,PA,2019,2021,15.0
+T000467,House of Representatives,117,PA,2021,2023,15.0
+T000467,House of Representatives,118,PA,2023,2025,15.0
+T000467,House of Representatives,119,PA,2025,2027,15.0
+K000376,House of Representatives,112,PA,2011,2013,3.0
+K000376,House of Representatives,113,PA,2013,2015,3.0
+K000376,House of Representatives,114,PA,2015,2017,3.0
+K000376,House of Representatives,115,PA,2017,2019,3.0
+K000376,House of Representatives,116,PA,2019,2021,16.0
+K000376,House of Representatives,117,PA,2021,2023,16.0
+K000376,House of Representatives,118,PA,2023,2025,16.0
+K000376,House of Representatives,119,PA,2025,2027,16.0
+P000605,House of Representatives,113,PA,2013,2015,4.0
+P000605,House of Representatives,114,PA,2015,2017,4.0
+P000605,House of Representatives,115,PA,2017,2019,4.0
+P000605,House of Representatives,116,PA,2019,2021,10.0
+P000605,House of Representatives,117,PA,2021,2023,10.0
+P000605,House of Representatives,118,PA,2023,2025,10.0
+P000605,House of Representatives,119,PA,2025,2027,10.0
+B001296,House of Representatives,114,PA,2015,2017,13.0
+B001296,House of Representatives,115,PA,2017,2019,13.0
+B001296,House of Representatives,116,PA,2019,2021,2.0
+B001296,House of Representatives,117,PA,2021,2023,2.0
+B001296,House of Representatives,118,PA,2023,2025,2.0
+B001296,House of Representatives,119,PA,2025,2027,2.0
+E000296,House of Representatives,114,PA,2016,2017,2.0
+E000296,House of Representatives,115,PA,2017,2019,2.0
+E000296,House of Representatives,116,PA,2019,2021,3.0
+E000296,House of Representatives,117,PA,2021,2023,3.0
+E000296,House of Representatives,118,PA,2023,2025,3.0
+E000296,House of Representatives,119,PA,2025,2027,3.0
+F000466,House of Representatives,115,PA,2017,2019,8.0
+F000466,House of Representatives,116,PA,2019,2021,1.0
+F000466,House of Representatives,117,PA,2021,2023,1.0
+F000466,House of Representatives,118,PA,2023,2025,1.0
+F000466,House of Representatives,119,PA,2025,2027,1.0
+S001199,House of Representatives,115,PA,2017,2019,16.0
+S001199,House of Representatives,116,PA,2019,2021,11.0
+S001199,House of Representatives,117,PA,2021,2023,11.0
+S001199,House of Representatives,118,PA,2023,2025,11.0
+S001199,House of Representatives,119,PA,2025,2027,11.0
+S001205,House of Representatives,115,PA,2018,2019,7.0
+S001205,House of Representatives,116,PA,2019,2021,5.0
+S001205,House of Representatives,117,PA,2021,2023,5.0
+S001205,House of Representatives,118,PA,2023,2025,5.0
+S001205,House of Representatives,119,PA,2025,2027,5.0
+D000631,House of Representatives,116,PA,2019,2021,4.0
+D000631,House of Representatives,117,PA,2021,2023,4.0
+D000631,House of Representatives,118,PA,2023,2025,4.0
+D000631,House of Representatives,119,PA,2025,2027,4.0
+H001085,House of Representatives,116,PA,2019,2021,6.0
+H001085,House of Representatives,117,PA,2021,2023,6.0
+H001085,House of Representatives,118,PA,2023,2025,6.0
+H001085,House of Representatives,119,PA,2025,2027,6.0
+J000302,House of Representatives,116,PA,2019,2021,13.0
+J000302,House of Representatives,117,PA,2021,2023,13.0
+J000302,House of Representatives,118,PA,2023,2025,13.0
+J000302,House of Representatives,119,PA,2025,2027,13.0
+M001204,House of Representatives,116,PA,2019,2021,9.0
+M001204,House of Representatives,117,PA,2021,2023,9.0
+M001204,House of Representatives,118,PA,2023,2025,9.0
+M001204,House of Representatives,119,PA,2025,2027,9.0
+R000610,House of Representatives,116,PA,2019,2021,14.0
+R000610,House of Representatives,117,PA,2021,2023,14.0
+R000610,House of Representatives,118,PA,2023,2025,14.0
+R000610,House of Representatives,119,PA,2025,2027,14.0
+D000530,House of Representatives,118,PA,2023,2025,17.0
+D000530,House of Representatives,119,PA,2025,2027,17.0
+L000602,House of Representatives,118,PA,2023,2025,12.0
+L000602,House of Representatives,119,PA,2025,2027,12.0
+B001327,House of Representatives,119,PA,2025,2027,8.0
+M001230,House of Representatives,119,PA,2025,2027,7.0
+H001103,House of Representatives,119,PR,2025,2027,
+M001223,House of Representatives,118,RI,2023,2025,2.0
+M001223,House of Representatives,119,RI,2025,2027,2.0
+A000380,House of Representatives,118,RI,2023,2025,1.0
+A000380,House of Representatives,119,RI,2025,2027,1.0
+W000795,House of Representatives,107,SC,2001,2003,2.0
+W000795,House of Representatives,108,SC,2003,2005,2.0
+W000795,House of Representatives,109,SC,2005,2007,2.0
+W000795,House of Representatives,110,SC,2007,2009,2.0
+W000795,House of Representatives,111,SC,2009,2011,2.0
+W000795,House of Representatives,112,SC,2011,2013,2.0
+W000795,House of Representatives,113,SC,2013,2015,2.0
+W000795,House of Representatives,114,SC,2015,2017,2.0
+W000795,House of Representatives,115,SC,2017,2019,2.0
+W000795,House of Representatives,116,SC,2019,2021,2.0
+W000795,House of Representatives,117,SC,2021,2023,2.0
+W000795,House of Representatives,118,SC,2023,2025,2.0
+W000795,House of Representatives,119,SC,2025,2027,2.0
+N000190,House of Representatives,115,SC,2017,2019,5.0
+N000190,House of Representatives,116,SC,2019,2021,5.0
+N000190,House of Representatives,117,SC,2021,2023,5.0
+N000190,House of Representatives,118,SC,2023,2025,5.0
+N000190,House of Representatives,119,SC,2025,2027,5.0
+T000480,House of Representatives,116,SC,2019,2021,4.0
+T000480,House of Representatives,117,SC,2021,2023,4.0
+T000480,House of Representatives,118,SC,2023,2025,4.0
+T000480,House of Representatives,119,SC,2025,2027,4.0
+M000194,House of Representatives,117,SC,2021,2023,1.0
+M000194,House of Representatives,118,SC,2023,2025,1.0
+M000194,House of Representatives,119,SC,2025,2027,1.0
+F000478,House of Representatives,118,SC,2023,2025,7.0
+F000478,House of Representatives,119,SC,2025,2027,7.0
+B001325,House of Representatives,119,SC,2025,2027,3.0
+C000537,House of Representatives,103,SC,1993,1995,6.0
+C000537,House of Representatives,104,SC,1995,1997,6.0
+C000537,House of Representatives,105,SC,1997,1999,6.0
+C000537,House of Representatives,106,SC,1999,2001,6.0
+C000537,House of Representatives,107,SC,2001,2003,6.0
+C000537,House of Representatives,108,SC,2003,2005,6.0
+C000537,House of Representatives,109,SC,2005,2007,6.0
+C000537,House of Representatives,110,SC,2007,2009,6.0
+C000537,House of Representatives,111,SC,2009,2011,6.0
+C000537,House of Representatives,112,SC,2011,2013,6.0
+C000537,House of Representatives,113,SC,2013,2015,6.0
+C000537,House of Representatives,114,SC,2015,2017,6.0
+C000537,House of Representatives,115,SC,2017,2019,6.0
+C000537,House of Representatives,116,SC,2019,2021,6.0
+C000537,House of Representatives,117,SC,2021,2023,6.0
+C000537,House of Representatives,118,SC,2023,2025,6.0
+C000537,House of Representatives,119,SC,2025,2027,6.0
+J000301,House of Representatives,116,SD,2019,2021,
+J000301,House of Representatives,117,SD,2021,2023,
+J000301,House of Representatives,118,SD,2023,2025,
+J000301,House of Representatives,119,SD,2025,2027,
+C001068,House of Representatives,110,TN,2007,2009,9.0
+C001068,House of Representatives,111,TN,2009,2011,9.0
+C001068,House of Representatives,112,TN,2011,2013,9.0
+C001068,House of Representatives,113,TN,2013,2015,9.0
+C001068,House of Representatives,114,TN,2015,2017,9.0
+C001068,House of Representatives,115,TN,2017,2019,9.0
+C001068,House of Representatives,116,TN,2019,2021,9.0
+C001068,House of Representatives,117,TN,2021,2023,9.0
+C001068,House of Representatives,118,TN,2023,2025,9.0
+C001068,House of Representatives,119,TN,2025,2027,9.0
+F000459,House of Representatives,112,TN,2011,2013,3.0
+F000459,House of Representatives,113,TN,2013,2015,3.0
+F000459,House of Representatives,114,TN,2015,2017,3.0
+F000459,House of Representatives,115,TN,2017,2019,3.0
+F000459,House of Representatives,116,TN,2019,2021,3.0
+F000459,House of Representatives,117,TN,2021,2023,3.0
+F000459,House of Representatives,118,TN,2023,2025,3.0
+F000459,House of Representatives,119,TN,2025,2027,3.0
+D000616,House of Representatives,112,TN,2011,2013,4.0
+D000616,House of Representatives,113,TN,2013,2015,4.0
+D000616,House of Representatives,114,TN,2015,2017,4.0
+D000616,House of Representatives,115,TN,2017,2019,4.0
+D000616,House of Representatives,116,TN,2019,2021,4.0
+D000616,House of Representatives,117,TN,2021,2023,4.0
+D000616,House of Representatives,118,TN,2023,2025,4.0
+D000616,House of Representatives,119,TN,2025,2027,4.0
+K000392,House of Representatives,115,TN,2017,2019,8.0
+K000392,House of Representatives,116,TN,2019,2021,8.0
+K000392,House of Representatives,117,TN,2021,2023,8.0
+K000392,House of Representatives,118,TN,2023,2025,8.0
+K000392,House of Representatives,119,TN,2025,2027,8.0
+B001309,House of Representatives,116,TN,2019,2021,2.0
+B001309,House of Representatives,117,TN,2021,2023,2.0
+B001309,House of Representatives,118,TN,2023,2025,2.0
+B001309,House of Representatives,119,TN,2025,2027,2.0
+G000590,House of Representatives,116,TN,2019,2021,7.0
+G000590,House of Representatives,117,TN,2021,2023,7.0
+G000590,House of Representatives,118,TN,2023,2025,7.0
+G000590,House of Representatives,119,TN,2025,2025,7.0
+R000612,House of Representatives,116,TN,2019,2021,6.0
+R000612,House of Representatives,117,TN,2021,2023,6.0
+R000612,House of Representatives,118,TN,2023,2025,6.0
+R000612,House of Representatives,119,TN,2025,2027,6.0
+H001086,House of Representatives,117,TN,2021,2023,1.0
+H001086,House of Representatives,118,TN,2023,2025,1.0
+H001086,House of Representatives,119,TN,2025,2027,1.0
+O000175,House of Representatives,118,TN,2023,2025,5.0
+O000175,House of Representatives,119,TN,2025,2027,5.0
+C001051,House of Representatives,108,TX,2003,2005,31.0
+C001051,House of Representatives,109,TX,2005,2007,31.0
+C001051,House of Representatives,110,TX,2007,2009,31.0
+C001051,House of Representatives,111,TX,2009,2011,31.0
+C001051,House of Representatives,112,TX,2011,2013,31.0
+C001051,House of Representatives,113,TX,2013,2015,31.0
+C001051,House of Representatives,114,TX,2015,2017,31.0
+C001051,House of Representatives,115,TX,2017,2019,31.0
+C001051,House of Representatives,116,TX,2019,2021,31.0
+C001051,House of Representatives,117,TX,2021,2023,31.0
+C001051,House of Representatives,118,TX,2023,2025,31.0
+C001051,House of Representatives,119,TX,2025,2027,31.0
+G000553,House of Representatives,109,TX,2005,2007,9.0
+G000553,House of Representatives,110,TX,2007,2009,9.0
+G000553,House of Representatives,111,TX,2009,2011,9.0
+G000553,House of Representatives,112,TX,2011,2013,9.0
+G000553,House of Representatives,113,TX,2013,2015,9.0
+G000553,House of Representatives,114,TX,2015,2017,9.0
+G000553,House of Representatives,115,TX,2017,2019,9.0
+G000553,House of Representatives,116,TX,2019,2021,9.0
+G000553,House of Representatives,117,TX,2021,2023,9.0
+G000553,House of Representatives,118,TX,2023,2025,9.0
+G000553,House of Representatives,119,TX,2025,2027,9.0
+M001157,House of Representatives,109,TX,2005,2007,10.0
+M001157,House of Representatives,110,TX,2007,2009,10.0
+M001157,House of Representatives,111,TX,2009,2011,10.0
+M001157,House of Representatives,112,TX,2011,2013,10.0
+M001157,House of Representatives,113,TX,2013,2015,10.0
+M001157,House of Representatives,114,TX,2015,2017,10.0
+M001157,House of Representatives,115,TX,2017,2019,10.0
+M001157,House of Representatives,116,TX,2019,2021,10.0
+M001157,House of Representatives,117,TX,2021,2023,10.0
+M001157,House of Representatives,118,TX,2023,2025,10.0
+M001157,House of Representatives,119,TX,2025,2027,10.0
+C001063,House of Representatives,109,TX,2005,2007,28.0
+C001063,House of Representatives,110,TX,2007,2009,28.0
+C001063,House of Representatives,111,TX,2009,2011,28.0
+C001063,House of Representatives,112,TX,2011,2013,28.0
+C001063,House of Representatives,113,TX,2013,2015,28.0
+C001063,House of Representatives,114,TX,2015,2017,28.0
+C001063,House of Representatives,115,TX,2017,2019,28.0
+C001063,House of Representatives,116,TX,2019,2021,28.0
+C001063,House of Representatives,117,TX,2021,2023,28.0
+C001063,House of Representatives,118,TX,2023,2025,28.0
+C001063,House of Representatives,119,TX,2025,2027,28.0
+W000814,House of Representatives,113,TX,2013,2015,14.0
+W000814,House of Representatives,114,TX,2015,2017,14.0
+W000814,House of Representatives,115,TX,2017,2019,14.0
+W000814,House of Representatives,116,TX,2019,2021,14.0
+W000814,House of Representatives,117,TX,2021,2023,14.0
+W000814,House of Representatives,118,TX,2023,2025,14.0
+W000814,House of Representatives,119,TX,2025,2027,14.0
+C001091,House of Representatives,113,TX,2013,2015,20.0
+C001091,House of Representatives,114,TX,2015,2017,20.0
+C001091,House of Representatives,115,TX,2017,2019,20.0
+C001091,House of Representatives,116,TX,2019,2021,20.0
+C001091,House of Representatives,117,TX,2021,2023,20.0
+C001091,House of Representatives,118,TX,2023,2025,20.0
+C001091,House of Representatives,119,TX,2025,2027,20.0
+W000816,House of Representatives,113,TX,2013,2015,25.0
+W000816,House of Representatives,114,TX,2015,2017,25.0
+W000816,House of Representatives,115,TX,2017,2019,25.0
+W000816,House of Representatives,116,TX,2019,2021,25.0
+W000816,House of Representatives,117,TX,2021,2023,25.0
+W000816,House of Representatives,118,TX,2023,2025,25.0
+W000816,House of Representatives,119,TX,2025,2027,25.0
+V000131,House of Representatives,113,TX,2013,2015,33.0
+V000131,House of Representatives,114,TX,2015,2017,33.0
+V000131,House of Representatives,115,TX,2017,2019,33.0
+V000131,House of Representatives,116,TX,2019,2021,33.0
+V000131,House of Representatives,117,TX,2021,2023,33.0
+V000131,House of Representatives,118,TX,2023,2025,33.0
+V000131,House of Representatives,119,TX,2025,2027,33.0
+B001291,House of Representatives,114,TX,2015,2017,36.0
+B001291,House of Representatives,115,TX,2017,2019,36.0
+B001291,House of Representatives,116,TX,2019,2021,36.0
+B001291,House of Representatives,117,TX,2021,2023,36.0
+B001291,House of Representatives,118,TX,2023,2025,36.0
+B001291,House of Representatives,119,TX,2025,2027,36.0
+A000375,House of Representatives,115,TX,2017,2019,19.0
+A000375,House of Representatives,116,TX,2019,2021,19.0
+A000375,House of Representatives,117,TX,2021,2023,19.0
+A000375,House of Representatives,118,TX,2023,2025,19.0
+A000375,House of Representatives,119,TX,2025,2027,19.0
+G000581,House of Representatives,115,TX,2017,2019,15.0
+G000581,House of Representatives,116,TX,2019,2021,15.0
+G000581,House of Representatives,117,TX,2021,2023,15.0
+G000581,House of Representatives,118,TX,2023,2025,34.0
+G000581,House of Representatives,119,TX,2025,2027,34.0
+C001115,House of Representatives,115,TX,2018,2019,27.0
+C001115,House of Representatives,116,TX,2019,2021,27.0
+C001115,House of Representatives,117,TX,2021,2023,27.0
+C001115,House of Representatives,118,TX,2023,2025,27.0
+C001115,House of Representatives,119,TX,2025,2027,27.0
+C001120,House of Representatives,116,TX,2019,2021,2.0
+C001120,House of Representatives,117,TX,2021,2023,2.0
+C001120,House of Representatives,118,TX,2023,2025,2.0
+C001120,House of Representatives,119,TX,2025,2027,2.0
+E000299,House of Representatives,116,TX,2019,2021,16.0
+E000299,House of Representatives,117,TX,2021,2023,16.0
+E000299,House of Representatives,118,TX,2023,2025,16.0
+E000299,House of Representatives,119,TX,2025,2027,16.0
+F000468,House of Representatives,116,TX,2019,2021,7.0
+F000468,House of Representatives,117,TX,2021,2023,7.0
+F000468,House of Representatives,118,TX,2023,2025,7.0
+F000468,House of Representatives,119,TX,2025,2027,7.0
+G000587,House of Representatives,116,TX,2019,2021,29.0
+G000587,House of Representatives,117,TX,2021,2023,29.0
+G000587,House of Representatives,118,TX,2023,2025,29.0
+G000587,House of Representatives,119,TX,2025,2027,29.0
+G000589,House of Representatives,116,TX,2019,2021,5.0
+G000589,House of Representatives,117,TX,2021,2023,5.0
+G000589,House of Representatives,118,TX,2023,2025,5.0
+G000589,House of Representatives,119,TX,2025,2027,5.0
+R000614,House of Representatives,116,TX,2019,2021,21.0
+R000614,House of Representatives,117,TX,2021,2023,21.0
+R000614,House of Representatives,118,TX,2023,2025,21.0
+R000614,House of Representatives,119,TX,2025,2027,21.0
+F000246,House of Representatives,117,TX,2021,2023,4.0
+F000246,House of Representatives,118,TX,2023,2025,4.0
+F000246,House of Representatives,119,TX,2025,2027,4.0
+G000594,House of Representatives,117,TX,2021,2023,23.0
+G000594,House of Representatives,118,TX,2023,2025,23.0
+G000594,House of Representatives,119,TX,2025,2027,23.0
+J000304,House of Representatives,117,TX,2021,2023,13.0
+J000304,House of Representatives,118,TX,2023,2025,13.0
+J000304,House of Representatives,119,TX,2025,2027,13.0
+N000026,House of Representatives,117,TX,2021,2023,22.0
+N000026,House of Representatives,118,TX,2023,2025,22.0
+N000026,House of Representatives,119,TX,2025,2027,22.0
+P000048,House of Representatives,117,TX,2021,2023,11.0
+P000048,House of Representatives,118,TX,2023,2025,11.0
+P000048,House of Representatives,119,TX,2025,2027,11.0
+V000134,House of Representatives,117,TX,2021,2023,24.0
+V000134,House of Representatives,118,TX,2023,2025,24.0
+V000134,House of Representatives,119,TX,2025,2027,24.0
+E000071,House of Representatives,117,TX,2021,2023,6.0
+E000071,House of Representatives,118,TX,2023,2025,6.0
+E000071,House of Representatives,119,TX,2025,2027,6.0
+C001131,House of Representatives,118,TX,2023,2025,35.0
+C001131,House of Representatives,119,TX,2025,2027,35.0
+C001130,House of Representatives,118,TX,2023,2025,30.0
+C001130,House of Representatives,119,TX,2025,2027,30.0
+D000594,House of Representatives,118,TX,2023,2025,15.0
+D000594,House of Representatives,119,TX,2025,2027,15.0
+H001095,House of Representatives,118,TX,2023,2025,38.0
+H001095,House of Representatives,119,TX,2025,2027,38.0
+L000603,House of Representatives,118,TX,2023,2025,8.0
+L000603,House of Representatives,119,TX,2025,2027,8.0
+M001224,House of Representatives,118,TX,2023,2025,1.0
+M001224,House of Representatives,119,TX,2025,2027,1.0
+S001224,House of Representatives,118,TX,2023,2025,3.0
+S001224,House of Representatives,119,TX,2025,2027,3.0
+G000603,House of Representatives,119,TX,2025,2027,26.0
+G000601,House of Representatives,119,TX,2025,2027,12.0
+J000310,House of Representatives,119,TX,2025,2027,32.0
+T000489,House of Representatives,119,TX,2025,2025,18.0
+D000399,House of Representatives,104,TX,1995,1997,10.0
+D000399,House of Representatives,105,TX,1997,1999,10.0
+D000399,House of Representatives,106,TX,1999,2001,10.0
+D000399,House of Representatives,107,TX,2001,2003,10.0
+D000399,House of Representatives,108,TX,2003,2005,10.0
+D000399,House of Representatives,109,TX,2005,2007,25.0
+D000399,House of Representatives,110,TX,2007,2009,25.0
+D000399,House of Representatives,111,TX,2009,2011,25.0
+D000399,House of Representatives,112,TX,2011,2013,25.0
+D000399,House of Representatives,113,TX,2013,2015,35.0
+D000399,House of Representatives,114,TX,2015,2017,35.0
+D000399,House of Representatives,115,TX,2017,2019,35.0
+D000399,House of Representatives,116,TX,2019,2021,35.0
+D000399,House of Representatives,117,TX,2021,2023,35.0
+D000399,House of Representatives,118,TX,2023,2025,37.0
+D000399,House of Representatives,119,TX,2025,2027,37.0
+S000250,House of Representatives,105,TX,1997,1999,5.0
+S000250,House of Representatives,106,TX,1999,2001,5.0
+S000250,House of Representatives,107,TX,2001,2003,5.0
+S000250,House of Representatives,108,TX,2003,2005,32.0
+S000250,House of Representatives,109,TX,2005,2007,32.0
+S000250,House of Representatives,110,TX,2007,2009,32.0
+S000250,House of Representatives,111,TX,2009,2011,32.0
+S000250,House of Representatives,112,TX,2011,2013,32.0
+S000250,House of Representatives,113,TX,2013,2015,32.0
+S000250,House of Representatives,114,TX,2015,2017,32.0
+S000250,House of Representatives,115,TX,2017,2019,32.0
+S000250,House of Representatives,117,TX,2021,2023,17.0
+S000250,House of Representatives,118,TX,2023,2025,17.0
+S000250,House of Representatives,119,TX,2025,2027,17.0
+M001213,House of Representatives,117,UT,2021,2023,1.0
+M001213,House of Representatives,118,UT,2023,2025,1.0
+M001213,House of Representatives,119,UT,2025,2027,1.0
+O000086,House of Representatives,117,UT,2021,2023,4.0
+O000086,House of Representatives,118,UT,2023,2025,4.0
+O000086,House of Representatives,119,UT,2025,2027,4.0
+M001228,House of Representatives,118,UT,2023,2025,2.0
+M001228,House of Representatives,119,UT,2025,2027,2.0
+K000403,House of Representatives,119,UT,2025,2027,3.0
+B001318,House of Representatives,118,VT,2023,2025,
+B001318,House of Representatives,119,VT,2025,2027,
+P000610,House of Representatives,114,VI,2015,2017,
+P000610,House of Representatives,115,VI,2017,2019,
+P000610,House of Representatives,116,VI,2019,2021,
+P000610,House of Representatives,117,VI,2021,2023,
+P000610,House of Representatives,118,VI,2023,2025,
+P000610,House of Representatives,119,VI,2025,2027,
+W000804,House of Representatives,110,VA,2007,2009,1.0
+W000804,House of Representatives,111,VA,2009,2011,1.0
+W000804,House of Representatives,112,VA,2011,2013,1.0
+W000804,House of Representatives,113,VA,2013,2015,1.0
+W000804,House of Representatives,114,VA,2015,2017,1.0
+W000804,House of Representatives,115,VA,2017,2019,1.0
+W000804,House of Representatives,116,VA,2019,2021,1.0
+W000804,House of Representatives,117,VA,2021,2023,1.0
+W000804,House of Representatives,118,VA,2023,2025,1.0
+W000804,House of Representatives,119,VA,2025,2027,1.0
+C001078,House of Representatives,111,VA,2009,2011,11.0
+C001078,House of Representatives,112,VA,2011,2013,11.0
+C001078,House of Representatives,113,VA,2013,2015,11.0
+C001078,House of Representatives,114,VA,2015,2017,11.0
+C001078,House of Representatives,115,VA,2017,2019,11.0
+C001078,House of Representatives,116,VA,2019,2021,11.0
+C001078,House of Representatives,117,VA,2021,2023,11.0
+C001078,House of Representatives,118,VA,2023,2025,11.0
+C001078,House of Representatives,119,VA,2025,2025,11.0
+G000568,House of Representatives,112,VA,2011,2013,9.0
+G000568,House of Representatives,113,VA,2013,2015,9.0
+G000568,House of Representatives,114,VA,2015,2017,9.0
+G000568,House of Representatives,115,VA,2017,2019,9.0
+G000568,House of Representatives,116,VA,2019,2021,9.0
+G000568,House of Representatives,117,VA,2021,2023,9.0
+G000568,House of Representatives,118,VA,2023,2025,9.0
+G000568,House of Representatives,119,VA,2025,2027,9.0
+B001292,House of Representatives,114,VA,2015,2017,8.0
+B001292,House of Representatives,115,VA,2017,2019,8.0
+B001292,House of Representatives,116,VA,2019,2021,8.0
+B001292,House of Representatives,117,VA,2021,2023,8.0
+B001292,House of Representatives,118,VA,2023,2025,8.0
+B001292,House of Representatives,119,VA,2025,2027,8.0
+C001118,House of Representatives,116,VA,2019,2021,6.0
+C001118,House of Representatives,117,VA,2021,2023,6.0
+C001118,House of Representatives,118,VA,2023,2025,6.0
+C001118,House of Representatives,119,VA,2025,2027,6.0
+K000399,House of Representatives,118,VA,2023,2025,2.0
+K000399,House of Representatives,119,VA,2025,2027,2.0
+M001227,House of Representatives,118,VA,2023,2025,4.0
+M001227,House of Representatives,119,VA,2025,2027,4.0
+M001239,House of Representatives,119,VA,2025,2027,5.0
+S001230,House of Representatives,119,VA,2025,2027,10.0
+V000138,House of Representatives,119,VA,2025,2027,7.0
+W000831,House of Representatives,119,VA,2025,2027,11.0
+S000185,House of Representatives,103,VA,1993,1995,3.0
+S000185,House of Representatives,104,VA,1995,1997,3.0
+S000185,House of Representatives,105,VA,1997,1999,3.0
+S000185,House of Representatives,106,VA,1999,2001,3.0
+S000185,House of Representatives,107,VA,2001,2003,3.0
+S000185,House of Representatives,108,VA,2003,2005,3.0
+S000185,House of Representatives,109,VA,2005,2007,3.0
+S000185,House of Representatives,110,VA,2007,2009,3.0
+S000185,House of Representatives,111,VA,2009,2011,3.0
+S000185,House of Representatives,112,VA,2011,2013,3.0
+S000185,House of Representatives,113,VA,2013,2015,3.0
+S000185,House of Representatives,114,VA,2015,2017,3.0
+S000185,House of Representatives,115,VA,2017,2019,3.0
+S000185,House of Representatives,116,VA,2019,2021,3.0
+S000185,House of Representatives,117,VA,2021,2023,3.0
+S000185,House of Representatives,118,VA,2023,2025,3.0
+S000185,House of Representatives,119,VA,2025,2027,3.0
+L000560,House of Representatives,107,WA,2001,2003,2.0
+L000560,House of Representatives,108,WA,2003,2005,2.0
+L000560,House of Representatives,109,WA,2005,2007,2.0
+L000560,House of Representatives,110,WA,2007,2009,2.0
+L000560,House of Representatives,111,WA,2009,2011,2.0
+L000560,House of Representatives,112,WA,2011,2013,2.0
+L000560,House of Representatives,113,WA,2013,2015,2.0
+L000560,House of Representatives,114,WA,2015,2017,2.0
+L000560,House of Representatives,115,WA,2017,2019,2.0
+L000560,House of Representatives,116,WA,2019,2021,2.0
+L000560,House of Representatives,117,WA,2021,2023,2.0
+L000560,House of Representatives,118,WA,2023,2025,2.0
+L000560,House of Representatives,119,WA,2025,2027,2.0
+N000189,House of Representatives,114,WA,2015,2017,4.0
+N000189,House of Representatives,115,WA,2017,2019,4.0
+N000189,House of Representatives,116,WA,2019,2021,4.0
+N000189,House of Representatives,117,WA,2021,2023,4.0
+N000189,House of Representatives,118,WA,2023,2025,4.0
+N000189,House of Representatives,119,WA,2025,2027,4.0
+J000298,House of Representatives,115,WA,2017,2019,7.0
+J000298,House of Representatives,116,WA,2019,2021,7.0
+J000298,House of Representatives,117,WA,2021,2023,7.0
+J000298,House of Representatives,118,WA,2023,2025,7.0
+J000298,House of Representatives,119,WA,2025,2027,7.0
+S001216,House of Representatives,116,WA,2019,2021,8.0
+S001216,House of Representatives,117,WA,2021,2023,8.0
+S001216,House of Representatives,118,WA,2023,2025,8.0
+S001216,House of Representatives,119,WA,2025,2027,8.0
+S001159,House of Representatives,117,WA,2021,2023,10.0
+S001159,House of Representatives,118,WA,2023,2025,10.0
+S001159,House of Representatives,119,WA,2025,2027,10.0
+G000600,House of Representatives,118,WA,2023,2025,3.0
+G000600,House of Representatives,119,WA,2025,2027,3.0
+B001322,House of Representatives,119,WA,2025,2027,5.0
+R000621,House of Representatives,119,WA,2025,2027,6.0
+S000510,House of Representatives,105,WA,1997,1999,9.0
+S000510,House of Representatives,106,WA,1999,2001,9.0
+S000510,House of Representatives,107,WA,2001,2003,9.0
+S000510,House of Representatives,108,WA,2003,2005,9.0
+S000510,House of Representatives,109,WA,2005,2007,9.0
+S000510,House of Representatives,110,WA,2007,2009,9.0
+S000510,House of Representatives,111,WA,2009,2011,9.0
+S000510,House of Representatives,112,WA,2011,2013,9.0
+S000510,House of Representatives,113,WA,2013,2015,9.0
+S000510,House of Representatives,114,WA,2015,2017,9.0
+S000510,House of Representatives,115,WA,2017,2019,9.0
+S000510,House of Representatives,116,WA,2019,2021,9.0
+S000510,House of Representatives,117,WA,2021,2023,9.0
+S000510,House of Representatives,118,WA,2023,2025,9.0
+S000510,House of Representatives,119,WA,2025,2027,9.0
+D000617,House of Representatives,112,WA,2012,2013,1.0
+D000617,House of Representatives,113,WA,2013,2015,1.0
+D000617,House of Representatives,114,WA,2015,2017,1.0
+D000617,House of Representatives,115,WA,2017,2019,1.0
+D000617,House of Representatives,116,WA,2019,2021,1.0
+D000617,House of Representatives,117,WA,2021,2023,1.0
+D000617,House of Representatives,118,WA,2023,2025,1.0
+D000617,House of Representatives,119,WA,2025,2027,1.0
+M001205,House of Representatives,116,WV,2019,2021,3.0
+M001205,House of Representatives,117,WV,2021,2023,3.0
+M001205,House of Representatives,118,WV,2023,2025,1.0
+M001205,House of Representatives,119,WV,2025,2027,1.0
+M001235,House of Representatives,119,WV,2025,2027,2.0
+M001160,House of Representatives,109,WI,2005,2007,4.0
+M001160,House of Representatives,110,WI,2007,2009,4.0
+M001160,House of Representatives,111,WI,2009,2011,4.0
+M001160,House of Representatives,112,WI,2011,2013,4.0
+M001160,House of Representatives,113,WI,2013,2015,4.0
+M001160,House of Representatives,114,WI,2015,2017,4.0
+M001160,House of Representatives,115,WI,2017,2019,4.0
+M001160,House of Representatives,116,WI,2019,2021,4.0
+M001160,House of Representatives,117,WI,2021,2023,4.0
+M001160,House of Representatives,118,WI,2023,2025,4.0
+M001160,House of Representatives,119,WI,2025,2027,4.0
+P000607,House of Representatives,113,WI,2013,2015,2.0
+P000607,House of Representatives,114,WI,2015,2017,2.0
+P000607,House of Representatives,115,WI,2017,2019,2.0
+P000607,House of Representatives,116,WI,2019,2021,2.0
+P000607,House of Representatives,117,WI,2021,2023,2.0
+P000607,House of Representatives,118,WI,2023,2025,2.0
+P000607,House of Representatives,119,WI,2025,2027,2.0
+G000576,House of Representatives,114,WI,2015,2017,6.0
+G000576,House of Representatives,115,WI,2017,2019,6.0
+G000576,House of Representatives,116,WI,2019,2021,6.0
+G000576,House of Representatives,117,WI,2021,2023,6.0
+G000576,House of Representatives,118,WI,2023,2025,6.0
+G000576,House of Representatives,119,WI,2025,2027,6.0
+S001213,House of Representatives,116,WI,2019,2021,1.0
+S001213,House of Representatives,117,WI,2021,2023,1.0
+S001213,House of Representatives,118,WI,2023,2025,1.0
+S001213,House of Representatives,119,WI,2025,2027,1.0
+T000165,House of Representatives,116,WI,2020,2021,7.0
+T000165,House of Representatives,117,WI,2021,2023,7.0
+T000165,House of Representatives,118,WI,2023,2025,7.0
+T000165,House of Representatives,119,WI,2025,2027,7.0
+F000471,House of Representatives,117,WI,2021,2023,5.0
+F000471,House of Representatives,118,WI,2023,2025,5.0
+F000471,House of Representatives,119,WI,2025,2027,5.0
+V000135,House of Representatives,118,WI,2023,2025,3.0
+V000135,House of Representatives,119,WI,2025,2027,3.0
+W000829,House of Representatives,118,WI,2024,2025,8.0
+W000829,House of Representatives,119,WI,2025,2027,8.0
+H001096,House of Representatives,118,WY,2023,2025,
+H001096,House of Representatives,119,WY,2025,2027,
+T000278,Senate,117,AL,2021,2023,
+T000278,Senate,118,AL,2023,2025,
+T000278,Senate,119,AL,2025,2027,
+B001319,Senate,118,AL,2023,2025,
+B001319,Senate,119,AL,2025,2027,
+M001153,Senate,107,AK,2002,2003,
+M001153,Senate,108,AK,2003,2005,
+M001153,Senate,109,AK,2005,2007,
+M001153,Senate,110,AK,2007,2009,
+M001153,Senate,111,AK,2009,2011,
+M001153,Senate,112,AK,2011,2013,
+M001153,Senate,113,AK,2013,2015,
+M001153,Senate,114,AK,2015,2017,
+M001153,Senate,115,AK,2017,2019,
+M001153,Senate,116,AK,2019,2021,
+M001153,Senate,117,AK,2021,2023,
+M001153,Senate,118,AK,2023,2025,
+M001153,Senate,119,AK,2025,2027,
+S001198,Senate,114,AK,2015,2017,
+S001198,Senate,115,AK,2017,2019,
+S001198,Senate,116,AK,2019,2021,
+S001198,Senate,117,AK,2021,2023,
+S001198,Senate,118,AK,2023,2025,
+S001198,Senate,119,AK,2025,2027,
+G000574,House of Representatives,114,AZ,2015,2017,7.0
+G000574,House of Representatives,115,AZ,2017,2019,7.0
+G000574,House of Representatives,116,AZ,2019,2021,7.0
+G000574,House of Representatives,117,AZ,2021,2023,7.0
+G000574,House of Representatives,118,AZ,2023,2025,3.0
+G000574,Senate,119,AZ,2025,2027,
+K000377,Senate,116,AZ,2020,2021,
+K000377,Senate,117,AZ,2021,2023,
+K000377,Senate,118,AZ,2023,2025,
+K000377,Senate,119,AZ,2025,2027,
+B001236,House of Representatives,107,AR,2001,2003,3.0
+B001236,House of Representatives,108,AR,2003,2005,3.0
+B001236,House of Representatives,109,AR,2005,2007,3.0
+B001236,House of Representatives,110,AR,2007,2009,3.0
+B001236,House of Representatives,111,AR,2009,2011,3.0
+B001236,Senate,112,AR,2011,2013,
+B001236,Senate,113,AR,2013,2015,
+B001236,Senate,114,AR,2015,2017,
+B001236,Senate,115,AR,2017,2019,
+B001236,Senate,116,AR,2019,2021,
+B001236,Senate,117,AR,2021,2023,
+B001236,Senate,118,AR,2023,2025,
+B001236,Senate,119,AR,2025,2027,
+C001095,House of Representatives,113,AR,2013,2015,4.0
+C001095,Senate,114,AR,2015,2017,
+C001095,Senate,115,AR,2017,2019,
+C001095,Senate,116,AR,2019,2021,
+C001095,Senate,117,AR,2021,2023,
+C001095,Senate,118,AR,2023,2025,
+C001095,Senate,119,AR,2025,2027,
+S001150,House of Representatives,107,CA,2001,2003,27.0
+S001150,House of Representatives,108,CA,2003,2005,29.0
+S001150,House of Representatives,109,CA,2005,2007,29.0
+S001150,House of Representatives,110,CA,2007,2009,29.0
+S001150,House of Representatives,111,CA,2009,2011,29.0
+S001150,House of Representatives,112,CA,2011,2013,29.0
+S001150,House of Representatives,113,CA,2013,2015,28.0
+S001150,House of Representatives,114,CA,2015,2017,28.0
+S001150,House of Representatives,115,CA,2017,2019,28.0
+S001150,House of Representatives,116,CA,2019,2021,28.0
+S001150,House of Representatives,117,CA,2021,2023,28.0
+S001150,House of Representatives,118,CA,2023,2024,28.0
+S001150,Senate,118,CA,2024,2025,
+S001150,Senate,119,CA,2025,2027,
+P000145,Senate,117,CA,2021,2023,
+P000145,Senate,118,CA,2023,2025,
+P000145,Senate,119,CA,2025,2027,
+B001267,Senate,111,CO,2009,2011,
+B001267,Senate,112,CO,2011,2013,
+B001267,Senate,113,CO,2013,2015,
+B001267,Senate,114,CO,2015,2017,
+B001267,Senate,115,CO,2017,2019,
+B001267,Senate,116,CO,2019,2021,
+B001267,Senate,117,CO,2021,2023,
+B001267,Senate,118,CO,2023,2025,
+B001267,Senate,119,CO,2025,2027,
+H000273,Senate,117,CO,2021,2023,
+H000273,Senate,118,CO,2023,2025,
+H000273,Senate,119,CO,2025,2027,
+M001169,House of Representatives,110,CT,2007,2009,5.0
+M001169,House of Representatives,111,CT,2009,2011,5.0
+M001169,House of Representatives,112,CT,2011,2013,5.0
+M001169,Senate,113,CT,2013,2015,
+M001169,Senate,114,CT,2015,2017,
+M001169,Senate,115,CT,2017,2019,
+M001169,Senate,116,CT,2019,2021,
+M001169,Senate,117,CT,2021,2023,
+M001169,Senate,118,CT,2023,2025,
+M001169,Senate,119,CT,2025,2027,
+B001277,Senate,112,CT,2011,2013,
+B001277,Senate,113,CT,2013,2015,
+B001277,Senate,114,CT,2015,2017,
+B001277,Senate,115,CT,2017,2019,
+B001277,Senate,116,CT,2019,2021,
+B001277,Senate,117,CT,2021,2023,
+B001277,Senate,118,CT,2023,2025,
+B001277,Senate,119,CT,2025,2027,
+B001303,House of Representatives,115,DE,2017,2019,
+B001303,House of Representatives,116,DE,2019,2021,
+B001303,House of Representatives,117,DE,2021,2023,
+B001303,House of Representatives,118,DE,2023,2025,
+B001303,Senate,119,DE,2025,2027,
+C001088,Senate,111,DE,2010,2011,
+C001088,Senate,112,DE,2011,2013,
+C001088,Senate,113,DE,2013,2015,
+C001088,Senate,114,DE,2015,2017,
+C001088,Senate,115,DE,2017,2019,
+C001088,Senate,116,DE,2019,2021,
+C001088,Senate,117,DE,2021,2023,
+C001088,Senate,118,DE,2023,2025,
+C001088,Senate,119,DE,2025,2027,
+R000595,Senate,112,FL,2011,2013,
+R000595,Senate,113,FL,2013,2015,
+R000595,Senate,114,FL,2015,2017,
+R000595,Senate,115,FL,2017,2019,
+R000595,Senate,116,FL,2019,2021,
+R000595,Senate,117,FL,2021,2023,
+R000595,Senate,118,FL,2023,2025,
+R000595,Senate,119,FL,2025,2025,
+S001217,Senate,116,FL,2019,2021,
+S001217,Senate,117,FL,2021,2023,
+S001217,Senate,118,FL,2023,2025,
+S001217,Senate,119,FL,2025,2027,
+M001244,Senate,119,FL,2025,2027,
+O000174,Senate,117,GA,2021,2023,
+O000174,Senate,118,GA,2023,2025,
+O000174,Senate,119,GA,2025,2027,
+W000790,Senate,117,GA,2021,2023,
+W000790,Senate,118,GA,2023,2025,
+W000790,Senate,119,GA,2025,2027,
+H001042,House of Representatives,110,HI,2007,2009,2.0
+H001042,House of Representatives,111,HI,2009,2011,2.0
+H001042,House of Representatives,112,HI,2011,2013,2.0
+H001042,Senate,113,HI,2013,2015,
+H001042,Senate,114,HI,2015,2017,
+H001042,Senate,115,HI,2017,2019,
+H001042,Senate,116,HI,2019,2021,
+H001042,Senate,117,HI,2021,2023,
+H001042,Senate,118,HI,2023,2025,
+H001042,Senate,119,HI,2025,2027,
+S001194,Senate,112,HI,2012,2013,
+S001194,Senate,113,HI,2013,2015,
+S001194,Senate,114,HI,2015,2017,
+S001194,Senate,115,HI,2017,2019,
+S001194,Senate,116,HI,2019,2021,
+S001194,Senate,117,HI,2021,2023,
+S001194,Senate,118,HI,2023,2025,
+S001194,Senate,119,HI,2025,2027,
+C000880,House of Representatives,103,ID,1993,1995,2.0
+C000880,House of Representatives,104,ID,1995,1997,2.0
+C000880,House of Representatives,105,ID,1997,1999,2.0
+C000880,Senate,106,ID,1999,2001,
+C000880,Senate,107,ID,2001,2003,
+C000880,Senate,108,ID,2003,2005,
+C000880,Senate,109,ID,2005,2007,
+C000880,Senate,110,ID,2007,2009,
+C000880,Senate,111,ID,2009,2011,
+C000880,Senate,112,ID,2011,2013,
+C000880,Senate,113,ID,2013,2015,
+C000880,Senate,114,ID,2015,2017,
+C000880,Senate,115,ID,2017,2019,
+C000880,Senate,116,ID,2019,2021,
+C000880,Senate,117,ID,2021,2023,
+C000880,Senate,118,ID,2023,2025,
+C000880,Senate,119,ID,2025,2027,
+R000584,Senate,111,ID,2009,2011,
+R000584,Senate,112,ID,2011,2013,
+R000584,Senate,113,ID,2013,2015,
+R000584,Senate,114,ID,2015,2017,
+R000584,Senate,115,ID,2017,2019,
+R000584,Senate,116,ID,2019,2021,
+R000584,Senate,117,ID,2021,2023,
+R000584,Senate,118,ID,2023,2025,
+R000584,Senate,119,ID,2025,2027,
+D000563,House of Representatives,98,IL,1983,1985,20.0
+D000563,House of Representatives,99,IL,1985,1987,20.0
+D000563,House of Representatives,100,IL,1987,1989,20.0
+D000563,House of Representatives,101,IL,1989,1991,20.0
+D000563,House of Representatives,102,IL,1991,1993,20.0
+D000563,House of Representatives,103,IL,1993,1995,20.0
+D000563,House of Representatives,104,IL,1995,1997,20.0
+D000563,Senate,105,IL,1997,1999,
+D000563,Senate,106,IL,1999,2001,
+D000563,Senate,107,IL,2001,2003,
+D000563,Senate,108,IL,2003,2005,
+D000563,Senate,109,IL,2005,2007,
+D000563,Senate,110,IL,2007,2009,
+D000563,Senate,111,IL,2009,2011,
+D000563,Senate,112,IL,2011,2013,
+D000563,Senate,113,IL,2013,2015,
+D000563,Senate,114,IL,2015,2017,
+D000563,Senate,115,IL,2017,2019,
+D000563,Senate,116,IL,2019,2021,
+D000563,Senate,117,IL,2021,2023,
+D000563,Senate,118,IL,2023,2025,
+D000563,Senate,119,IL,2025,2027,
+D000622,House of Representatives,113,IL,2013,2015,8.0
+D000622,House of Representatives,114,IL,2015,2017,8.0
+D000622,Senate,115,IL,2017,2019,
+D000622,Senate,116,IL,2019,2021,
+D000622,Senate,117,IL,2021,2023,
+D000622,Senate,118,IL,2023,2025,
+D000622,Senate,119,IL,2025,2027,
+Y000064,House of Representatives,112,IN,2011,2013,9.0
+Y000064,House of Representatives,113,IN,2013,2015,9.0
+Y000064,House of Representatives,114,IN,2015,2017,9.0
+Y000064,Senate,115,IN,2017,2019,
+Y000064,Senate,116,IN,2019,2021,
+Y000064,Senate,117,IN,2021,2023,
+Y000064,Senate,118,IN,2023,2025,
+Y000064,Senate,119,IN,2025,2027,
+B001299,House of Representatives,115,IN,2017,2019,3.0
+B001299,House of Representatives,116,IN,2019,2021,3.0
+B001299,House of Representatives,117,IN,2021,2023,3.0
+B001299,House of Representatives,118,IN,2023,2025,3.0
+B001299,Senate,119,IN,2025,2027,
+G000386,House of Representatives,94,IA,1975,1977,3.0
+G000386,House of Representatives,95,IA,1977,1979,3.0
+G000386,House of Representatives,96,IA,1979,1981,3.0
+G000386,Senate,97,IA,1981,1983,
+G000386,Senate,98,IA,1983,1985,
+G000386,Senate,99,IA,1985,1987,
+G000386,Senate,100,IA,1987,1989,
+G000386,Senate,101,IA,1989,1991,
+G000386,Senate,102,IA,1991,1993,
+G000386,Senate,103,IA,1993,1995,
+G000386,Senate,104,IA,1995,1997,
+G000386,Senate,105,IA,1997,1999,
+G000386,Senate,106,IA,1999,2001,
+G000386,Senate,107,IA,2001,2003,
+G000386,Senate,108,IA,2003,2005,
+G000386,Senate,109,IA,2005,2007,
+G000386,Senate,110,IA,2007,2009,
+G000386,Senate,111,IA,2009,2011,
+G000386,Senate,112,IA,2011,2013,
+G000386,Senate,113,IA,2013,2015,
+G000386,Senate,114,IA,2015,2017,
+G000386,Senate,115,IA,2017,2019,
+G000386,Senate,116,IA,2019,2021,
+G000386,Senate,117,IA,2021,2023,
+G000386,Senate,118,IA,2023,2025,
+G000386,Senate,119,IA,2025,2027,
+E000295,Senate,114,IA,2015,2017,
+E000295,Senate,115,IA,2017,2019,
+E000295,Senate,116,IA,2019,2021,
+E000295,Senate,117,IA,2021,2023,
+E000295,Senate,118,IA,2023,2025,
+E000295,Senate,119,IA,2025,2027,
+M001198,House of Representatives,115,KS,2017,2019,1.0
+M001198,House of Representatives,116,KS,2019,2021,1.0
+M001198,Senate,117,KS,2021,2023,
+M001198,Senate,118,KS,2023,2025,
+M001198,Senate,119,KS,2025,2027,
+M000934,House of Representatives,105,KS,1997,1999,1.0
+M000934,House of Representatives,106,KS,1999,2001,1.0
+M000934,House of Representatives,107,KS,2001,2003,1.0
+M000934,House of Representatives,108,KS,2003,2005,1.0
+M000934,House of Representatives,109,KS,2005,2007,1.0
+M000934,House of Representatives,110,KS,2007,2009,1.0
+M000934,House of Representatives,111,KS,2009,2011,1.0
+M000934,Senate,112,KS,2011,2013,
+M000934,Senate,113,KS,2013,2015,
+M000934,Senate,114,KS,2015,2017,
+M000934,Senate,115,KS,2017,2019,
+M000934,Senate,116,KS,2019,2021,
+M000934,Senate,117,KS,2021,2023,
+M000934,Senate,118,KS,2023,2025,
+M000934,Senate,119,KS,2025,2027,
+M000355,Senate,99,KY,1985,1987,
+M000355,Senate,100,KY,1987,1989,
+M000355,Senate,101,KY,1989,1991,
+M000355,Senate,102,KY,1991,1993,
+M000355,Senate,103,KY,1993,1995,
+M000355,Senate,104,KY,1995,1997,
+M000355,Senate,105,KY,1997,1999,
+M000355,Senate,106,KY,1999,2001,
+M000355,Senate,107,KY,2001,2003,
+M000355,Senate,108,KY,2003,2005,
+M000355,Senate,109,KY,2005,2007,
+M000355,Senate,110,KY,2007,2009,
+M000355,Senate,111,KY,2009,2011,
+M000355,Senate,112,KY,2011,2013,
+M000355,Senate,113,KY,2013,2015,
+M000355,Senate,114,KY,2015,2017,
+M000355,Senate,115,KY,2017,2019,
+M000355,Senate,116,KY,2019,2021,
+M000355,Senate,117,KY,2021,2023,
+M000355,Senate,118,KY,2023,2025,
+M000355,Senate,119,KY,2025,2027,
+P000603,Senate,112,KY,2011,2013,
+P000603,Senate,113,KY,2013,2015,
+P000603,Senate,114,KY,2015,2017,
+P000603,Senate,115,KY,2017,2019,
+P000603,Senate,116,KY,2019,2021,
+P000603,Senate,117,KY,2021,2023,
+P000603,Senate,118,KY,2023,2025,
+P000603,Senate,119,KY,2025,2027,
+C001075,House of Representatives,111,LA,2009,2011,6.0
+C001075,House of Representatives,112,LA,2011,2013,6.0
+C001075,House of Representatives,113,LA,2013,2015,6.0
+C001075,Senate,114,LA,2015,2017,
+C001075,Senate,115,LA,2017,2019,
+C001075,Senate,116,LA,2019,2021,
+C001075,Senate,117,LA,2021,2023,
+C001075,Senate,118,LA,2023,2025,
+C001075,Senate,119,LA,2025,2027,
+K000393,Senate,115,LA,2017,2019,
+K000393,Senate,116,LA,2019,2021,
+K000393,Senate,117,LA,2021,2023,
+K000393,Senate,118,LA,2023,2025,
+K000393,Senate,119,LA,2025,2027,
+K000383,Senate,113,ME,2013,2015,
+K000383,Senate,114,ME,2015,2017,
+K000383,Senate,115,ME,2017,2019,
+K000383,Senate,116,ME,2019,2021,
+K000383,Senate,117,ME,2021,2023,
+K000383,Senate,118,ME,2023,2025,
+K000383,Senate,119,ME,2025,2027,
+C001035,Senate,105,ME,1997,1999,
+C001035,Senate,106,ME,1999,2001,
+C001035,Senate,107,ME,2001,2003,
+C001035,Senate,108,ME,2003,2005,
+C001035,Senate,109,ME,2005,2007,
+C001035,Senate,110,ME,2007,2009,
+C001035,Senate,111,ME,2009,2011,
+C001035,Senate,112,ME,2011,2013,
+C001035,Senate,113,ME,2013,2015,
+C001035,Senate,114,ME,2015,2017,
+C001035,Senate,115,ME,2017,2019,
+C001035,Senate,116,ME,2019,2021,
+C001035,Senate,117,ME,2021,2023,
+C001035,Senate,118,ME,2023,2025,
+C001035,Senate,119,ME,2025,2027,
+V000128,House of Representatives,108,MD,2003,2005,8.0
+V000128,House of Representatives,109,MD,2005,2007,8.0
+V000128,House of Representatives,110,MD,2007,2009,8.0
+V000128,House of Representatives,111,MD,2009,2011,8.0
+V000128,House of Representatives,112,MD,2011,2013,8.0
+V000128,House of Representatives,113,MD,2013,2015,8.0
+V000128,House of Representatives,114,MD,2015,2017,8.0
+V000128,Senate,115,MD,2017,2019,
+V000128,Senate,116,MD,2019,2021,
+V000128,Senate,117,MD,2021,2023,
+V000128,Senate,118,MD,2023,2025,
+V000128,Senate,119,MD,2025,2027,
+A000382,Senate,119,MD,2025,2027,
+M000133,House of Representatives,95,MA,1977,1979,7.0
+M000133,House of Representatives,96,MA,1979,1981,7.0
+M000133,House of Representatives,97,MA,1981,1983,7.0
+M000133,House of Representatives,98,MA,1983,1985,7.0
+M000133,House of Representatives,99,MA,1985,1987,7.0
+M000133,House of Representatives,100,MA,1987,1989,7.0
+M000133,House of Representatives,101,MA,1989,1991,7.0
+M000133,House of Representatives,102,MA,1991,1993,7.0
+M000133,House of Representatives,103,MA,1993,1995,7.0
+M000133,House of Representatives,104,MA,1995,1997,7.0
+M000133,House of Representatives,105,MA,1997,1999,7.0
+M000133,House of Representatives,106,MA,1999,2001,7.0
+M000133,House of Representatives,107,MA,2001,2003,7.0
+M000133,House of Representatives,108,MA,2003,2005,7.0
+M000133,House of Representatives,109,MA,2005,2007,7.0
+M000133,House of Representatives,110,MA,2007,2009,7.0
+M000133,House of Representatives,111,MA,2009,2011,7.0
+M000133,House of Representatives,112,MA,2011,2013,7.0
+M000133,House of Representatives,113,MA,2013,2013,5.0
+M000133,Senate,113,MA,2013,2015,
+M000133,Senate,114,MA,2015,2017,
+M000133,Senate,115,MA,2017,2019,
+M000133,Senate,116,MA,2019,2021,
+M000133,Senate,117,MA,2021,2023,
+M000133,Senate,118,MA,2023,2025,
+M000133,Senate,119,MA,2025,2027,
+W000817,Senate,113,MA,2013,2015,
+W000817,Senate,114,MA,2015,2017,
+W000817,Senate,115,MA,2017,2019,
+W000817,Senate,116,MA,2019,2021,
+W000817,Senate,117,MA,2021,2023,
+W000817,Senate,118,MA,2023,2025,
+W000817,Senate,119,MA,2025,2027,
+P000595,House of Representatives,111,MI,2009,2011,9.0
+P000595,House of Representatives,112,MI,2011,2013,9.0
+P000595,House of Representatives,113,MI,2013,2015,14.0
+P000595,Senate,114,MI,2015,2017,
+P000595,Senate,115,MI,2017,2019,
+P000595,Senate,116,MI,2019,2021,
+P000595,Senate,117,MI,2021,2023,
+P000595,Senate,118,MI,2023,2025,
+P000595,Senate,119,MI,2025,2027,
+S001208,House of Representatives,116,MI,2019,2021,8.0
+S001208,House of Representatives,117,MI,2021,2023,8.0
+S001208,House of Representatives,118,MI,2023,2025,7.0
+S001208,Senate,119,MI,2025,2027,
+K000367,Senate,110,MN,2007,2009,
+K000367,Senate,111,MN,2009,2011,
+K000367,Senate,112,MN,2011,2013,
+K000367,Senate,113,MN,2013,2015,
+K000367,Senate,114,MN,2015,2017,
+K000367,Senate,115,MN,2017,2019,
+K000367,Senate,116,MN,2019,2021,
+K000367,Senate,117,MN,2021,2023,
+K000367,Senate,118,MN,2023,2025,
+K000367,Senate,119,MN,2025,2027,
+S001203,Senate,115,MN,2018,2019,
+S001203,Senate,116,MN,2019,2021,
+S001203,Senate,117,MN,2021,2023,
+S001203,Senate,118,MN,2023,2025,
+S001203,Senate,119,MN,2025,2027,
+W000437,House of Representatives,104,MS,1995,1997,1.0
+W000437,House of Representatives,105,MS,1997,1999,1.0
+W000437,House of Representatives,106,MS,1999,2001,1.0
+W000437,House of Representatives,107,MS,2001,2003,1.0
+W000437,House of Representatives,108,MS,2003,2005,1.0
+W000437,House of Representatives,109,MS,2005,2007,1.0
+W000437,House of Representatives,110,MS,2007,2007,1.0
+W000437,Senate,110,MS,2007,2009,
+W000437,Senate,111,MS,2009,2011,
+W000437,Senate,112,MS,2011,2013,
+W000437,Senate,113,MS,2013,2015,
+W000437,Senate,114,MS,2015,2017,
+W000437,Senate,115,MS,2017,2019,
+W000437,Senate,116,MS,2019,2021,
+W000437,Senate,117,MS,2021,2023,
+W000437,Senate,118,MS,2023,2025,
+W000437,Senate,119,MS,2025,2027,
+H001079,Senate,115,MS,2018,2019,
+H001079,Senate,116,MS,2019,2021,
+H001079,Senate,117,MS,2021,2023,
+H001079,Senate,118,MS,2023,2025,
+H001079,Senate,119,MS,2025,2027,
+H001089,Senate,116,MO,2019,2021,
+H001089,Senate,117,MO,2021,2023,
+H001089,Senate,118,MO,2023,2025,
+H001089,Senate,119,MO,2025,2027,
+S001227,Senate,118,MO,2023,2025,
+S001227,Senate,119,MO,2025,2027,
+D000618,House of Representatives,113,MT,2013,2015,
+D000618,Senate,114,MT,2015,2017,
+D000618,Senate,115,MT,2017,2019,
+D000618,Senate,116,MT,2019,2021,
+D000618,Senate,117,MT,2021,2023,
+D000618,Senate,118,MT,2023,2025,
+D000618,Senate,119,MT,2025,2027,
+S001232,Senate,119,MT,2025,2027,
+F000463,Senate,113,NE,2013,2015,
+F000463,Senate,114,NE,2015,2017,
+F000463,Senate,115,NE,2017,2019,
+F000463,Senate,116,NE,2019,2021,
+F000463,Senate,117,NE,2021,2023,
+F000463,Senate,118,NE,2023,2025,
+F000463,Senate,119,NE,2025,2027,
+R000618,Senate,118,NE,2023,2025,
+R000618,Senate,119,NE,2025,2027,
+R000608,House of Representatives,115,NV,2017,2019,3.0
+R000608,Senate,116,NV,2019,2021,
+R000608,Senate,117,NV,2021,2023,
+R000608,Senate,118,NV,2023,2025,
+R000608,Senate,119,NV,2025,2027,
+C001113,Senate,115,NV,2017,2019,
+C001113,Senate,116,NV,2019,2021,
+C001113,Senate,117,NV,2021,2023,
+C001113,Senate,118,NV,2023,2025,
+C001113,Senate,119,NV,2025,2027,
+S001181,Senate,111,NH,2009,2011,
+S001181,Senate,112,NH,2011,2013,
+S001181,Senate,113,NH,2013,2015,
+S001181,Senate,114,NH,2015,2017,
+S001181,Senate,115,NH,2017,2019,
+S001181,Senate,116,NH,2019,2021,
+S001181,Senate,117,NH,2021,2023,
+S001181,Senate,118,NH,2023,2025,
+S001181,Senate,119,NH,2025,2027,
+H001076,Senate,115,NH,2017,2019,
+H001076,Senate,116,NH,2019,2021,
+H001076,Senate,117,NH,2021,2023,
+H001076,Senate,118,NH,2023,2025,
+H001076,Senate,119,NH,2025,2027,
+K000394,House of Representatives,116,NJ,2019,2021,3.0
+K000394,House of Representatives,117,NJ,2021,2023,3.0
+K000394,House of Representatives,118,NJ,2023,2024,3.0
+K000394,Senate,118,NJ,2024,2025,
+K000394,Senate,119,NJ,2025,2027,
+B001288,Senate,113,NJ,2013,2015,
+B001288,Senate,114,NJ,2015,2017,
+B001288,Senate,115,NJ,2017,2019,
+B001288,Senate,116,NJ,2019,2021,
+B001288,Senate,117,NJ,2021,2023,
+B001288,Senate,118,NJ,2023,2025,
+B001288,Senate,119,NJ,2025,2027,
+H001046,House of Representatives,111,NM,2009,2011,1.0
+H001046,House of Representatives,112,NM,2011,2013,1.0
+H001046,Senate,113,NM,2013,2015,
+H001046,Senate,114,NM,2015,2017,
+H001046,Senate,115,NM,2017,2019,
+H001046,Senate,116,NM,2019,2021,
+H001046,Senate,117,NM,2021,2023,
+H001046,Senate,118,NM,2023,2025,
+H001046,Senate,119,NM,2025,2027,
+L000570,House of Representatives,111,NM,2009,2011,3.0
+L000570,House of Representatives,112,NM,2011,2013,3.0
+L000570,House of Representatives,113,NM,2013,2015,3.0
+L000570,House of Representatives,114,NM,2015,2017,3.0
+L000570,House of Representatives,115,NM,2017,2019,3.0
+L000570,House of Representatives,116,NM,2019,2021,3.0
+L000570,Senate,117,NM,2021,2023,
+L000570,Senate,118,NM,2023,2025,
+L000570,Senate,119,NM,2025,2027,
+S000148,House of Representatives,97,NY,1981,1983,16.0
+S000148,House of Representatives,98,NY,1983,1985,10.0
+S000148,House of Representatives,99,NY,1985,1987,10.0
+S000148,House of Representatives,100,NY,1987,1989,10.0
+S000148,House of Representatives,101,NY,1989,1991,10.0
+S000148,House of Representatives,102,NY,1991,1993,10.0
+S000148,House of Representatives,103,NY,1993,1995,9.0
+S000148,House of Representatives,104,NY,1995,1997,9.0
+S000148,House of Representatives,105,NY,1997,1999,9.0
+S000148,Senate,106,NY,1999,2001,
+S000148,Senate,107,NY,2001,2003,
+S000148,Senate,108,NY,2003,2005,
+S000148,Senate,109,NY,2005,2007,
+S000148,Senate,110,NY,2007,2009,
+S000148,Senate,111,NY,2009,2011,
+S000148,Senate,112,NY,2011,2013,
+S000148,Senate,113,NY,2013,2015,
+S000148,Senate,114,NY,2015,2017,
+S000148,Senate,115,NY,2017,2019,
+S000148,Senate,116,NY,2019,2021,
+S000148,Senate,117,NY,2021,2023,
+S000148,Senate,118,NY,2023,2025,
+S000148,Senate,119,NY,2025,2027,
+G000555,House of Representatives,110,NY,2007,2009,20.0
+G000555,House of Representatives,111,NY,2009,2009,20.0
+G000555,Senate,111,NY,2009,2011,
+G000555,Senate,112,NY,2011,2013,
+G000555,Senate,113,NY,2013,2015,
+G000555,Senate,114,NY,2015,2017,
+G000555,Senate,115,NY,2017,2019,
+G000555,Senate,116,NY,2019,2021,
+G000555,Senate,117,NY,2021,2023,
+G000555,Senate,118,NY,2023,2025,
+G000555,Senate,119,NY,2025,2027,
+B001305,House of Representatives,115,NC,2017,2019,13.0
+B001305,House of Representatives,116,NC,2019,2021,13.0
+B001305,House of Representatives,117,NC,2021,2023,13.0
+B001305,Senate,118,NC,2023,2025,
+B001305,Senate,119,NC,2025,2027,
+T000476,Senate,114,NC,2015,2017,
+T000476,Senate,115,NC,2017,2019,
+T000476,Senate,116,NC,2019,2021,
+T000476,Senate,117,NC,2021,2023,
+T000476,Senate,118,NC,2023,2025,
+T000476,Senate,119,NC,2025,2027,
+C001096,House of Representatives,113,ND,2013,2015,
+C001096,House of Representatives,114,ND,2015,2017,
+C001096,House of Representatives,115,ND,2017,2019,
+C001096,Senate,116,ND,2019,2021,
+C001096,Senate,117,ND,2021,2023,
+C001096,Senate,118,ND,2023,2025,
+C001096,Senate,119,ND,2025,2027,
+H001061,Senate,112,ND,2011,2013,
+H001061,Senate,113,ND,2013,2015,
+H001061,Senate,114,ND,2015,2017,
+H001061,Senate,115,ND,2017,2019,
+H001061,Senate,116,ND,2019,2021,
+H001061,Senate,117,ND,2021,2023,
+H001061,Senate,118,ND,2023,2025,
+H001061,Senate,119,ND,2025,2027,
+V000137,Senate,118,OH,2023,2025,
+V000137,Senate,119,OH,2025,2025,
+M001242,Senate,119,OH,2025,2027,
+H001104,Senate,119,OH,2025,2027,
+L000575,House of Representatives,112,OK,2011,2013,5.0
+L000575,House of Representatives,113,OK,2013,2015,5.0
+L000575,Senate,114,OK,2015,2017,
+L000575,Senate,115,OK,2017,2019,
+L000575,Senate,116,OK,2019,2021,
+L000575,Senate,117,OK,2021,2023,
+L000575,Senate,118,OK,2023,2025,
+L000575,Senate,119,OK,2025,2027,
+M001190,House of Representatives,113,OK,2013,2015,2.0
+M001190,House of Representatives,114,OK,2015,2017,2.0
+M001190,House of Representatives,115,OK,2017,2019,2.0
+M001190,House of Representatives,116,OK,2019,2021,2.0
+M001190,House of Representatives,117,OK,2021,2023,2.0
+M001190,Senate,118,OK,2023,2025,
+M001190,Senate,119,OK,2025,2027,
+W000779,House of Representatives,97,OR,1981,1983,3.0
+W000779,House of Representatives,98,OR,1983,1985,3.0
+W000779,House of Representatives,99,OR,1985,1987,3.0
+W000779,House of Representatives,100,OR,1987,1989,3.0
+W000779,House of Representatives,101,OR,1989,1991,3.0
+W000779,House of Representatives,102,OR,1991,1993,3.0
+W000779,House of Representatives,103,OR,1993,1995,3.0
+W000779,House of Representatives,104,OR,1995,1996,3.0
+W000779,Senate,104,OR,1996,1997,
+W000779,Senate,105,OR,1997,1999,
+W000779,Senate,106,OR,1999,2001,
+W000779,Senate,107,OR,2001,2003,
+W000779,Senate,108,OR,2003,2005,
+W000779,Senate,109,OR,2005,2007,
+W000779,Senate,110,OR,2007,2009,
+W000779,Senate,111,OR,2009,2011,
+W000779,Senate,112,OR,2011,2013,
+W000779,Senate,113,OR,2013,2015,
+W000779,Senate,114,OR,2015,2017,
+W000779,Senate,115,OR,2017,2019,
+W000779,Senate,116,OR,2019,2021,
+W000779,Senate,117,OR,2021,2023,
+W000779,Senate,118,OR,2023,2025,
+W000779,Senate,119,OR,2025,2027,
+M001176,Senate,111,OR,2009,2011,
+M001176,Senate,112,OR,2011,2013,
+M001176,Senate,113,OR,2013,2015,
+M001176,Senate,114,OR,2015,2017,
+M001176,Senate,115,OR,2017,2019,
+M001176,Senate,116,OR,2019,2021,
+M001176,Senate,117,OR,2021,2023,
+M001176,Senate,118,OR,2023,2025,
+M001176,Senate,119,OR,2025,2027,
+F000479,Senate,118,PA,2023,2025,
+F000479,Senate,119,PA,2025,2027,
+M001243,Senate,119,PA,2025,2027,
+R000122,House of Representatives,102,RI,1991,1993,2.0
+R000122,House of Representatives,103,RI,1993,1995,2.0
+R000122,House of Representatives,104,RI,1995,1997,2.0
+R000122,Senate,105,RI,1997,1999,
+R000122,Senate,106,RI,1999,2001,
+R000122,Senate,107,RI,2001,2003,
+R000122,Senate,108,RI,2003,2005,
+R000122,Senate,109,RI,2005,2007,
+R000122,Senate,110,RI,2007,2009,
+R000122,Senate,111,RI,2009,2011,
+R000122,Senate,112,RI,2011,2013,
+R000122,Senate,113,RI,2013,2015,
+R000122,Senate,114,RI,2015,2017,
+R000122,Senate,115,RI,2017,2019,
+R000122,Senate,116,RI,2019,2021,
+R000122,Senate,117,RI,2021,2023,
+R000122,Senate,118,RI,2023,2025,
+R000122,Senate,119,RI,2025,2027,
+W000802,Senate,110,RI,2007,2009,
+W000802,Senate,111,RI,2009,2011,
+W000802,Senate,112,RI,2011,2013,
+W000802,Senate,113,RI,2013,2015,
+W000802,Senate,114,RI,2015,2017,
+W000802,Senate,115,RI,2017,2019,
+W000802,Senate,116,RI,2019,2021,
+W000802,Senate,117,RI,2021,2023,
+W000802,Senate,118,RI,2023,2025,
+W000802,Senate,119,RI,2025,2027,
+S001184,House of Representatives,112,SC,2011,2013,1.0
+S001184,Senate,113,SC,2013,2015,
+S001184,Senate,114,SC,2015,2017,
+S001184,Senate,115,SC,2017,2019,
+S001184,Senate,116,SC,2019,2021,
+S001184,Senate,117,SC,2021,2023,
+S001184,Senate,118,SC,2023,2025,
+S001184,Senate,119,SC,2025,2027,
+G000359,House of Representatives,104,SC,1995,1997,3.0
+G000359,House of Representatives,105,SC,1997,1999,3.0
+G000359,House of Representatives,106,SC,1999,2001,3.0
+G000359,House of Representatives,107,SC,2001,2003,3.0
+G000359,Senate,108,SC,2003,2005,
+G000359,Senate,109,SC,2005,2007,
+G000359,Senate,110,SC,2007,2009,
+G000359,Senate,111,SC,2009,2011,
+G000359,Senate,112,SC,2011,2013,
+G000359,Senate,113,SC,2013,2015,
+G000359,Senate,114,SC,2015,2017,
+G000359,Senate,115,SC,2017,2019,
+G000359,Senate,116,SC,2019,2021,
+G000359,Senate,117,SC,2021,2023,
+G000359,Senate,118,SC,2023,2025,
+G000359,Senate,119,SC,2025,2027,
+T000250,House of Representatives,105,SD,1997,1999,
+T000250,House of Representatives,106,SD,1999,2001,
+T000250,House of Representatives,107,SD,2001,2003,
+T000250,Senate,109,SD,2005,2007,
+T000250,Senate,110,SD,2007,2009,
+T000250,Senate,111,SD,2009,2011,
+T000250,Senate,112,SD,2011,2013,
+T000250,Senate,113,SD,2013,2015,
+T000250,Senate,114,SD,2015,2017,
+T000250,Senate,115,SD,2017,2019,
+T000250,Senate,116,SD,2019,2021,
+T000250,Senate,117,SD,2021,2023,
+T000250,Senate,118,SD,2023,2025,
+T000250,Senate,119,SD,2025,2027,
+R000605,Senate,114,SD,2015,2017,
+R000605,Senate,115,SD,2017,2019,
+R000605,Senate,116,SD,2019,2021,
+R000605,Senate,117,SD,2021,2023,
+R000605,Senate,118,SD,2023,2025,
+R000605,Senate,119,SD,2025,2027,
+B001243,House of Representatives,108,TN,2003,2005,7.0
+B001243,House of Representatives,109,TN,2005,2007,7.0
+B001243,House of Representatives,110,TN,2007,2009,7.0
+B001243,House of Representatives,111,TN,2009,2011,7.0
+B001243,House of Representatives,112,TN,2011,2013,7.0
+B001243,House of Representatives,113,TN,2013,2015,7.0
+B001243,House of Representatives,114,TN,2015,2017,7.0
+B001243,House of Representatives,115,TN,2017,2019,7.0
+B001243,Senate,116,TN,2019,2021,
+B001243,Senate,117,TN,2021,2023,
+B001243,Senate,118,TN,2023,2025,
+B001243,Senate,119,TN,2025,2027,
+H000601,Senate,117,TN,2021,2023,
+H000601,Senate,118,TN,2023,2025,
+H000601,Senate,119,TN,2025,2027,
+C001056,Senate,107,TX,2002,2003,
+C001056,Senate,108,TX,2003,2005,
+C001056,Senate,109,TX,2005,2007,
+C001056,Senate,110,TX,2007,2009,
+C001056,Senate,111,TX,2009,2011,
+C001056,Senate,112,TX,2011,2013,
+C001056,Senate,113,TX,2013,2015,
+C001056,Senate,114,TX,2015,2017,
+C001056,Senate,115,TX,2017,2019,
+C001056,Senate,116,TX,2019,2021,
+C001056,Senate,117,TX,2021,2023,
+C001056,Senate,118,TX,2023,2025,
+C001056,Senate,119,TX,2025,2027,
+C001098,Senate,113,TX,2013,2015,
+C001098,Senate,114,TX,2015,2017,
+C001098,Senate,115,TX,2017,2019,
+C001098,Senate,116,TX,2019,2021,
+C001098,Senate,117,TX,2021,2023,
+C001098,Senate,118,TX,2023,2025,
+C001098,Senate,119,TX,2025,2027,
+C001114,House of Representatives,115,UT,2017,2019,3.0
+C001114,House of Representatives,116,UT,2019,2021,3.0
+C001114,House of Representatives,117,UT,2021,2023,3.0
+C001114,House of Representatives,118,UT,2023,2025,3.0
+C001114,Senate,119,UT,2025,2027,
+L000577,Senate,112,UT,2011,2013,
+L000577,Senate,113,UT,2013,2015,
+L000577,Senate,114,UT,2015,2017,
+L000577,Senate,115,UT,2017,2019,
+L000577,Senate,116,UT,2019,2021,
+L000577,Senate,117,UT,2021,2023,
+L000577,Senate,118,UT,2023,2025,
+L000577,Senate,119,UT,2025,2027,
+W000800,House of Representatives,110,VT,2007,2009,
+W000800,House of Representatives,111,VT,2009,2011,
+W000800,House of Representatives,112,VT,2011,2013,
+W000800,House of Representatives,113,VT,2013,2015,
+W000800,House of Representatives,114,VT,2015,2017,
+W000800,House of Representatives,115,VT,2017,2019,
+W000800,House of Representatives,116,VT,2019,2021,
+W000800,House of Representatives,117,VT,2021,2023,
+W000800,Senate,118,VT,2023,2025,
+W000800,Senate,119,VT,2025,2027,
+S000033,House of Representatives,102,VT,1991,1993,
+S000033,House of Representatives,103,VT,1993,1995,
+S000033,House of Representatives,104,VT,1995,1997,
+S000033,House of Representatives,105,VT,1997,1999,
+S000033,House of Representatives,106,VT,1999,2001,
+S000033,House of Representatives,107,VT,2001,2003,
+S000033,House of Representatives,108,VT,2003,2005,
+S000033,House of Representatives,109,VT,2005,2007,
+S000033,Senate,110,VT,2007,2009,
+S000033,Senate,111,VT,2009,2011,
+S000033,Senate,112,VT,2011,2013,
+S000033,Senate,113,VT,2013,2015,
+S000033,Senate,114,VT,2015,2017,
+S000033,Senate,115,VT,2017,2019,
+S000033,Senate,116,VT,2019,2021,
+S000033,Senate,117,VT,2021,2023,
+S000033,Senate,118,VT,2023,2025,
+S000033,Senate,119,VT,2025,2027,
+W000805,Senate,111,VA,2009,2011,
+W000805,Senate,112,VA,2011,2013,
+W000805,Senate,113,VA,2013,2015,
+W000805,Senate,114,VA,2015,2017,
+W000805,Senate,115,VA,2017,2019,
+W000805,Senate,116,VA,2019,2021,
+W000805,Senate,117,VA,2021,2023,
+W000805,Senate,118,VA,2023,2025,
+W000805,Senate,119,VA,2025,2027,
+K000384,Senate,113,VA,2013,2015,
+K000384,Senate,114,VA,2015,2017,
+K000384,Senate,115,VA,2017,2019,
+K000384,Senate,116,VA,2019,2021,
+K000384,Senate,117,VA,2021,2023,
+K000384,Senate,118,VA,2023,2025,
+K000384,Senate,119,VA,2025,2027,
+C000127,House of Representatives,103,WA,1993,1995,1.0
+C000127,Senate,107,WA,2001,2003,
+C000127,Senate,108,WA,2003,2005,
+C000127,Senate,109,WA,2005,2007,
+C000127,Senate,110,WA,2007,2009,
+C000127,Senate,111,WA,2009,2011,
+C000127,Senate,112,WA,2011,2013,
+C000127,Senate,113,WA,2013,2015,
+C000127,Senate,114,WA,2015,2017,
+C000127,Senate,115,WA,2017,2019,
+C000127,Senate,116,WA,2019,2021,
+C000127,Senate,117,WA,2021,2023,
+C000127,Senate,118,WA,2023,2025,
+C000127,Senate,119,WA,2025,2027,
+M001111,Senate,103,WA,1993,1995,
+M001111,Senate,104,WA,1995,1997,
+M001111,Senate,105,WA,1997,1999,
+M001111,Senate,106,WA,1999,2001,
+M001111,Senate,107,WA,2001,2003,
+M001111,Senate,108,WA,2003,2005,
+M001111,Senate,109,WA,2005,2007,
+M001111,Senate,110,WA,2007,2009,
+M001111,Senate,111,WA,2009,2011,
+M001111,Senate,112,WA,2011,2013,
+M001111,Senate,113,WA,2013,2015,
+M001111,Senate,114,WA,2015,2017,
+M001111,Senate,115,WA,2017,2019,
+M001111,Senate,116,WA,2019,2021,
+M001111,Senate,117,WA,2021,2023,
+M001111,Senate,118,WA,2023,2025,
+M001111,Senate,119,WA,2025,2027,
+C001047,House of Representatives,107,WV,2001,2003,2.0
+C001047,House of Representatives,108,WV,2003,2005,2.0
+C001047,House of Representatives,109,WV,2005,2007,2.0
+C001047,House of Representatives,110,WV,2007,2009,2.0
+C001047,House of Representatives,111,WV,2009,2011,2.0
+C001047,House of Representatives,112,WV,2011,2013,2.0
+C001047,House of Representatives,113,WV,2013,2015,2.0
+C001047,Senate,114,WV,2015,2017,
+C001047,Senate,115,WV,2017,2019,
+C001047,Senate,116,WV,2019,2021,
+C001047,Senate,117,WV,2021,2023,
+C001047,Senate,118,WV,2023,2025,
+C001047,Senate,119,WV,2025,2027,
+J000312,Senate,119,WV,2025,2027,
+B001230,House of Representatives,106,WI,1999,2001,2.0
+B001230,House of Representatives,107,WI,2001,2003,2.0
+B001230,House of Representatives,108,WI,2003,2005,2.0
+B001230,House of Representatives,109,WI,2005,2007,2.0
+B001230,House of Representatives,110,WI,2007,2009,2.0
+B001230,House of Representatives,111,WI,2009,2011,2.0
+B001230,House of Representatives,112,WI,2011,2013,2.0
+B001230,Senate,113,WI,2013,2015,
+B001230,Senate,114,WI,2015,2017,
+B001230,Senate,115,WI,2017,2019,
+B001230,Senate,116,WI,2019,2021,
+B001230,Senate,117,WI,2021,2023,
+B001230,Senate,118,WI,2023,2025,
+B001230,Senate,119,WI,2025,2027,
+J000293,Senate,112,WI,2011,2013,
+J000293,Senate,113,WI,2013,2015,
+J000293,Senate,114,WI,2015,2017,
+J000293,Senate,115,WI,2017,2019,
+J000293,Senate,116,WI,2019,2021,
+J000293,Senate,117,WI,2021,2023,
+J000293,Senate,118,WI,2023,2025,
+J000293,Senate,119,WI,2025,2027,
+L000571,House of Representatives,111,WY,2009,2011,
+L000571,House of Representatives,112,WY,2011,2013,
+L000571,House of Representatives,113,WY,2013,2015,
+L000571,House of Representatives,114,WY,2015,2017,
+L000571,Senate,117,WY,2021,2023,
+L000571,Senate,118,WY,2023,2025,
+L000571,Senate,119,WY,2025,2027,
+B001261,Senate,110,WY,2007,2009,
+B001261,Senate,111,WY,2009,2011,
+B001261,Senate,112,WY,2011,2013,
+B001261,Senate,113,WY,2013,2015,
+B001261,Senate,114,WY,2015,2017,
+B001261,Senate,115,WY,2017,2019,
+B001261,Senate,116,WY,2019,2021,
+B001261,Senate,117,WY,2021,2023,
+B001261,Senate,118,WY,2023,2025,
+B001261,Senate,119,WY,2025,2027,
