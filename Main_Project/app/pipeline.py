@@ -9,16 +9,16 @@ from nba_api.stats.endpoints import playergamelog, teamgamelog
 from config import RAW_DIR, PROCESSED_DIR, PLAYER_NAMES, SEASONS, SEASON_TYPE
 
 
-# Helpers 
+#Helpers functions
 def _safe_sleep(seconds: float = 0.7) -> None:
-    """Simple rate-limit to avoid NBA stats throttling."""
+    """Simple rate-limit to avoid NBA stats throttling"""
     time.sleep(seconds)
 
 
 def resolve_player_ids(player_names: List[str]) -> pd.DataFrame:
     """
-    Resolve player full names -> player_id using nba_api static registry.
-    Returns a dim_players table.
+    Resolve player full names to player_id using nba_api static registry
+    Returns a dim_players table
     """
     rows = []
     for name in player_names:
@@ -26,7 +26,7 @@ def resolve_player_ids(player_names: List[str]) -> pd.DataFrame:
         if not matches:
             raise ValueError(f"Could not find player: {name}")
 
-        # Choose best match: prefer active player if multiple
+        #choosing the best match: prefer active player if multiple
         matches_sorted = sorted(matches, key=lambda x: x.get("is_active", False), reverse=True)
         p = matches_sorted[0]
 
@@ -44,7 +44,7 @@ def resolve_player_ids(player_names: List[str]) -> pd.DataFrame:
 
 def extract_player_gamelogs(dim_players: pd.DataFrame, seasons: List[str]) -> pd.DataFrame:
     """
-    Extract player game logs for each player_id x season.
+    Extract player game logs for each player_id * season.
     """
     all_logs = []
     for season in seasons:
@@ -70,7 +70,7 @@ def extract_player_gamelogs(dim_players: pd.DataFrame, seasons: List[str]) -> pd
 
             except Exception as e:
                 # Keep moving tonight; we’ll log failures
-                print(f"[WARN] Failed gamelog for {pname} ({pid}) {season}: {e}")
+                print(f"Error: Failed gamelog for {pname} ({pid}) {season}: {e}")
 
     if not all_logs:
         return pd.DataFrame()
@@ -80,18 +80,18 @@ def extract_player_gamelogs(dim_players: pd.DataFrame, seasons: List[str]) -> pd
 
 def extract_teams_dim() -> pd.DataFrame:
     """
-    Extract team metadata (static).
+    Extract team metadata (which is static).
     """
     t = teams.get_teams()
     df = pd.DataFrame(t)
-    # common fields: id, full_name, abbreviation, nickname, city, state, year_founded
+    #common fields: id, full_name, abbreviation, nickname, city, state, year_founded
     df = df.rename(columns={"id": "team_id"})
     return df
 
 
 def extract_team_gamelogs(seasons: List[str]) -> pd.DataFrame:
     """
-    Extract team game logs for all teams x season.
+    Extract team game logs for all teams * season.
     """
     dim_teams = extract_teams_dim()
     all_logs = []
@@ -118,7 +118,7 @@ def extract_team_gamelogs(seasons: List[str]) -> pd.DataFrame:
                 all_logs.append(df)
 
             except Exception as e:
-                print(f"[WARN] Failed teamlog for {tname} ({tid}) {season}: {e}")
+                print(f"Error: Failed teamlog for {tname} ({tid}) {season}: {e}")
 
     if not all_logs:
         return pd.DataFrame()
@@ -126,14 +126,14 @@ def extract_team_gamelogs(seasons: List[str]) -> pd.DataFrame:
     return pd.concat(all_logs, ignore_index=True)
 
 
-# ---------- Transform ----------
+#transforming the data
 def clean_player_games(df: pd.DataFrame) -> pd.DataFrame:
     if df.empty:
         return df
 
     out = df.copy()
 
-    #normalize column names to snake_case-ish (minimal)
+    #making column names consistent, simple, and predictable using a lightweight version of snake_case
     out.columns = [c.lower() for c in out.columns]
     #remove duplicate column labels (e.g., player_id)
     if out.columns.duplicated().any():

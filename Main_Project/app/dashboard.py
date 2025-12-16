@@ -25,6 +25,10 @@ def main():
     st.set_page_config(page_title="NBA Player Dashboard", layout="wide")
     st.title("NBA Player Performance Dashboard (2023–24 & 2024–25)")
 
+    st.caption(
+    "This dashboard visualizes NBA player performance using a reproducible "
+    )
+
     # Load
     if not FACT_PATH.exists() or not TRENDS_PATH.exists() or not PLAYERS_PATH.exists():
         st.error("Processed data not found. Run: python Main_Project/app/pipeline.py")
@@ -32,13 +36,13 @@ def main():
 
     fact, trends, players = load_data()
 
-    # Ensure datetime
+    #ensure datetime
     if "game_date" in fact.columns:
         fact["game_date"] = pd.to_datetime(fact["game_date"], errors="coerce")
     if "game_date" in trends.columns:
         trends["game_date"] = pd.to_datetime(trends["game_date"], errors="coerce")
 
-    # Sidebar filters
+    #sidebar filters
     st.sidebar.header("Filters")
 
     player_options = sorted(players["player_name"].unique().tolist())
@@ -63,11 +67,11 @@ def main():
 
     use_rolling = st.sidebar.checkbox("Show rolling 10-game average (if available)", value=True)
 
-    # Filter data
+    #filter data
     fact_f = fact[(fact["player_name"] == selected_player) & (fact["season"].isin(selected_seasons))].copy()
     trends_f = trends[(trends["player_name"] == selected_player) & (trends["season"].isin(selected_seasons))].copy()
 
-    # Date range (based on available)
+    #date range (based on available)
     if not fact_f.empty and "game_date" in fact_f.columns:
         min_d = fact_f["game_date"].min()
         max_d = fact_f["game_date"].max()
@@ -76,10 +80,10 @@ def main():
         fact_f = fact_f[(fact_f["game_date"] >= start) & (fact_f["game_date"] <= end)]
         trends_f = trends_f[(trends_f["game_date"] >= start) & (trends_f["game_date"] <= end)]
 
-    # Tabs
+    #tabs
     tab1, tab2, tab3 = st.tabs(["Player Trends", "Season Summary", "Recent Form"])
 
-    # ---- TAB 1: Trends ----
+    #TAB 1: Trends
     with tab1:
         st.subheader(f"{selected_player}: {metric_label} over time")
 
@@ -96,7 +100,7 @@ def main():
             )
             st.plotly_chart(fig, use_container_width=True)
 
-            # Rolling average overlay
+            #rolling average overlay
             roll_col = f"{metric}_roll10"
             if use_rolling and roll_col in trends_f.columns:
                 trends_f = trends_f.sort_values("game_date")
@@ -108,7 +112,7 @@ def main():
         st.subheader("Raw game log (filtered)")
         st.dataframe(fact_f, use_container_width=True, height=350)
 
-    # ---- TAB 2: Season Summary ----
+    #TAB 2:Season Summary
     with tab2:
         st.subheader("Per-season averages (selected player)")
 
@@ -126,7 +130,7 @@ def main():
 
         st.markdown("---")
         st.subheader("Leaderboard (selected seasons)")
-        # League table restricted to your 10 players
+        #League table restricted to your 10 players since thats what i wanted to look into first for this project
         league_f = fact[fact["season"].isin(selected_seasons)].copy()
         cols = [c for c in ["pts", "reb", "ast", "stl", "blk", "tov", "min"] if c in league_f.columns]
         leaderboard = (
@@ -138,7 +142,7 @@ def main():
         )
         st.dataframe(leaderboard, use_container_width=True, height=450)
 
-    # ---- TAB 3: Recent Form ----
+    #TAB 3: Recent Form
     with tab3:
         st.subheader("Last 10 games vs season average")
 
